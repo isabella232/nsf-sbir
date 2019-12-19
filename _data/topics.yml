@@ -35,8 +35,8 @@
   awardeeName: 3DEO, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '902492942'
-  fundsObligatedAmt: '899999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1399999'
+  fundProgramName: SBIR Phase II
   id: '1757478'
   piEmail: matt.petros@3deo.co
   piFirstName: Matthew
@@ -45,7 +45,7 @@
   poName: Linda Molnar
   date: 03/05/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 02/28/2022
   title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
 - abstractText: |-
     The broader impact/commercial potential of this project is in the development of a more efficient wind energy production technology. This technology will make wind energy more economically attractive, improve the energy security of the U.S., create hundreds of jobs and help to reduce coal and natural gas emissions by providing an alternative renewable energy source. An expected reduction in the levelized cost of energy (LCOE) by 8% would help reducing the price of this energy and signing of more wind power purchase agreements. Therefore US citizens would be paying less money out of their pockets on their electric bills. Additionally, big reduction of the cost of wind energy has attracted over $100 billion in private investment since 2008. An expected 10% increase in Annual Energy Production (AEP) would power an extra 1.8 million homes, reduce carbon pollution by 12.5 million metric tons and generate $180 million a year in tax payments to communities. Finally, the innovation proposed in this application has the potential to address both the efficiency demands of wind farm owners (reducing the break-even times) and providing a disruptive design innovation to turbine manufacturers for them to have a sustainable competitive edge.
@@ -59,7 +59,7 @@
   awardeeStateCode: NJ
   awardeeZipCode: 088072380
   fundsObligatedAmt: '145381'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1549223'
   piEmail: arturovillegasvaquero@gmail.com
   piFirstName: Arturo
@@ -83,7 +83,7 @@
   awardeeStateCode: NJ
   awardeeZipCode: 088072380
   fundsObligatedAmt: '898955'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660224'
   piEmail: arturovillegasvaquero@gmail.com
   piFirstName: Arturo
@@ -92,7 +92,7 @@
   poName: Linda Molnar
   date: 03/24/2017
   startDate: 03/15/2017
-  expDate: 08/31/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  AERODYNAMIC FLOW DEFLECTOR FOR CURRENT AND FUTURE WIND TURBINES
     TO INCREASE THE ANNUAL ENERGY PRODUCTION BY 10% AND REDUCE THE LEVELIZED COST
     OF ENERGY BY 8%'
@@ -107,7 +107,7 @@
   awardeeStateCode: TN
   awardeeZipCode: '374053878'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1520482'
   piEmail: platt@branchtechnology.co
   piFirstName: Robert
@@ -130,7 +130,7 @@
   awardeeStateCode: TN
   awardeeZipCode: '374053878'
   fundsObligatedAmt: '1399999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632267'
   piEmail: platt@branchtechnology.co
   piFirstName: Robert
@@ -170,12 +170,12 @@
     system for continuous production of crude magnesium. The goal of the project is
     to produce a casted magnesium product and prove the reduction of energy intensity
     and economic feasibility with a techno-economic analysis."
-  awardeeAddress: 10526 W 106TH Pl
+  awardeeAddress: 6710 W 112TH PL
   awardeeCity: Westminster
   awardeeCountryCode: US
   awardeeName: Big Blue Technologies LLC
   awardeeStateCode: CO
-  awardeeZipCode: '800213604'
+  awardeeZipCode: '800203040'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
   id: '1622824'
@@ -199,8 +199,8 @@
   awardeeName: Big Blue Technologies LLC
   awardeeStateCode: CO
   awardeeZipCode: '800203040'
-  fundsObligatedAmt: '750000'
-  fundProgramName: STTR PHASE II
+  fundsObligatedAmt: '889999'
+  fundProgramName: STTR Phase II
   id: '1738536'
   piEmail: palumbo@bigbluetec.com
   piFirstName: Aaron
@@ -209,7 +209,7 @@
   poName: Linda Molnar
   date: 09/19/2017
   startDate: 09/15/2017
-  expDate: 11/30/2019
+  expDate: 05/31/2020
   title: 'STTR Phase II:  Continuous Production and Collection of Magnesium via Carbothermal
     Reduction'
 - abstractText: "This Small Business Innovation Research Phase I project is aimed
@@ -252,7 +252,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '130789664'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1215340'
   piEmail: npodkaminer@construction-robotics.com
   piFirstName: Nate
@@ -304,7 +304,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '130789664'
   fundsObligatedAmt: '1455234'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1330154'
   piEmail: speters@construction-robotics.com
   piFirstName: Scott
@@ -326,7 +326,7 @@
   awardeeStateCode: OR
   awardeeZipCode: '974031842'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1721773'
   piEmail: beth@unspuntech.com
   piFirstName: Elizabeth
@@ -350,8 +350,8 @@
   awardeeName: unspun, Inc.
   awardeeStateCode: OR
   awardeeZipCode: '974031842'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1399999'
+  fundProgramName: SBIR Phase II
   id: '1831088'
   piEmail: beth@unspuntech.com
   piFirstName: Elizabeth
@@ -361,7 +361,7 @@
   poName: Linda Molnar
   date: 09/14/2018
   startDate: 09/15/2018
-  expDate: 08/31/2020
+  expDate: 08/31/2021
   title: 'SBIR Phase II:  An additive method for manufacturing customized textile
     products'
 - abstractText: "This Small Business Innovation Research Phase I project will address
@@ -392,7 +392,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 022102384
   fundsObligatedAmt: '149564'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1520205'
   piEmail: apaxson@drop-wise.com
   piFirstName: Adam
@@ -415,8 +415,8 @@
   awardeeName: DropWise Technologies Corp.
   awardeeStateCode: MA
   awardeeZipCode: 022102384
-  fundsObligatedAmt: '724037'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '868837'
+  fundProgramName: SBIR Phase II
   id: '1660225'
   piEmail: apaxson@drop-wise.com
   piFirstName: Adam
@@ -426,7 +426,7 @@
   poName: Benaiah Schrag
   date: 03/28/2017
   startDate: 04/01/2017
-  expDate: 09/30/2019
+  expDate: 03/31/2020
   title: 'SBIR Phase II:  Anti-fouling surface modifications for purification membranes'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
     test the efficacy of high-volume scaled microorganisms with the ability to induce
@@ -548,7 +548,7 @@
   awardeeStateCode: CO
   awardeeZipCode: '800274489'
   fundsObligatedAmt: '149686'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1520520'
   piEmail: chris@mallinda.com
   piFirstName: Chris
@@ -570,8 +570,8 @@
   awardeeName: Mallinda, LLC
   awardeeStateCode: CO
   awardeeZipCode: '800274489'
-  fundsObligatedAmt: '908623'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1408623'
+  fundProgramName: SBIR Phase II
   id: '1632199'
   piEmail: philip@mallinda.com
   piFirstName: Philip
@@ -581,7 +581,7 @@
   poName: Benaiah Schrag
   date: 09/21/2016
   startDate: 10/01/2016
-  expDate: 06/30/2019
+  expDate: 12/31/2020
   title: 'SBIR Phase II:  Development of Advanced Composite Materials for Athletic
     Equipment'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
@@ -611,7 +611,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948061971'
   fundsObligatedAmt: '1245012'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660246'
   piEmail: ati.haghdoost@maxterial.com
   piFirstName: Atieh
@@ -657,7 +657,7 @@
   awardeeStateCode: MI
   awardeeZipCode: '499132701'
   fundsObligatedAmt: '177590'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1416025'
   piEmail: matt@neuvokascorp.com
   piFirstName: Matthew
@@ -708,7 +708,7 @@
   awardeeStateCode: MI
   awardeeZipCode: '499132701'
   fundsObligatedAmt: '1403184'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1534785'
   piEmail: matt@neuvokascorp.com
   piFirstName: Matthew
@@ -757,7 +757,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941033734'
   fundsObligatedAmt: '148754'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1416612'
   piEmail: mgmt@baylabs.io
   piFirstName: Charles
@@ -780,7 +780,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941033734'
   fundsObligatedAmt: '1376062'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1556103'
   piEmail: mgmt@baylabs.io
   piFirstName: Charles
@@ -851,7 +851,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '947101413'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1345920'
   piEmail: jadietrich@lygos.com
   piFirstName: Jeffrey
@@ -874,7 +874,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '947101413'
   fundsObligatedAmt: '1425979'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1456071'
   piEmail: jadietrich@lygos.com
   piFirstName: Jeffrey
@@ -935,12 +935,12 @@
     can help diversify their product offering and considerably increase their margins.
     \ Application of Arzeda?s proven technology of computational enzyme design to
     bring to the world a high-yield fermentation route for LA will considerably advance"
-  awardeeAddress: 2715 W Fort St
+  awardeeAddress: 3421 Thorndyke Ave W
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: ARZEDA Corp.
   awardeeStateCode: WA
-  awardeeZipCode: '981991224'
+  awardeeZipCode: '981190000'
   fundsObligatedAmt: '149894'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1114078'
@@ -1042,12 +1042,12 @@
     at a considerable higher price than ethanol, the current product of most commercial
     bio-refineries, and thus can help diversify their product offering and considerably
     increase their margins."
-  awardeeAddress: 2715 W Fort St
+  awardeeAddress: 3421 Thorndyke Ave W
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: ARZEDA Corp.
   awardeeStateCode: WA
-  awardeeZipCode: '981991224'
+  awardeeZipCode: '981190000'
   fundsObligatedAmt: '613014'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1256625'
@@ -1142,7 +1142,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941073007'
   fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1549773'
   piEmail: zachary.sun@gmail.com
   piFirstName: Zachary
@@ -1190,7 +1190,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941073007'
   fundsObligatedAmt: '764400'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: '1758591'
   piEmail: zachary.sun@gmail.com
   piFirstName: Zachary
@@ -1200,7 +1200,7 @@
   poName: Ruth Shuman
   date: 02/26/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 08/31/2020
   title: 'STTR Phase II:  An On-Demand, Computational and Microfluidic-Driven Cell-Free
     Protein Engineering Platform'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -1291,8 +1291,8 @@
   awardeeName: Living Ink Technologies, LLC
   awardeeStateCode: CO
   awardeeZipCode: '805212025'
-  fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '909999'
+  fundProgramName: SBIR Phase II
   id: '1758587'
   piEmail: scott.fulbright@livinginktechnologies.com
   piFirstName: Scott
@@ -1302,7 +1302,7 @@
   poName: Ruth Shuman
   date: 03/08/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  Engineering novel pigmented cyanobacteria for the use in
     the ink, printing and colorant industries'
 - abstractText: |-
@@ -1316,7 +1316,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940256908'
   fundsObligatedAmt: '269772'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1622257'
   piEmail: dseftel@gmail.com
   piFirstName: David
@@ -1365,7 +1365,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940256908'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1758698'
   piEmail: dseftel@gmail.com
   piFirstName: David
@@ -1516,7 +1516,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 021385390
   fundsObligatedAmt: '719999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1738463'
   piEmail: csantos@manusbio.com
   piFirstName: Christine
@@ -1525,7 +1525,7 @@
   poName: Ruth Shuman
   date: 08/30/2017
   startDate: 09/01/2017
-  expDate: 08/31/2019
+  expDate: 12/31/2019
   title: 'SBIR Phase II:  Development of a low-cost production platform through engineered
     bacteria for a novel natural acaricide.'
 - abstractText: |-
@@ -1541,7 +1541,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940801913'
   fundsObligatedAmt: '750000'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: '1759075'
   piEmail: ryan@navan-tech.com
   piFirstName: Ryan
@@ -1694,7 +1694,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '276073009'
   fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1758659'
   piEmail: ramin.karimpour@als-s.com
   piFirstName: Ramin
@@ -1706,77 +1706,6 @@
   expDate: 01/31/2020
   title: 'SBIR Phase II:  Innovative High Throughput Automated System for Individualized
     Poultry Vaccination and Recognition and Removal of Unhealthy Chicks'
-- abstractText: |-
-    Broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project  is to (1) improve the decision making towards protein therapeutics development (also known as developability), (2) reduce Research and Development costs for the Biotechnology industry in general, (3) improve timelines of new protein therapeutic candidates, thus proceeding to clinical phase trials sooner,  (4) resulting in fewer candidate withdrawals from clinical trials, (5) reduce risk associated with protein aggregation and immunogenicity, a potentially fatal outcome; leading to (6) overall quicker times for approval-to-market, and finally (7) a reduction of product recall risk. The market opportunity for protein characterization and identification market by instruments also known as life sciences tools is estimated to be $ 80-85 billion dollars. Our product is an innovative patented technology platform and related services which will support the developability evaluation of new protein therapeutic candidates in the biologics and biosimilars product portfolio. As an additional funding source, we have adopted the production of a high quality aggregate free potential diagnostic candidate biomarker for prostrate and pancreatic cancer to allow for further research and development in other research institutions.  Completion of Phase I in the evaluation of formulation conditions of protein therapeutics including monoclonal antibodies (mAbs) will ensure progress towards the development of a high throughput platform for Phase II evaluation.
-
-
-    The proposed project will address the current bottleneck of new protein therapeutics within the biologics and biosimilars industry due to protein aggregation. This is the single most prevalent reason that has hampered the release of biotherapeutics into the market. Protein aggregation leads to loss of efficacy and potentially to immunogenicity risks.  Formulation is critical to downstream processing, dosing, storage, and delivery of protein therapeutics. Our goal is to test different formulation conditions through the use of Design of Experiment strategies to identify the formulation conditions under which the monoclonal antibody candidate is stable and aggregation free, even under stress.   We have designed an innovative patented platform using two dimensional infrared (2D IR) correlation spectroscopy and perturbation correlation (PC) analysis which is accurate, reproducible and does not use probes to determine the mechanism and extent of aggregation, and stability of a mAb. A potential outcome will be the developability assessment of novel candidates ensuring a pipeline of protein therapeutics early in the research and development. If successful, Phase II will involve a high-throughput platform to address the evaluation of protein aggregation in plasma and final IV delivery conditions, for the design of a predictive model for immunogenicity risk assessment.
-  awardeeAddress: 11 Audubon Road
-  awardeeCity: Wakefield
-  awardeeCountryCode: US
-  awardeeName: Protein Dynamic Solutions, LLC
-  awardeeStateCode: MA
-  awardeeZipCode: 018800000
-  fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1447918'
-  piEmail: prot.dyn.soln@gmail.com
-  piFirstName: Belinda
-  piLastName: Pastrana
-  piPhone: '7874586932'
-  poName: Jesus Soriano Molla
-  date: 12/11/2014
-  startDate: 01/01/2015
-  expDate: 12/31/2015
-  title: 'SBIR Phase I:  Novel, Accurate and Reproducible Platform for the Developability
-    Assessment of Protein Therapeutics'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project will address ALL of the factors attributing to
-    protein aggregation by determining the: size, identity, extent, mechanism of aggregation
-    and stability, thus addressing Biopharma industry needs. This information is critical
-    to the development of drug pipeline contributing to a $190 BN biologic's market
-    where $87BN in first generation biologics face patent expiration before 2020.
-    A successful technical approach for its implementation will provide essential
-    information for decision making towards which candidates will enter the market,
-    thus increasing the Biopharma valuation and ensuring supply of drugs to patients.
-    In the end, improving the quality of life of patients with chronic diseases.\n\nThe
-    proposed project will address the need for a multivariate high-throughput technology
-    to address the risk of protein aggregation, that when adopted in R&D, will increase
-    pipeline approvals, reduce late stage withdrawals and total costs of drug development.
-    Average R&D development costs for the mere 1% of candidates reaching FDA approval
-    have risen to $2.6 BN per product. Protein therapeutic development needs to be
-    guided by a full understanding of protein stability and aggregation. \nResearch
-    objectives are to: develop our innovative First-in-Class high throughput platform
-    for screening protein therapeutics; develop original software capable of deciphering
-    protein aggregation mechanism, size, identity and extent of aggregated protein
-    and product stability; commercialize the innovative technology platform. Fully
-    automated evaluation of protein candidates during early R&D phase will be conducted.
-    Best-in-class image acquisition technology will be employed towards this end,
-    using a label free chemical mapping technology, dedicated software using auto
-    recognition algorithms, and correlations to decipher protein aggregation. We through
-    the use of its breakthrough technology will determine: the aggregate free candidate
-    under various stressor conditions, optimum formulation conditions for the protein
-    therapeutic, the most stable candidate, and electronic data reporting that establishes
-    accuracy, reproducibility, critical quality attributes of the protein product."
-  awardeeAddress: 11 Audubon Road
-  awardeeCity: Wakefield
-  awardeeCountryCode: US
-  awardeeName: Protein Dynamic Solutions, LLC
-  awardeeStateCode: MA
-  awardeeZipCode: 018800000
-  fundsObligatedAmt: '1425999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632420'
-  piEmail: belinda@pdsbio.com
-  piFirstName: Belinda
-  piLastName: Pastrana
-  piPhone: '7874586932'
-  poName: Ruth Shuman
-  date: 09/13/2016
-  startDate: 09/15/2016
-  expDate: 02/28/2021
-  title: 'SBIR Phase II:  Novel, Accurate and Reproducible Platform for the Developability
-    Assessment of Protein Therapeutics'
 - abstractText: "This Small Business Innovation Research Phase I project will demonstrate
     the feasibility of the use of a debris cartridge in an implant to prevent obstruction
     in debris-releasing glaucomas, such as uveitic, pigment-dispersion, and pseudoexfoliation
@@ -1810,7 +1739,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '277092076'
   fundsObligatedAmt: '149978'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248632'
   piEmail: lucinda.camras@camrasvision.com
   piFirstName: Lucinda
@@ -1856,7 +1785,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '277092076'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1447738'
   piEmail: lucinda.camras@camrasvision.com
   piFirstName: Lucinda
@@ -1879,7 +1808,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '277092076'
   fundsObligatedAmt: '1365805'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1555923'
   piEmail: lucinda.camras@camrasvision.com
   piFirstName: Lucinda
@@ -1888,7 +1817,7 @@
   poName: Ruth Shuman
   date: 02/17/2016
   startDate: 03/01/2016
-  expDate: 11/30/2019
+  expDate: 05/31/2020
   title: 'SBIR Phase II:  Adjustable Eye Pressure Control within an External Shunt'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
     develop a cholesterol-enriched biomimetic toxin nanopsonges with enhanced toxin-binding
@@ -2016,7 +1945,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940801967'
   fundsObligatedAmt: '1419607'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1431033'
   piEmail: mara.macdonald@cytovale.com
   piFirstName: Mara
@@ -2092,7 +2021,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '943011420'
   fundsObligatedAmt: '1463132'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1430719'
   piEmail: matthew.callaghan@onebreathventilators.com
   piFirstName: Matthew
@@ -2115,7 +2044,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '782301957'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1110189'
   piEmail: jcsalamone@yahoo.com
   piFirstName: Joseph
@@ -2140,9 +2069,9 @@
   awardeeStateCode: CT
   awardeeZipCode: 064682809
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1519784'
-  piEmail: gloria@elidah.com
+  piEmail: gloroko@gmail.com
   piFirstName: Gloria
   piLastName: Kolb
   piPhone: '7819850563'
@@ -2162,17 +2091,17 @@
   awardeeName: Elidah, Inc.
   awardeeStateCode: CT
   awardeeZipCode: 064682809
-  fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1022930'
+  fundProgramName: SBIR Phase II
   id: '1630203'
-  piEmail: gloria@elidah.com
+  piEmail: gloroko@gmail.com
   piFirstName: Gloria
   piLastName: Kolb
   piPhone: '7819850563'
   poName: Henry Ahn
   date: 09/07/2016
   startDate: 09/15/2016
-  expDate: 04/30/2019
+  expDate: 04/30/2020
   title: 'SBIR Phase II:  Novel Treatment for Stress Urinary Incontinence'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will be to increase global access to vaccines
@@ -2211,7 +2140,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 021391226
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448195'
   piEmail: Kathryn@vaxess.com
   piFirstName: Kathryn
@@ -2262,7 +2191,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 021391226
   fundsObligatedAmt: '1409999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632434'
   piEmail: Kathryn@vaxess.com
   piFirstName: Kathryn
@@ -2284,7 +2213,7 @@
   awardeeStateCode: CT
   awardeeZipCode: 060321913
   fundsObligatedAmt: '179937'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448244'
   piEmail: nicole.wagner508@gmail.com
   piFirstName: Nicole
@@ -2336,7 +2265,7 @@
   awardeeStateCode: CT
   awardeeZipCode: 060321913
   fundsObligatedAmt: '1037071'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632465'
   piEmail: nicole.wagner508@gmail.com
   piFirstName: Nicole
@@ -2346,7 +2275,7 @@
   poName: Ruth Shuman
   date: 08/29/2016
   startDate: 09/01/2016
-  expDate: 12/31/2019
+  expDate: 06/30/2020
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -2438,7 +2367,7 @@
   awardeeStateCode: IL
   awardeeZipCode: '606404510'
   fundsObligatedAmt: '1250969'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660240'
   piEmail: j.w.gunn@briteseed.com
   piFirstName: Jonathan
@@ -2462,7 +2391,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 018010000
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248115'
   piEmail: kjarrell@modulargenetics.com
   piFirstName: Kevin
@@ -2515,7 +2444,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 018010000
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1621495'
   piEmail: kjarrell@modulargenetics.com
   piFirstName: Kevin
@@ -2565,7 +2494,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 018010000
   fundsObligatedAmt: '1604998'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1353912'
   piEmail: kjarrell@modulargenetics.com
   piFirstName: Kevin
@@ -2587,7 +2516,7 @@
   awardeeStateCode: ND
   awardeeZipCode: '581025706'
   fundsObligatedAmt: '224981'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1416983'
   piEmail: bret.chisholm@renuvix.com
   piFirstName: Bret
@@ -2611,7 +2540,7 @@
   awardeeStateCode: ND
   awardeeZipCode: '581025706'
   fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1556069'
   piEmail: ihor.tarnavchyk@renuvix.com
   piFirstName: Ihor
@@ -2634,7 +2563,7 @@
   awardeeStateCode: NE
   awardeeZipCode: '685032495'
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1215217'
   piEmail: kielneumann@gmail.com
   piFirstName: Kiel
@@ -2684,7 +2613,7 @@
   awardeeStateCode: NE
   awardeeZipCode: '685032495'
   fundsObligatedAmt: '1361310'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1353246'
   piEmail: elyons@gfpharma.com
   piFirstName: Edward
@@ -2694,7 +2623,7 @@
   poName: Anna Brady-Estevez
   date: 04/03/2014
   startDate: 04/15/2014
-  expDate: 06/30/2019
+  expDate: 05/31/2020
   title: 'SBIR Phase II:  PET Radiotracer Synthesis'
 - abstractText: |-
     This Small Business Innovation Research Phase I project aims to increase the effectiveness of oxidative enzymes of high potential in chemical synthesis and chemical remediation applications.  Enzyme-based systems, the greenest and most energy efficient processes known to-date, are replacing chemical-based systems due to their superior potential for energy savings and environmental benefits. While at the forefront of the green chemistry revolution, however, enzyme-based systems are difficult to come by. Their adoption has not been as fast, as widespread, or as beneficial as it otherwise could be because oxidative enzymes are not cost effective enough to replace chemicals. This project is developing an integrated technology for oxidative enzymes for industrial use. The project objectives consist of (1) manufacturing continuous flow reactors dedicated to processing ZYMtronix?s catalysts, (2) developing a synthesis process for key pharmaceutical precursors used in cancer treatment, and (3) demonstrating the remediation application for industrial contaminants. The anticipated technical results will benchmark reactor characteristics and the catalytic metrics of the aforementioned processes.
@@ -2707,7 +2636,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '148537202'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1345963'
   piEmail: Stephane.Corgie.zymtronix@gmail.com
   piFirstName: Stephane
@@ -2755,7 +2684,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '148537202'
   fundsObligatedAmt: '1087654'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1456279'
   piEmail: Stephane.Corgie.zymtronix@gmail.com
   piFirstName: Stephane
@@ -2779,7 +2708,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '947102737'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1647601'
   piEmail: ben@saratoga-energy.com
   piFirstName: Benjamin
@@ -2830,7 +2759,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '947102737'
   fundsObligatedAmt: '722669'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1831078'
   piEmail: ben@saratoga-energy.com
   piFirstName: Benjamin
@@ -2854,7 +2783,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '148506273'
   fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1720824'
   piEmail: jason@dimensionalenergy.net
   piFirstName: Jason
@@ -2898,8 +2827,8 @@
   awardeeName: Dimensional Energy Inc.
   awardeeStateCode: NY
   awardeeZipCode: '148506273'
-  fundsObligatedAmt: '734607'
-  fundProgramName: STTR PHASE II
+  fundsObligatedAmt: '880184'
+  fundProgramName: STTR Phase II
   id: '1831166'
   piEmail: jason@dimensionalenergy.net
   piFirstName: Jason
@@ -2908,7 +2837,7 @@
   poName: Anna Brady-Estevez
   date: 09/07/2018
   startDate: 09/15/2018
-  expDate: 08/31/2020
+  expDate: 02/28/2021
   title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
     Converting CO2 to Hydrocarbons'
 - abstractText: |-
@@ -2922,7 +2851,7 @@
   awardeeStateCode: PA
   awardeeZipCode: '191021710'
   fundsObligatedAmt: '169999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448289'
   piEmail: johnnosek@verizon.net
   piFirstName: John
@@ -2945,8 +2874,8 @@
   awardeeName: Guiding Technologies Corporation
   awardeeStateCode: PA
   awardeeZipCode: '191021710'
-  fundsObligatedAmt: '932657'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1000170'
+  fundProgramName: SBIR Phase II
   id: '1632257'
   piEmail: johnnosek@verizon.net
   piFirstName: John
@@ -2956,7 +2885,7 @@
   poName: Ruth Shuman
   date: 08/03/2016
   startDate: 08/01/2016
-  expDate: 07/31/2019
+  expDate: 07/31/2020
   title: 'SBIR Phase II:  Using Data Mining to Optimally Customize Therapy for Individuals
     with Autism'
 - abstractText: |-
@@ -3012,7 +2941,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '208143202'
   fundsObligatedAmt: '149683'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1415819'
   piEmail: hisenstein@careprogress.com
   piFirstName: Howard
@@ -3054,7 +2983,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '208143202'
   fundsObligatedAmt: '1024282'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1534685'
   piEmail: hisenstein@careprogress.com
   piFirstName: Howard
@@ -3077,7 +3006,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1416215'
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
@@ -3101,7 +3030,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1621996'
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
@@ -3124,8 +3053,8 @@
   awardeeName: Radial Analytics, Inc.
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
-  fundsObligatedAmt: '1425999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1496989'
+  fundProgramName: SBIR Phase II
   id: '1534781'
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
@@ -3151,7 +3080,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
   fundsObligatedAmt: '925999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1758650'
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
@@ -3193,7 +3122,7 @@
   awardeeStateCode: WI
   awardeeZipCode: '537171945'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1345927'
   piEmail: roger.chylla@healthmyne.com
   piFirstName: Roger
@@ -3217,7 +3146,7 @@
   awardeeStateCode: WI
   awardeeZipCode: '537171945'
   fundsObligatedAmt: '1176541'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1456353'
   piEmail: roger.chylla@healthmyne.com
   piFirstName: Roger
@@ -3253,7 +3182,7 @@
   awardeeStateCode: FL
   awardeeZipCode: '326016280'
   fundsObligatedAmt: '269999'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1448967'
   piEmail: sherry.benton@taoconnect.org
   piFirstName: Sherry
@@ -3274,8 +3203,8 @@
   awardeeName: TAO Connect, Inc.
   awardeeStateCode: FL
   awardeeZipCode: '326016280'
-  fundsObligatedAmt: '860802'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1360084'
+  fundProgramName: SBIR Phase II
   id: '1631871'
   piEmail: sherry.benton@taoconnect.org
   piFirstName: Sherry
@@ -3284,7 +3213,7 @@
   poName: Ruth Shuman
   date: 09/19/2016
   startDate: 10/01/2016
-  expDate: 06/30/2019
+  expDate: 06/30/2021
   title: 'SBIR Phase II:  An Intelligent Mental Health Therapy System'
 - abstractText: |-
     This SBIR Phase I project will culminate in an application which teaches beginners to compose their own music. Music is traditionally taught using physical instruments and sheet music, both of which are complex and present imposing financial and practical barriers to creativity. As a result, even though parents value music education highly and research has shown that studying music is beneficial to cognitive and emotional development, the majority of beginning music students drop out during the first year of instruction, before having a chance to express their creativity through music. By using mobile devices as modular teaching tools, the proposed solution will make composition accessible as a first step in learning music. Increasing creativity in beginning music education will decrease the dropout rate for people already studying music, and also make music education accessible for the millions of families nationwide who value music but cannot afford private lessons. By expanding a market for lessons that is already roughly $3 billion per year in the United States, this project has significant revenue and growth potential, in addition to increasing the accessibility and quality of education in the U.S. and worldwide.
@@ -3297,13 +3226,12 @@
   awardeeStateCode: CO
   awardeeZipCode: '802063330'
   fundsObligatedAmt: '165000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548401'
   piEmail: zack@edify.co
   piFirstName: Zachary
   piLastName: Sulsky
   piPhone: '7208377001'
-  poName: Glenn H. Larsen
   date: 11/17/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -3322,7 +3250,7 @@
   awardeeStateCode: CO
   awardeeZipCode: '802063330'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1819802'
   piEmail: jacob@edify.co
   piFirstName: Jacob
@@ -3345,7 +3273,7 @@
   awardeeStateCode: CO
   awardeeZipCode: '802063330'
   fundsObligatedAmt: '927999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660072'
   piEmail: jacob@edify.co
   piFirstName: Jacob
@@ -3369,13 +3297,12 @@
   awardeeStateCode: NY
   awardeeZipCode: '112265519'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1549231'
   piEmail: jessica.o.hendrix@gmail.com
   piFirstName: Jessica
   piLastName: Hendrix
   piPhone: '9178488036'
-  poName: Glenn H. Larsen
   date: 12/21/2015
   startDate: 01/01/2016
   expDate: 06/30/2016
@@ -3392,7 +3319,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '112265519'
   fundsObligatedAmt: '929999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660065'
   piEmail: jessica.o.hendrix@gmail.com
   piFirstName: Jessica
@@ -3415,13 +3342,12 @@
   awardeeStateCode: MA
   awardeeZipCode: 018642636
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248801'
   piEmail: sheela@cuethink.com
   piFirstName: Sheela
   piLastName: Sethuraman
   piPhone: '7816400526'
-  poName: Glenn H. Larsen
   date: 11/08/2012
   startDate: 01/01/2013
   expDate: 06/30/2013
@@ -3439,13 +3365,12 @@
   awardeeStateCode: MA
   awardeeZipCode: 018642636
   fundsObligatedAmt: '177500'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1549094'
   piEmail: sheela@cuethink.com
   piFirstName: Sheela
   piLastName: Sethuraman
   piPhone: '7816400526'
-  poName: Glenn H. Larsen
   date: 10/27/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -3462,13 +3387,12 @@
   awardeeStateCode: MA
   awardeeZipCode: 018642636
   fundsObligatedAmt: '908645'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1353623'
   piEmail: sheela@cuethink.com
   piFirstName: Sheela
   piLastName: Sethuraman
   piPhone: '7816400526'
-  poName: Glenn H. Larsen
   date: 03/20/2014
   startDate: 04/01/2014
   expDate: 07/31/2016
@@ -3485,7 +3409,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 018642636
   fundsObligatedAmt: '1287318'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660216'
   piEmail: sheela@cuethink.com
   piFirstName: Sheela
@@ -3508,13 +3432,12 @@
   awardeeStateCode: MI
   awardeeZipCode: '483011328'
   fundsObligatedAmt: '179927'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548225'
   piEmail: julia@alchem.ie
   piFirstName: Julia
   piLastName: Winter
   piPhone: '2485318117'
-  poName: Glenn H. Larsen
   date: 11/17/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -3529,8 +3452,8 @@
   awardeeName: Alchemie Solutions, Inc.
   awardeeStateCode: MI
   awardeeZipCode: '483011328'
-  fundsObligatedAmt: '858827'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1289841'
+  fundProgramName: SBIR Phase II
   id: '1659983'
   piEmail: julia@alchem.ie
   piFirstName: Julia
@@ -3539,7 +3462,7 @@
   poName: Rajesh Mehta
   date: 03/09/2017
   startDate: 03/01/2017
-  expDate: 08/31/2019
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  Game-Based Learning for Organic Chemistry Using Mechanisms'
 - abstractText: |-
     This SBIR Phase I project will improve the awareness and perception of careers that require science, technology, engineering, and math (STEM) competencies. Career influencers such as parents, educators, and counselors are often not in the position to inform students of potential options and expose unnecessary bias. If kids understood the opportunities, they could pursue academic pathways to amass skills that better prepare them to enter the workforce. STEM competencies are in high-demand and many high-skill jobs sit vacant for long periods of time. This results in lost productivity and exorbitant recruiting fees to pluck qualified candidates from existing jobs. Our nation could be more successful with access to highly skilled resources, especially in the face of the retiring baby boomer population. Career exploration and readiness focused on helping individuals select rewarding and suitable degrees, training, and careers will increase the likelihood that individuals stay in those careers, exhibit greater creativity, and decrease the number of people who invest in education they never use. As more individuals are inspired to pursue STEM, taxpayers will benefit from increased innovation which in turn will provide tax dollars to invest in such things as healthcare, national security, education, or humanitarian assistance.
@@ -3552,13 +3475,12 @@
   awardeeStateCode: CO
   awardeeZipCode: '802183431'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548757'
   piEmail: melissa@couragion.com
   piFirstName: Melissa
   piLastName: Risteff
   piPhone: '7204601744'
-  poName: Glenn H. Larsen
   date: 11/17/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -3573,8 +3495,8 @@
   awardeeName: Couragion Corporation
   awardeeStateCode: CO
   awardeeZipCode: '802183431'
-  fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1159093'
+  fundProgramName: SBIR Phase II
   id: '1660021'
   piEmail: melissa@couragion.com
   piFirstName: Melissa
@@ -3583,7 +3505,7 @@
   poName: Rajesh Mehta
   date: 02/24/2017
   startDate: 03/01/2017
-  expDate: 08/31/2019
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  Science, Technology, Engineering, and Math (STEM) Career
     Literacy & Advocacy'
 - abstractText: "This SBIR Phase I project will determine how a system can be developed
@@ -3627,14 +3549,13 @@
   awardeeStateCode: MD
   awardeeZipCode: '208500393'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448520'
   piEmail: ben@speakagent.com
   piFirstName: Benjamin
   piLastName: Grimley
   piMiddeInitial: L
   piPhone: '2407530358'
-  poName: Glenn H. Larsen
   date: 12/11/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -3651,7 +3572,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '208500393'
   fundsObligatedAmt: '1101062'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632488'
   piEmail: ben@speakagent.com
   piFirstName: Benjamin
@@ -3661,7 +3582,7 @@
   poName: Rajesh Mehta
   date: 08/09/2016
   startDate: 08/15/2016
-  expDate: 01/31/2020
+  expDate: 04/30/2019
   title: 'SBIR Phase II:  A Massive Open Online Platform for Language Learning Content'
 - abstractText: "This SBIR Phase I project focuses on developing an accessible educational
     platform that combines mobile interfaces and adaptive educational tablet applications
@@ -3710,7 +3631,6 @@
   piFirstName: Johnetta
   piLastName: MacCalla
   piPhone: '6789529976'
-  poName: Glenn H. Larsen
   date: 12/11/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -3780,14 +3700,13 @@
   awardeeStateCode: CA
   awardeeZipCode: '921928025'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1520569'
   piEmail: stephen@thoughtstem.com
   piFirstName: Stephen
   piLastName: Foster
   piMiddeInitial: R
   piPhone: '3187922035'
-  poName: Glenn H. Larsen
   date: 05/21/2015
   startDate: 07/01/2015
   expDate: 12/31/2015
@@ -3804,7 +3723,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '921928025'
   fundsObligatedAmt: '1095356'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632539'
   piEmail: stephen@thoughtstem.com
   piFirstName: Stephen
@@ -3858,7 +3777,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '943061043'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1646935'
   piEmail: shivramv@gmail.com
   piFirstName: Shivram
@@ -3883,8 +3802,8 @@
   awardeeName: Looking Glass Ventures, LLC
   awardeeStateCode: CA
   awardeeZipCode: '943061043'
-  fundsObligatedAmt: '969998'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '989998'
+  fundProgramName: SBIR Phase II
   id: '1758301'
   piEmail: shivramv@gmail.com
   piFirstName: Shivram
@@ -3930,7 +3849,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '021433237'
   fundsObligatedAmt: '668220'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1330957'
   piEmail: scasey@vecarius.com
   piFirstName: Steven
@@ -3940,7 +3859,7 @@
   poName: Muralidharan Nair
   date: 09/23/2013
   startDate: 10/01/2013
-  expDate: 08/31/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  High Efficiency, Compact Thermoelectric Generator (TEG)'
 - abstractText: "This Small Business Innovation Research(SBIR) Phase I project will
     demonstrate the feasibility of printing and integrating custom, unconventional
@@ -3982,7 +3901,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '945020000'
   fundsObligatedAmt: '179864'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1153446'
   piEmail: cho@imprintenergy.com
   piFirstName: Christine
@@ -4026,7 +3945,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '945020000'
   fundsObligatedAmt: '1128850'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1256631'
   piEmail: cho@imprintenergy.com
   piFirstName: Christine
@@ -4072,7 +3991,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '276063901'
   fundsObligatedAmt: '179995'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1315275'
   piEmail: chad@grid-bridge.com
   piFirstName: Chad
@@ -4095,7 +4014,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '276063901'
   fundsObligatedAmt: '1639703'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1430911'
   piEmail: chad@grid-bridge.com
   piFirstName: Chad
@@ -4118,7 +4037,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '920240000'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1721809'
   piEmail: gbarin@cyclopure.com
   piFirstName: Gokhan
@@ -4143,12 +4062,13 @@
   awardeeStateCode: CA
   awardeeZipCode: '920240000'
   fundsObligatedAmt: '725665'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1831206'
-  piEmail: gbarin@cyclopure.com
-  piFirstName: Gokhan
-  piLastName: Barin
-  piPhone: '7735640937'
+  piEmail: fcassou@cyclopure.com
+  piFirstName: Frank
+  piLastName: Cassou
+  piMiddeInitial: A
+  piPhone: '9176124649'
   poName: Anna Brady-Estevez
   date: 09/04/2018
   startDate: 09/01/2018
@@ -4182,9 +4102,9 @@
   awardeeStateCode: UT
   awardeeZipCode: '841129460'
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248536'
-  piEmail: doug.later@vaporsens.com
+  piEmail: 01MR146197@SIDDUPLICATE.sid
   piFirstName: Benjamin
   piLastName: Rollins
   piPhone: '9257051225'
@@ -4205,7 +4125,7 @@
   awardeeStateCode: UT
   awardeeZipCode: '841129460'
   fundsObligatedAmt: '1049418'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1353637'
   piEmail: doug.later@vaporsens.com
   piFirstName: Douglas
@@ -4229,7 +4149,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '207423371'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1746976'
   piEmail: jreeds@precisionpolyolefins.com
   piFirstName: Jonathan
@@ -4276,7 +4196,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '207423371'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1345834'
   piEmail: jreeds@precisionpolyolefins.com
   piFirstName: Jonathan
@@ -4328,7 +4248,7 @@
   awardeeStateCode: MD
   awardeeZipCode: '207423371'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1534778'
   piEmail: jreeds@precisionpolyolefins.com
   piFirstName: Jonathan
@@ -4352,7 +4272,7 @@
   awardeeStateCode: VA
   awardeeZipCode: '221804711'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1721607'
   piEmail: jason.dalton@azimuth1.com
   piFirstName: Jason
@@ -4387,7 +4307,7 @@
   awardeeStateCode: VA
   awardeeZipCode: '221804711'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1831137'
   piEmail: jason.dalton@azimuth1.com
   piFirstName: Jason
@@ -4411,7 +4331,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951312912'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1648576'
   piEmail: forrest@deepscale.ai
   piFirstName: Forrest
@@ -4435,7 +4355,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951312912'
   fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1758546'
   piEmail: forrest@deepscale.ai
   piFirstName: Forrest
@@ -4444,7 +4364,7 @@
   poName: Peter Atherton
   date: 04/04/2018
   startDate: 04/01/2018
-  expDate: 06/30/2019
+  expDate: 10/31/2019
   title: 'SBIR Phase II:  Energy-Efficient Perception for Autonomous Road Vehicles'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be large: a successful project would transform the construction industry, making it far more efficient by reducing legal conflicts, schedule slips and poor decision making; the project has the potential to make real estate sales and marketing more efficient by allowing buyers and sellers to accurately represent properties online, reducing the need for on-site visits. The proposed work will enable the fast and easy creation of 100% complete visual documentation of a physical space; this documentation can be generated many times throughout the course of construction. In so doing, the proposed project will allow professionals in the construction industry to track progress and communicate with their teams far more efficiently than ever before. A second exciting effect of the proposal will be the creation of vast, detailed, never before seen datasets of construction projects and real estate, allowing technical innovations in artificial intelligence and computer vision to impact one of the largest industries in the nation and the world. For example, systems could be trained to automatically spot safety concerns, augmenting the efforts of safety managers and keeping workers safer than ever before.
@@ -4457,7 +4377,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941143321'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1721381'
   piEmail: zoinks@gmail.com
   piFirstName: Jeevan
@@ -4482,7 +4402,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941143321'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1830965'
   piEmail: zoinks@gmail.com
   piFirstName: Jeevan
@@ -4505,7 +4425,7 @@
   awardeeStateCode: CO
   awardeeZipCode: '803091756'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1722230'
   piEmail: murad@BeStateless.com
   piFirstName: Murad
@@ -4529,7 +4449,7 @@
   awardeeStateCode: CO
   awardeeZipCode: '803091756'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1831184'
   piEmail: murad@BeStateless.com
   piFirstName: Murad
@@ -4551,7 +4471,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941581629'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1722461'
   piEmail: tabbott@kandralabs.com
   piFirstName: Timothy
@@ -4576,7 +4496,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '941581629'
   fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1831273'
   piEmail: tabbott@kandralabs.com
   piFirstName: Timothy
@@ -4669,7 +4589,7 @@
   awardeeStateCode: CT
   awardeeZipCode: '064432743'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1315663'
   piEmail: eric@mentalcanvas.com
   piFirstName: Eric
@@ -4690,8 +4610,8 @@
   awardeeName: Mental Canvas, LLC
   awardeeStateCode: CT
   awardeeZipCode: '064432743'
-  fundsObligatedAmt: '1204673'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1220673'
+  fundProgramName: SBIR Phase II
   id: '1431013'
   piEmail: info@mentalcanvas.com
   piFirstName: Aaron
@@ -4700,7 +4620,7 @@
   poName: Peter Atherton
   date: 09/08/2014
   startDate: 10/01/2014
-  expDate: 08/31/2019
+  expDate: 12/31/2019
   title: 'SBIR Phase II:  Reimagining Sketch in the Digital Age'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to greatly improve the robustness and diagnosability of many real world cloud computing infrastructures. The proposed technology will significantly reduce the downtime of production cloud systems, which can attract more users to adopt cloud computing technology and thus benefit the expanding segment of society and the economy that depends on cloud technology. The project will also advance the state of the art of cloud system reliability research by putting research results into real world use.
@@ -4713,7 +4633,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '100133141'
   fundsObligatedAmt: '171250'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548867'
   piEmail: chao@insightfinder.com
   piFirstName: Chao
@@ -4753,7 +4673,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '100133141'
   fundsObligatedAmt: '1260000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660219'
   piEmail: jeremy@insightfinder.com
   piFirstName: Jeremy
@@ -4879,7 +4799,7 @@
   awardeeStateCode: AZ
   awardeeZipCode: '857065024'
   fundsObligatedAmt: '149902'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448214'
   piEmail: erik.novak@4dtechnology.com
   piFirstName: Erik
@@ -4926,7 +4846,7 @@
   awardeeStateCode: AZ
   awardeeZipCode: '857065024'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1014221'
   piEmail: james.millerd@4dtechnology.com
   piFirstName: James
@@ -4976,7 +4896,7 @@
   awardeeStateCode: AZ
   awardeeZipCode: '857065024'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1746302'
   piEmail: bkimbrough@nanometrics.com
   piFirstName: Brad
@@ -4988,6 +4908,29 @@
   expDate: 06/30/2018
   title: 'SBIR Phase I:  In Situ Three-dimensional Surface Roughness Gauge'
 - abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
+
+    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
+  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
+  awardeeCity: Tucson
+  awardeeCountryCode: US
+  awardeeName: 4 D Technology Corporation
+  awardeeStateCode: AZ
+  awardeeZipCode: '857065024'
+  fundsObligatedAmt: '1348048'
+  fundProgramName: SBIR Phase II
+  id: '1556049'
+  piEmail: erik.novak@4dtechnology.com
+  piFirstName: Erik
+  piLastName: Novak
+  piPhone: '5202945600'
+  poName: Benaiah Schrag
+  date: 02/17/2016
+  startDate: 03/01/2016
+  expDate: 09/30/2019
+  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
+    System'
+- abstractText: |-
     This Small Business Innovation Research Phase I project will support the development of a novel approach, based on holographic video microscopy, to analyze the physical properties of colloidal dispersions. This technology will have immediate applications in industries as diverse as pharmaceuticals, cosmetics, personal care products, petrochemicals and food, all of which rely on the properties of colloidal dispersions and the microscopic particles from which they are composed. The worldwide market for particle characterization exceeded $5 billion per year in 2012. The present effort's holographic characterization technology extends the state-of-the-art in particle characterization by providing simultaneous information about both the size and the composition of individual particles in dispersion, and by building up a clear picture of the distribution of properties within a sample without relying on models or assumptions. Access to these new dimensions of information will be useful for product development, process control and quality assurance in all of the industrial sectors that rely on the properties of colloidal materials, thereby increasing opportunities for innovation, enhancing product performance, and decreasing manufacturing costs. In addition to capturing a share of the established market for particle characterization, this new product may also broaden the market by creating new application areas.
 
     The intellectual merit of this project resides in transforming holographic video microscopy from an academic research tool to a powerful commercial instrument.  Several innovations are required to make this revolutionary technology commercially viable. In its present incarnation, holographic characterization has been demonstrated with nearly ideal spheres, for which it yields the size to within a nanometer, the complex refractive index to within a part per thousand, and the time-resolved trajectory to within a nanometer in three dimensions. No other particle characterization technique offers such a wealth of particle-resolved information. This Phase I effort will demonstrate the feasibility of holographic particle characterization for a range of non-ideal industrial materials by applying state-of-the-art methods of machine learning to extend the technique's domain of applicability while simultaneously reducing the time per analysis from seconds to tens of milliseconds. This 100-fold acceleration, and the associated reduction in computational cost, will enable the technology to be deployed in large-volume and high-throughput applications. The resulting real-time insights into colloidal dispersions' compositions will improve manufacturing efficiency by identifying and helping to correct process deviations and failures.  In so doing it will reduce product costs in all of the industrial sectors that develop and sell colloidal materials.
@@ -4998,7 +4941,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '100162784'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1519057'
   piEmail: laphilips@gmail.com
   piFirstName: Laura
@@ -5021,8 +4964,8 @@
   awardeeName: Spheryx, Inc
   awardeeStateCode: NY
   awardeeZipCode: '100162784'
-  fundsObligatedAmt: '1268006'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1284006'
+  fundProgramName: SBIR Phase II
   id: '1631815'
   piEmail: laphilips@gmail.com
   piFirstName: Laura
@@ -5138,7 +5081,7 @@
   awardeeStateCode: UT
   awardeeZipCode: '841082204'
   fundsObligatedAmt: '179969'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1345401'
   piEmail: cristian.atria@nviewmed.com
   piFirstName: Cristian
@@ -5187,7 +5130,7 @@
   awardeeStateCode: UT
   awardeeZipCode: '841082204'
   fundsObligatedAmt: '1615512'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1456352'
   piEmail: cristian.atria@nviewmed.com
   piFirstName: Cristian
@@ -5209,7 +5152,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951191456'
   fundsObligatedAmt: '179998'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1247448'
   piEmail: sung@molecularvista.com
   piFirstName: Sung
@@ -5233,7 +5176,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951191456'
   fundsObligatedAmt: '1409994'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1353524'
   piEmail: sung@molecularvista.com
   piFirstName: Sung
@@ -5257,7 +5200,7 @@
   awardeeStateCode: OR
   awardeeZipCode: '972115543'
   fundsObligatedAmt: '224562'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1621444'
   piEmail: evan.thomas@sweetsensors.com
   piFirstName: Evan
@@ -5279,7 +5222,7 @@
   awardeeStateCode: OR
   awardeeZipCode: '972115543'
   fundsObligatedAmt: '899475'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1738321'
   piEmail: daniel.wilson@sweetsensors.com
   piFirstName: Daniel
@@ -5301,7 +5244,7 @@
   awardeeStateCode: NJ
   awardeeZipCode: 085420000
   fundsObligatedAmt: '170000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1549035'
   piEmail: adam@arable.com
   piFirstName: Adam
@@ -5323,8 +5266,8 @@
   awardeeName: Arable Labs, Inc.
   awardeeStateCode: NJ
   awardeeZipCode: 085420000
-  fundsObligatedAmt: '765954'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '915943'
+  fundProgramName: SBIR Phase II
   id: '1660146'
   piEmail: adam@arable.com
   piFirstName: Adam
@@ -5333,7 +5276,7 @@
   poName: Rick Schwerdtfeger
   date: 04/11/2017
   startDate: 04/01/2017
-  expDate: 03/31/2019
+  expDate: 04/30/2020
   title: 'SBIR Phase II:  Advanced Bioeconomic Forecasting Enabled by Next-Generation
     Crop Monitoring'
 - abstractText: |-
@@ -5347,7 +5290,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '100010000'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548648'
   piEmail: haytham@1mmcorp.com
   piFirstName: Haytham
@@ -5370,7 +5313,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '100010000'
   fundsObligatedAmt: '1417997'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660093'
   piEmail: haytham@1mmcorp.com
   piFirstName: Haytham
@@ -5379,7 +5322,7 @@
   poName: Rick Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
-  expDate: 09/30/2021
+  expDate: 12/31/2019
   title: 'SBIR Phase II:  Predicting Musculoskeletal Injury Risk of Material Handling
     Workers with Novel Wearable Devices'
 - abstractText: |-
@@ -5393,7 +5336,7 @@
   awardeeStateCode: OR
   awardeeZipCode: '972124231'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1550231'
   piEmail: sce@iotashome.com
   piFirstName: Sce
@@ -5415,7 +5358,7 @@
   awardeeStateCode: OR
   awardeeZipCode: '972124231'
   fundsObligatedAmt: '727647'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1655520'
   piEmail: sce@iotashome.com
   piFirstName: Sce
@@ -5430,14 +5373,14 @@
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to improve the treatment and decrease the high costs associated with treating patients who suffer severe traumatic brain injuries. This project aims to develop an accurate, affordable (<$100 per use) and non-invasive device to monitor a patient?s intracranial pressure following traumatic brain injury. Increased intracranial pressure can result in serious condition or death, if left untreated. However, the only available method to monitor intracranial pressure is expensive (~$10,000 per patient) and requires neurosurgery. The lack of a method to accurately screen patients to determine who needs surgery results in misdiagnoses and incorrect treatment in about 46% of patients among an estimated 50,000 patients in the US alone, and hundreds of thousands more globally. Successful commercialization of product is expected to result in savings in the range $250 million ever year to the US healthcare system.
 
     The proposed project will test the feasibility of developing a non-invasive intracranial pressure (ICP) monitoring method for use outside of the neuro ICU. To develop an accurate, affordable, and non-invasive ICP monitoring device, the team will first write and validate a software framework that analyzes Cerebral Blood Flow Velocity (CBFV) waveforms. CBFV waveforms are acquired non-invasively by using transcranial Doppler (TCD) ultrasonography. In order to use CBFVs to predict ICP, two novel signal-processing methods will be developed. First, the high noise levels typical to TCD-acquired waveforms will be reduced within a machine-learning framework. Second, we will use a method to track morphological features that predict ICP from the CBFV waveform. Both these approaches to signal processing to analyze CBFV waveforms are entirely novel. This approach is expected to allow for accurate (>92% of area under the diagnostic ROC) non-invasive real time monitoring at an affordable price point that is within current reimbursement limits for TCD procedures.
-  awardeeAddress: 2127 Sawtelle Blvd
+  awardeeAddress: 2440 S. Sepulveda Blvd
   awardeeCity: Los Angeles
   awardeeCountryCode: US
   awardeeName: Neural Analytics
   awardeeStateCode: CA
-  awardeeZipCode: '900256249'
+  awardeeZipCode: '900641744'
   fundsObligatedAmt: '149294'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448525'
   piEmail: robert@neuralanalytics.com
   piFirstName: Robert
@@ -5459,7 +5402,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '900641744'
   fundsObligatedAmt: '753756'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1556110'
   piEmail: robert@neuralanalytics.com
   piFirstName: Robert
@@ -5512,7 +5455,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '148501325'
   fundsObligatedAmt: '174998'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448566'
   piEmail: kwame.amponsah@xallent.com
   piFirstName: Kwame
@@ -5560,8 +5503,8 @@
   awardeeName: Xallent LLC
   awardeeStateCode: NY
   awardeeZipCode: '148501325'
-  fundsObligatedAmt: '941979'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1077593'
+  fundProgramName: SBIR Phase II
   id: '1632534'
   piEmail: kwame.amponsah@xallent.com
   piFirstName: Kwame
@@ -5570,7 +5513,7 @@
   poName: Benaiah Schrag
   date: 09/20/2016
   startDate: 10/01/2016
-  expDate: 03/31/2019
+  expDate: 09/30/2020
   title: 'SBIR Phase II:  Integrated Nano-Electro-Mechanical Scanning Probes for Failure
     Analysis of the 10-Nanometer Node and Beyond'
 - abstractText: |-
@@ -5665,7 +5608,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1343877'
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
@@ -5688,7 +5631,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1747341'
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
@@ -5699,6 +5642,52 @@
   startDate: 01/01/2018
   expDate: 06/30/2019
   title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to drive the next generation of advanced computing
+    power and performance by manufacturing integrated circuits (ICs) at 7 nm and smaller.
+    Today's central processing units (CPUs) contain 7.2 B chips and over 1.2 sextillion
+    chips are manufactured per year. Next generation technology is expected to enable
+    artificial intelligence and machine learning through both conventional computing
+    and potentially new paradigms for transformative applications such as self-driving
+    cars and smart buildings, but new ways are needed to make appropriate chips.  The
+    proposed project will develop a technology to address this need as chipmakers
+    meet their desired goals. \n\nThe proposed project addresses challenges related
+    to high volume manufacturing at the 7 nm node for lithography tools and their
+    components. An EUV photomask, a high commodity component, patterns and replicates
+    integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal
+    manufacturing yield of ~65% and suffer from defectivity during fabrication of
+    its architecture. During operational use the photomask sustains damage from the
+    debris generated by the EUV plasma light source that implants in the mask and
+    inevitably replicates in the wafer, destroying the integrated chip pattern. In
+    high volume manufacturing, these issues manifest in the wafer yield, the reusability
+    of a mask, and drive the need for high cost real-time inspection and metrology.
+    We propose a new EUV photomask which promises a higher robustness to defects,
+    a higher manufacturing yield, better uniformity and more reusability of masks
+    in operations and longer lifetime. The goals of the project are to evaluate new
+    integrated architecture for the EUV mask design, develop a higher yield fabrication
+    process and characterize their EUV performance. More robust architectures reduce
+    capital outlay requirements for in-situ metrology and inspection and ultimately
+    bring down the cost of next generation electronics.\n\nThis award reflects NSF's
+    statutory mission and has been deemed worthy of support through evaluation using
+    the Foundation's intellectual merit and broader impacts review criteria."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SBIR Phase II
+  id: '1927546'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Rick Schwerdtfeger
+  date: 09/23/2019
+  startDate: 10/01/2019
+  expDate: 09/30/2021
+  title: 'SBIR Phase II: Next Generation High Performance EUV Photomasks.'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project are to accelerate the arrival of next generation
     computing technology creating faster, smaller more powerful mobile devices, renewing
@@ -5727,7 +5716,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '1148154'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1457418'
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
@@ -5750,7 +5739,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '146182940'
   fundsObligatedAmt: '269999'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1549700'
   piEmail: lzheleznyak@cleriovision.com
   piFirstName: Len
@@ -5800,7 +5789,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '146182940'
   fundsObligatedAmt: '1250000'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: '1738506'
   piEmail: lzheleznyak@cleriovision.com
   piFirstName: Len
@@ -5845,7 +5834,7 @@
   awardeeStateCode: MI
   awardeeZipCode: '481095001'
   fundsObligatedAmt: '899658'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632467'
   piEmail: sam@endectra.com
   piFirstName: Samuel
@@ -5862,14 +5851,14 @@
     The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be to enable affordable access to quantum annealing quantum computers and to take the complexity out of the programming and application hosting tasks, which currently poses a major barrier of entry for potential users. The company expects quantum computing technology in the next few years to disrupt significant portions of the high-performance-computing environment for optimization problems, which has previously been characterized by slow and incremental performance improvements. This project would yield a platform that both increases the efficiency and lowers the cost of analyzing complex optimization problems, which could spur fast-paced innovation in wide areas of the economy that tackle such issues. These sectors include energy distribution, pharmaceutical design, cancer research, data analytics, cybersecurity, autonomous systems, planning and scheduling activities, financial services such as risk management and portfolio optimization, and basic and applied research in physics and chemistry.  In each of these disciplines, there are optimization-based computational problems that are currently intractable. The results of this research should enable a much larger community of experts to use the power of quantum computing to solve these important but currently intractable problems.
 
     This Small Business Technology Transfer (STTR) Phase I project addresses the need for a cloud-based platform for using quantum annealing computing technology. Quantum annealing computers have come to market in the last few years, and research laboratories and universities have used these machines to explore algorithms that could eventually be solved efficiently on them. Despite advances in performance of quantum annealing computers, little effort has been directed toward developing programming environments and tools that provide simple and inexpensive access to quantum computing capabilities. This project researches a platform-as-a-service (PaaS) with a suite of front-end and back-end tools that efficiently transform high-level computing problems into binary optimization formulations suitable for quantum annealing, simplifying and automating the low-level details and domain knowledge currently necessary to perform useful calculations. This project will further develop the PaaS to include a classical-quantum computing environment and framework for analysis of large data sets using standard distributed computing tools. The research explores the best software tools and platform methods to integrate emerging quantum computing capabilities into workflows by streamlining and making affordable the processing of data and by decomposing real-world problems into sub-problems amenable to quantum computers of today and in the future.
-  awardeeAddress: 125 University Ave, Ste 260
+  awardeeAddress: 550 Hamilton Ave
   awardeeCity: Palo Alto
   awardeeCountryCode: US
   awardeeName: QC Ware Corp.
   awardeeStateCode: CA
-  awardeeZipCode: '943011664'
+  awardeeZipCode: '943012010'
   fundsObligatedAmt: '224258'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1648832'
   piEmail: asier.ozaeta@qcware.com
   piFirstName: Asier
@@ -5908,19 +5897,19 @@
     processors.\n\nThis award reflects NSF's statutory mission and has been deemed
     worthy of support through evaluation using the Foundation's intellectual merit
     and broader impacts review criteria."
-  awardeeAddress: 125 University Ave, Ste 260
+  awardeeAddress: 550 Hamilton Ave
   awardeeCity: Palo Alto
   awardeeCountryCode: US
   awardeeName: QC Ware Corp.
   awardeeStateCode: CA
-  awardeeZipCode: '943011664'
+  awardeeZipCode: '943012010'
   fundsObligatedAmt: '1421129'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1758536'
-  piEmail: asier.ozaeta@qcware.com
-  piFirstName: Asier
-  piLastName: Ozaeta
-  piPhone: '6126073651'
+  piEmail: randall.correll@qcware.com
+  piFirstName: Randall
+  piLastName: Correll
+  piPhone: '7038672395'
   poName: Peter Atherton
   date: 04/04/2018
   startDate: 04/01/2018
@@ -5938,7 +5927,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 024511209
   fundsObligatedAmt: '1110430'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632274'
   piEmail: sdomenikos@tactai.com
   piFirstName: Steven
@@ -5961,7 +5950,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940852916'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1143463'
   piEmail: leeredden@gmail.com
   piFirstName: Lee
@@ -5985,7 +5974,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '940852916'
   fundsObligatedAmt: '999998'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1256596'
   piEmail: leeredden@gmail.com
   piFirstName: Lee
@@ -6026,7 +6015,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 022102397
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1113606'
   piEmail: acworth@artaic.com
   piFirstName: Edward
@@ -6049,7 +6038,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 022102397
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1047077'
   piEmail: acworth@artaic.com
   piFirstName: Edward
@@ -6098,7 +6087,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 022102397
   fundsObligatedAmt: '1305998'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1230364'
   piEmail: acworth@artaic.com
   piFirstName: Edward
@@ -6146,7 +6135,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 022102397
   fundsObligatedAmt: '1524999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1152564'
   piEmail: acworth@artaic.com
   piFirstName: Edward
@@ -6168,7 +6157,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 021381850
   fundsObligatedAmt: '224977'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '1448975'
   piEmail: lael@righthandrobotics.com
   piFirstName: Lael
@@ -6191,7 +6180,7 @@
   awardeeStateCode: MA
   awardeeZipCode: 021381850
   fundsObligatedAmt: '750000'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: '1632460'
   piEmail: lael@righthandrobotics.com
   piFirstName: Lael
@@ -6235,8 +6224,8 @@
   awardeeName: Runtime Verification, Inc.
   awardeeStateCode: IL
   awardeeZipCode: '618012744'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '1399996'
+  fundProgramName: SBIR Phase II
   id: '1660186'
   piEmail: chris.hathhorn@runtimeverification.com
   piFirstName: Chris
@@ -6245,7 +6234,7 @@
   poName: Peter Atherton
   date: 03/14/2017
   startDate: 03/15/2017
-  expDate: 08/31/2019
+  expDate: 05/31/2022
   title: 'SBIR Phase II:  RV-Embedded: Runtime Verification for Embedded Systems'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to enable various low latency video applications that are not possible today.  One of the most interesting is in the area of cloud computing, in which a server in a data center somewhere on the Internet runs a client's application remotely, and delivers the frame-by-frame video to the client's viewer.  This allows for a very cheap client device, consisting of just a video decoder and an input such as a mouse pad, while graphic or compute intensive tasks run on powerful servers in the cloud that can be leased to the client on an as-needed basis.  This server-client model could also be used internally at a company or school, greatly simplifying IT requirements.  And for high security applications there is also an advantage, as all data is stored remotely.  There is nothing local on the user's device to be compromised.  Cloud computing services such as these are already coming on line, but the range of applications they can run is limited by the lack of good low latency video encoding.  Solving this problem opens up a whole new paradigm of how people purchase, maintain and use personal computers and software.
@@ -6258,7 +6247,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951262620'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448012'
   piEmail: Adam.Malamy@NGCodec.com
   piFirstName: Adam
@@ -6281,7 +6270,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '951262620'
   fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632567'
   piEmail: Adam.Malamy@NGCodec.com
   piFirstName: Adam
@@ -6290,9 +6279,32 @@
   poName: Rick Schwerdtfeger
   date: 09/06/2016
   startDate: 09/15/2016
-  expDate: 08/31/2019
+  expDate: 04/30/2019
   title: 'SBIR Phase II:  A hardware FPGA implementation of H.265/HEVC low latency
     video encoder algorithms for professional applications'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be a substantially more effective and efficient error correction scheme for flash memory than exists today. This will provide better reliability and extend the life of flash memory and will have a major impact on several technologies and markets such as enterprise storage at data centers, solid state drives, tablets, smart phones, and other consumer electronics. The flash memory market was estimated to include $30.1 billion in production and sales in 2013 and is expected to grow to $43.9 billion by 2018. The enterprise storage market is estimated to be $1 billion in 2014 and a robust growth is expected over the next few years. A substantial fraction of this market is related to error correction controllers for flash memories which are playing an even more important goal than ever considering the rapid scaling down and increasing capacities of flash memories which introduce more read errors than before.
+
+    This Small Business Innovation Research (SBIR) Phase I project will address and develop tools to overcome problems that have traditionally prevented low-density parity-check (LDPC) codes from being deployed in flash memories  and error correction controllers. A major problem is that these codes have error floors which prevent them from achieving very low error probabilities required in flash memories. In order to overcome this deficiency, new algorithms will be developed to understand the nature of the problem and to eliminate it using advanced signal processing methods. Area and energy efficient decoder technologies will be developed that make LDPC codes suitable for flash applications. This will include research optimizing LDPC based error correction systems for area and energy efficiency and elimination of the error floor problem. It will also include research on optimizing the detailed circuit design.
+  awardeeAddress: 1920 W Villa Maria Rd, Ste 301
+  awardeeCity: Bryan
+  awardeeCountryCode: US
+  awardeeName: TexasLDPC Inc., dba Symbyon Systems
+  awardeeStateCode: TX
+  awardeeZipCode: '778074864'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SBIR Phase I
+  id: '1520137'
+  piEmail: paul@texasldpc.com
+  piFirstName: Paul
+  piLastName: Budnik
+  piPhone: '4083533824'
+  poName: Steven Konsek
+  date: 06/01/2015
+  startDate: 07/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  Area and Energy Efficient Error Floor Free Low-Density Parity-Check
+    Codes Decoder Architecture for Flash Based Storage'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be high performance error correction for flash memory. Error correction plays a critical row in making digital devices reliable. Shrinking semiconductor geometries results in more errors. This has created a special problem for flash memory where the need for more rigorous error correction is approaching a practical limit with the widely used Bose Chaudhuri Hocquengham error correction. Low Density Parity Check (LDPC) is a recognized solution that  can approach the theoretical limits of what is possible. This LDPC based technology can improve lifetime of flash by without the added cost of the existing BCH solution. This technology helps Flash Memory enterprises to use higher density flash to improve storage capacity and cut the storage product costs. Without the superior performance, small size and low power consumption of the LDPC technology, the migration to low cost high capacity flash memories will be seriously slowed. In the absence of a comparable alternative approach, there will be serious limitations on the performance of a vast array of products that depend on highly reliable and economical flash storage.
 
@@ -6304,7 +6316,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '778074864'
   fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1632562'
   piEmail: paul@texasldpc.com
   piFirstName: Paul
@@ -6353,7 +6365,7 @@
   awardeeStateCode: FL
   awardeeZipCode: '328173249'
   fundsObligatedAmt: '149496'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1548591'
   piEmail: chris.adams@multicore-photonics.com
   piFirstName: Christian
@@ -6375,7 +6387,7 @@
   awardeeStateCode: FL
   awardeeZipCode: '328173249'
   fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1660213'
   piEmail: chris.adams@multicore-photonics.com
   piFirstName: Christian
@@ -6397,7 +6409,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '021430000'
   fundsObligatedAmt: '155000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248528'
   piEmail: ben.glass@altaerosenergies.com
   piFirstName: Ben
@@ -6420,7 +6432,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '021430000'
   fundsObligatedAmt: '1240679'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1430989'
   piEmail: ben.glass@altaerosenergies.com
   piFirstName: Ben
@@ -6462,14 +6474,14 @@
     transmitters and receivers hence suffer from severe Doppler distortion. The proposed
     technology dynamically measures, tracks, and compensates for this distortion,
     to enable wireless communication at data rates never before possible underwater."
-  awardeeAddress: 60 Hazelwood Drive
-  awardeeCity: CHAMPAIGN
+  awardeeAddress: 1431 W HUBBARD ST
+  awardeeCity: CHICAGO
   awardeeCountryCode: US
   awardeeName: OceanComm Incorporated
   awardeeStateCode: IL
-  awardeeZipCode: '618200000'
+  awardeeZipCode: '606426308'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448641'
   piEmail: triedl@oceancomm.co
   piFirstName: Thomas
@@ -6511,14 +6523,14 @@
     hence suffer from severe Doppler distortion. The proposed technology dynamically\nmeasures,
     tracks, and compensates for this distortion, to enable wireless communication
     at\ndata rates never before possible underwater."
-  awardeeAddress: 60 Hazelwood Drive
-  awardeeCity: CHAMPAIGN
+  awardeeAddress: 1431 W HUBBARD ST
+  awardeeCity: CHICAGO
   awardeeCountryCode: US
   awardeeName: OceanComm Incorporated
   awardeeStateCode: IL
-  awardeeZipCode: '618200000'
-  fundsObligatedAmt: '920187'
-  fundProgramName: SMALL BUSINESS PHASE II
+  awardeeZipCode: '606426308'
+  fundsObligatedAmt: '1178187'
+  fundProgramName: SBIR Phase II
   id: '1555928'
   piEmail: triedl@oceancomm.co
   piFirstName: Thomas
@@ -6527,7 +6539,7 @@
   poName: Muralidharan Nair
   date: 04/13/2016
   startDate: 04/15/2016
-  expDate: 06/30/2019
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  Megabit-Per-Second Underwater Wireless Communications'
 - abstractText: "The broader impact/commercial potential of this project is to enable
     Wi-Fi and other radio transmissions at up to 10000 times lower power than has
@@ -6608,8 +6620,8 @@
   awardeeName: JEEVA WIRELESS INC
   awardeeStateCode: WA
   awardeeZipCode: '981950001'
-  fundsObligatedAmt: '759996'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '909994'
+  fundProgramName: SBIR Phase II
   id: '1758699'
   piEmail: nsfsbir2@jeevawireless.com
   piFirstName: Aaron
@@ -6619,7 +6631,7 @@
   poName: Muralidharan Nair
   date: 02/06/2018
   startDate: 02/01/2018
-  expDate: 01/31/2020
+  expDate: 07/31/2020
   title: 'SBIR Phase II:  Passive Radio for the Internet of Things'
 - abstractText: |-
     The broader impact/commercial potential of this project is to support rapidly growing wireless data usage with fixed available bandwidth through the provision of more robust synchronization. Modern high-speed communication is heavily dependent on precise synchronization between transmitters and receivers to enable efficient data throughput. This project pioneers an entirely novel technique based on ?Spiral Polynomial Division Multiplexing? (SPDM) to enable precise and efficient synchronization. It offers a new set of approaches for improving synchronization, with possible applications to any communication systems that face extreme spectral efficiency demands, or which are challenged by particularly difficult synchronization problems such as communication with high-speed vehicles such as trains. This project could lead to commercialization across a wide range of communication sectors including but not limited to wireless, mobile internet, unmanned vehicles, automotive, aviation, and Internet of Things. It has major potential applications in both civilian and defense applications. SPDM shows promise in providing more robust communications that are resistant to interference and jamming.
@@ -6632,7 +6644,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '752012112'
   fundsObligatedAmt: '224878'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1621082'
   piEmail: jprothero@astrapi-corp.com
   piFirstName: Jerrold
@@ -6654,8 +6666,8 @@
   awardeeName: Astrapi Corporation
   awardeeStateCode: TX
   awardeeZipCode: '752012112'
-  fundsObligatedAmt: '708803'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundsObligatedAmt: '847587'
+  fundProgramName: SBIR Phase II
   id: '1738453'
   piEmail: jprothero@astrapi-corp.com
   piFirstName: Jerrold
@@ -6665,7 +6677,7 @@
   poName: Muralidharan Nair
   date: 09/21/2017
   startDate: 09/15/2017
-  expDate: 08/31/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  Spiral Polynomial Division Multiplexing'
 - abstractText: "This Small Business Innovation Research Phase I project will develop
     new technology that will enable precise search of sports videos. Users will be
@@ -6851,14 +6863,13 @@
   awardeeStateCode: NC
   awardeeZipCode: '277038030'
   fundsObligatedAmt: '140761'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1013531'
   piEmail: nstasko@novanonline.com
   piFirstName: Nathan
   piLastName: Stasko
   piMiddeInitial: A
   piPhone: '9194858080'
-  poName: Grace Jinliu Wang
   date: 05/25/2010
   startDate: 07/01/2010
   expDate: 12/31/2010
@@ -6893,7 +6904,7 @@
   awardeeStateCode: NC
   awardeeZipCode: '277038030'
   fundsObligatedAmt: '996426'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1127380'
   piEmail: nstasko@novanonline.com
   piFirstName: Nathan
@@ -6939,7 +6950,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248728'
   piEmail: mtoloue@biooscientific.com
   piFirstName: Masoud
@@ -6961,7 +6972,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1047285'
   piEmail: mtoloue@biooscientific.com
   piFirstName: Masoud
@@ -6992,7 +7003,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '146910'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: 0738167
   piEmail: lford@biooscientific.com
   piFirstName: Lance
@@ -7014,7 +7025,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '516000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1230440'
   piEmail: mtoloue@biooscientific.com
   piFirstName: Masoud
@@ -7038,7 +7049,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '802117'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: 0923854
   piEmail: lford@biooscientific.com
   piFirstName: Lance
@@ -7061,7 +7072,7 @@
   awardeeStateCode: TX
   awardeeZipCode: '787441057'
   fundsObligatedAmt: '899999'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1431020'
   piEmail: mtoloue@biooscientific.com
   piFirstName: Masoud
@@ -7185,7 +7196,7 @@
   awardeeStateCode: NY
   awardeeZipCode: '121831518'
   fundsObligatedAmt: '1047588'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1152476'
   piEmail: gavin@ecovativedesign.com
   piFirstName: Gavin
@@ -7233,7 +7244,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248509'
   piEmail: azoss@eksobionics.com
   piFirstName: Adam
@@ -7275,7 +7286,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '200000'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: '0712462'
   piEmail: nathan@berkeleyexoworks.com
   piFirstName: Nathan
@@ -7297,7 +7308,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '150000'
-  fundProgramName: STTR PHASE I
+  fundProgramName: STTR Phase I
   id: 0739552
   piEmail: nathan@berkeleyexoworks.com
   piFirstName: Nathan
@@ -7309,28 +7320,6 @@
   expDate: 12/31/2008
   title: 'STTR Phase I: Lower Extremity Exoskeleton Assist Device for Reducing the
     Risk of Back Injuries among Workers'
-- abstractText: |-
-    This Small Business Technology Transfer (STTR) Phase I research project proposes the development of the design features, sensory system and the control algorithm of an integrated powered knee-ankle power regenerative prosthesis. Despite significant advances in lower limb prosthetics over the past decade, all presently commercially available lower limb prostheses incorporate passive ankle joints. That is, the joints of the prostheses can either store or dissipate energy, but cannot provide any net power over a gait cycle. The inability to deliver joint power significantly impairs the ability of these prostheses to restore many locomotive functions, including level walking, walking up stairs, walking up slopes, running, and jumping, all of which require significant net positive power at the knee joint, ankle joint, or both. The objective of this proposal is to investigate the use of integrated powered knee and ankle joints in transfemoral prostheses that use sensory information from the ground and the wearer. The hypothesis is that a prosthesis with actively powered knee and ankle joints will significantly enhance the mobility of transfemoral amputees while walking on level grounds, as well as stairs and slopes.
-
-    The proposed work will result in new theoretical frameworks for both the control, sensory system, and design of such systems. Major intellectual contributions will include the design of power systems; development of the sensory system to obtain information from the ground and from the user; the development of a control framework for the interactive control of prostheses; and the development of adaptive and robust controllers for impedance modulation during locomotion. This project intends to create principles that provide significantly greater functional capabilities for above-knee amputees. Specifically, the proposed work will enable more natural, stable, and adaptable prostheses. These research elements in this proposal will also form a foundation for powered orthotic systems. Additional significant benefits of this work include fostering a broader awareness and increased sensitivity of young engineers and educational institutions to disability issues. Limb loss also affects a growing number of military personnel serving in recent conflicts, as well as a far larger number of veterans from previous wars.
-  awardeeAddress: 1414 Harbour Way South
-  awardeeCity: Richmond
-  awardeeCountryCode: US
-  awardeeName: Ekso Bionics, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '948043628'
-  fundsObligatedAmt: '150000'
-  fundProgramName: STTR PHASE I
-  id: 0810782
-  piEmail: dylan@berkeleybionics.com
-  piFirstName: Dylan
-  piLastName: Fairbanks
-  piMiddeInitial: M
-  piPhone: '5109083920'
-  date: 04/29/2008
-  startDate: 07/01/2008
-  expDate: 06/30/2009
-  title: 'STTR Phase I: Integrated Powered Knee-Ankle Prosthetic System'
 - abstractText: |-
     This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).
 
@@ -7344,7 +7333,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '1024000'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: 0924037
   piEmail: azoss@eksobionics.com
   piFirstName: Adam
@@ -7357,6 +7346,28 @@
   expDate: 09/30/2013
   title: 'STTR Phase II:   In-Home Rehabilitation System for Post Stroke Patients'
 - abstractText: |-
+    This Small Business Technology Transfer (STTR) Phase I research project proposes the development of the design features, sensory system and the control algorithm of an integrated powered knee-ankle power regenerative prosthesis. Despite significant advances in lower limb prosthetics over the past decade, all presently commercially available lower limb prostheses incorporate passive ankle joints. That is, the joints of the prostheses can either store or dissipate energy, but cannot provide any net power over a gait cycle. The inability to deliver joint power significantly impairs the ability of these prostheses to restore many locomotive functions, including level walking, walking up stairs, walking up slopes, running, and jumping, all of which require significant net positive power at the knee joint, ankle joint, or both. The objective of this proposal is to investigate the use of integrated powered knee and ankle joints in transfemoral prostheses that use sensory information from the ground and the wearer. The hypothesis is that a prosthesis with actively powered knee and ankle joints will significantly enhance the mobility of transfemoral amputees while walking on level grounds, as well as stairs and slopes.
+
+    The proposed work will result in new theoretical frameworks for both the control, sensory system, and design of such systems. Major intellectual contributions will include the design of power systems; development of the sensory system to obtain information from the ground and from the user; the development of a control framework for the interactive control of prostheses; and the development of adaptive and robust controllers for impedance modulation during locomotion. This project intends to create principles that provide significantly greater functional capabilities for above-knee amputees. Specifically, the proposed work will enable more natural, stable, and adaptable prostheses. These research elements in this proposal will also form a foundation for powered orthotic systems. Additional significant benefits of this work include fostering a broader awareness and increased sensitivity of young engineers and educational institutions to disability issues. Limb loss also affects a growing number of military personnel serving in recent conflicts, as well as a far larger number of veterans from previous wars.
+  awardeeAddress: 1414 Harbour Way South
+  awardeeCity: Richmond
+  awardeeCountryCode: US
+  awardeeName: Ekso Bionics, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '948043628'
+  fundsObligatedAmt: '150000'
+  fundProgramName: STTR Phase I
+  id: 0810782
+  piEmail: dylan@berkeleybionics.com
+  piFirstName: Dylan
+  piLastName: Fairbanks
+  piMiddeInitial: M
+  piPhone: '5109083920'
+  date: 04/29/2008
+  startDate: 07/01/2008
+  expDate: 06/30/2009
+  title: 'STTR Phase I: Integrated Powered Knee-Ankle Prosthetic System'
+- abstractText: |-
     This Small Business Technology Transfer (STTR) Phase II project proposes will study the technology barriers associated with creating exoskeleton assist devices for workers in distribution centers and automobile assembly plants. By using these devices, workers can dramatically reduce the load in the
     vertebrae of the lower back when maneuvering parts and boxes. The assist device will take the majority of the load off of the user?s body. Such collaboration between humans and machines has the benefit of the intellectual advantage of humans coupled with the strength advantage of machines. The proposed project involves the University of California at Berkeley as research partner, General Motors Corporation, and the U.S. Postal Service. The end goal is a reduction in back injuries in the workplace which are considered by OSHA the nation?s number one workplace safety problem.
 
@@ -7368,7 +7379,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '500000'
-  fundProgramName: STTR PHASE II
+  fundProgramName: STTR Phase II
   id: 0956801
   piEmail: kurt@berkeleybionics.com
   piFirstName: Kurt
@@ -7392,7 +7403,7 @@
   awardeeStateCode: CA
   awardeeZipCode: '948043628'
   fundsObligatedAmt: '1032000'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1026872'
   piEmail: kurt@berkeleybionics.com
   piFirstName: Kurt
@@ -7415,7 +7426,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1113506'
   piEmail: jason@ginkgobioworks.com
   piFirstName: Jason
@@ -7439,7 +7450,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1248790'
   piEmail: austin@ginkgobioworks.com
   piFirstName: Austin
@@ -7461,7 +7472,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '179999'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1448068'
   piEmail: patrick@ginkgobioworks.com
   piFirstName: Patrick
@@ -7485,7 +7496,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '99981'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: 0912541
   piEmail: rshetty@ginkgobioworks.com
   piFirstName: Reshma
@@ -7532,7 +7543,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '49989'
-  fundProgramName: SMALL BUSINESS PHASE I
+  fundProgramName: SBIR Phase I
   id: '1003426'
   piEmail: rshetty@ginkgobioworks.com
   piFirstName: Reshma
@@ -7554,7 +7565,7 @@
   awardeeStateCode: MA
   awardeeZipCode: '022102413'
   fundsObligatedAmt: '1314964'
-  fundProgramName: SMALL BUSINESS PHASE II
+  fundProgramName: SBIR Phase II
   id: '1256446'
   piEmail: jason@ginkgobioworks.com
   piFirstName: Jason
@@ -7564,7 +7575,7 @@
   poName: Ruth Shuman
   date: 04/09/2013
   startDate: 04/15/2013
-  expDate: 09/30/2019
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
     demonstrate the commercial feasibility of producing high-toughness spider silk
@@ -7713,164 +7724,5 @@
   expDate: 03/31/2015
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
-    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
-  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
-  awardeeCity: Tucson
-  awardeeCountryCode: US
-  awardeeName: 4 D Technology Corporation
-  awardeeStateCode: AZ
-  awardeeZipCode: '857065024'
-  fundsObligatedAmt: '1348048'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556049'
-  piEmail: erik.novak@4dtechnology.com
-  piFirstName: Erik
-  piLastName: Novak
-  piPhone: '5202945600'
-  poName: Ben Schrag
-  date: 02/17/2016
-  startDate: 03/01/2016
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
-    System'
-- abstractText: |-
-    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
-    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
-  awardeeAddress: 405 Young Ct
-  awardeeCity: Erie
-  awardeeCountryCode: US
-  awardeeName: Elementum 3D
-  awardeeStateCode: CO
-  awardeeZipCode: '805162401'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647373'
-  piEmail: jacob@elementum3d.com
-  piFirstName: Jacob
-  piLastName: Nuechterlein
-  piMiddeInitial: S
-  piPhone: '7205459013'
-  poName: Rajesh Mehta
-  date: 11/30/2016
-  startDate: 12/01/2016
-  expDate: 05/31/2017
-  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project is to develop visual search for product recognition
-    in the furniture and home décor vertical.  Text-based searches have revolutionized
-    the ability of people to complete tasks more quickly and efficiently as they are
-    able to find the information they desire in an organized, compiled, and logical
-    manner. Visual search provides the next level of disruption in search capabilities
-    by allowing users to find information even more rapidly and accurately by using
-    images. The deep learning-based software being developed will allow consumers
-    to find products they are interested in, and co-purchase related products, quickly.
-    Further, users will be more engaged through exposure to designer photographs of
-    products (inspirational photography). By helping customers find exactly what they
-    are looking for in a timely manner, user engagement and productivity will be increased.
-    Further, related style-based recommendations will increase purchasing overall.
-    \ Increased spending stimulates economic growth by increasing taxable revenue
-    by retailers, and through increased sales taxes generated from the purchases.
-    \n\nThis Small Business Innovative Research Phase II project seeks to develop
-    a visual search engine that is poised to disrupt retail and ecommerce by switching
-    the focus from text-based to visual search-based exploration. The platform initially
-    targets interior décor and furniture where deep learning techniques are trained
-    to recognize products across a wide range of conditions. In Phase II, the software
-    deep learning architectures will be generalized to enable a broader range of products,
-    and to allow customers more control over design decisions and choices. A client-facing
-    REST API will allow retailers, designers, and media companies to programmatically
-    access functionality of the platform, and build their own user interfaces and
-    apps on top of the deep learning technology. Lastly, it is proposed to develop
-    a white-label app that can be customized for individual retailers who want to
-    distribute this visual search capability to their customers.  Achieving these
-    objectives will create state-of-the-art performance in visual search for applications
-    in interior design, apparel search, real estate search, and product look-up."
-  awardeeAddress: 450 Townsend St. Suite 207
-  awardeeCity: San Francisco
-  awardeeCountryCode: US
-  awardeeName: GrokStyle Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '941071510'
-  fundsObligatedAmt: '747959'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738489'
-  piEmail: founders@grokstyle.com
-  piFirstName: Sean
-  piLastName: Bell
-  piPhone: '6072806026'
-  poName: Peter Atherton
-  date: 09/14/2017
-  startDate: 09/15/2017
-  expDate: 08/31/2019
-  title: 'SBIR Phase II:  Innovative visual search and similarity for decor, apparel,
-    and style'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
-    This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
-  awardeeAddress: 1479 Folsom Street
-  awardeeCity: San Francisco
-  awardeeCountryCode: US
-  awardeeName: Bay Labs, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '941033734'
-  fundsObligatedAmt: '1376062'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556103'
-  piEmail: mgmt@baylabs.io
-  piFirstName: Charles
-  piLastName: Cadieu
-  piMiddeInitial: F
-  piPhone: '5162200119'
-  poName: Peter Atherton
-  date: 04/13/2016
-  startDate: 04/15/2016
-  expDate: 03/31/2020
-  title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
-- abstractText: "The broader impact/commercial potential of this STTR Phase II project
-    will result in significant economic activity through the utilization of waste
-    carbon dioxide. The photo-catalytic reactors funded in the project will lead to
-    novel methods to chemically store energy from the sun.  Each year, human activity
-    releases 38 billion tons of carbon dioxide into the atmosphere.  Dimensional Energy
-    envisions a future in which we can utilize this carbon dioxide as a feedstock
-    for industrial production of hydrocarbon fuels and chemical intermediaries by
-    harnessing the power of the sun. \n\nThis STTR Phase II project proposes to develop
-    HI-Light - a photo-thermo-catalytic reactor platform technology that enables the
-    conversion of CO2 and water to synthesis gas at a rate significantly greater than
-    the state of the art.  The unique feature of the technology is that it uses embedded
-    optical waveguides to evenly distribute light within the reactor, increasing the
-    efficacy of the catalyst and ultimately the productivity of the system.  In Phase
-    I a fully functional integrated prototype reactor was constructed, demonstrating
-    continuous operation, and showing productivity in terms of the grams of hydrocarbon
-    produced per gram of catalyst per hour more than 10x greater than the state of
-    the art.  The approach solves the two major roadblocks in photo-conversion of
-    CO2: (1) the semiconductor catalysts can only use photons with energies greater
-    than their bandgap, which is a small fraction of those present in sunlight and
-    (2) a large fraction of the catalyst material in these reactors is under-utilized
-    due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented,
-    multi-scale approach to enhance light and reagent transport directly to the reaction
-    site and makes use of traditionally unused photons to provide heat and enhance
-    reaction efficiency.\n\nThis award reflects NSF's statutory mission and has been
-    deemed worthy of support through evaluation using the Foundation's intellectual
-    merit and broader impacts review criteria."
-  awardeeAddress: 107 Penny Ln
-  awardeeCity: Ithaca
-  awardeeCountryCode: US
-  awardeeName: Dimensional Energy Inc.
-  awardeeStateCode: NY
-  awardeeZipCode: '148506273'
-  fundsObligatedAmt: '734607'
-  fundProgramName: STTR PHASE II
-  id: '1831166'
-  piEmail: jason@dimensionalenergy.net
-  piFirstName: Jason
-  piLastName: Salfi
-  piPhone: '5107083648'
-  poName: Anna Brady
-  date: 09/07/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
-    Converting CO2 to Hydrocarbons'
 ---
 
