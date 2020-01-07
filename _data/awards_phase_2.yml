@@ -11,7 +11,8 @@
   awardeeZipCode: 027215349
   fundsObligatedAmt: '1250000'
   fundProgramName: SBIR Phase II
-  id: '1632439'
+  id: '1632439'
+  ttopic: et
   piEmail: matthew@locicontrols.com
   piFirstName: Matthew
   piLastName: Laderer
@@ -61,7 +62,8 @@
   awardeeZipCode: '402990000'
   fundsObligatedAmt: '1399989'
   fundProgramName: STTR Phase II
-  id: '1555958'
+  id: '1555958'
+  ttopic: ct
   piEmail: jbharrison@pyrochemcatalyst.com
   piFirstName: Jeffrey
   piLastName: Harrison
@@ -84,7 +86,8 @@
   awardeeZipCode: '021442131'
   fundsObligatedAmt: '921759'
   fundProgramName: SBIR Phase II
-  id: '1660204'
+  id: '1660204'
+  ttopic: ph
   piEmail: roger.diebold@solchroma.com
   piFirstName: Roger
   piLastName: Diebold
@@ -121,7 +124,8 @@
   awardeeZipCode: '197014885'
   fundsObligatedAmt: '1139749'
   fundProgramName: SBIR Phase II
-  id: '1534759'
+  id: '1534759'
+  ttopic: ct
   piEmail: franchessa@thrupore.com
   piFirstName: Franchessa
   piLastName: Sayler
@@ -145,7 +149,8 @@
   awardeeZipCode: '740741192'
   fundsObligatedAmt: '1224771'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1456711'
+  id: '1456711'
+  ttopic: am
   piEmail: saravan@flymaxq.com
   piFirstName: SaravanKumar
   piLastName: Shanmugavelayudam
@@ -169,7 +174,8 @@
   awardeeZipCode: '474044095'
   fundsObligatedAmt: '749999'
   fundProgramName: SBIR Phase II
-  id: '1926806'
+  id: '1926806'
+  ttopic: ph
   piEmail: ellie.symes@thebeecorp.com
   piFirstName: Ellie
   piLastName: Symes
@@ -195,7 +201,8 @@
   awardeeZipCode: '142218504'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926845'
+  id: '1926845'
+  ttopic: bm
   piEmail: vtutino@nvdiag.com
   piFirstName: Vincent
   piLastName: Tutino
@@ -247,7 +254,8 @@
   awardeeZipCode: '117903350'
   fundsObligatedAmt: '729175'
   fundProgramName: SBIR Phase II
-  id: '1926852'
+  id: '1926852'
+  ttopic: ct
   piEmail: balaji@millennialmaterials.com
   piFirstName: Balaji
   piLastName: Sitharaman
@@ -272,7 +280,8 @@
   awardeeZipCode: '945771263'
   fundsObligatedAmt: '747626'
   fundProgramName: SBIR Phase II
-  id: '1831288'
+  id: '1831288'
+  ttopic: ct
   piEmail: jagdish@novolbio.com
   piFirstName: Jagdish
   piLastName: Jethmalani
@@ -326,7 +335,8 @@
   awardeeZipCode: 021393938
   fundsObligatedAmt: '899999'
   fundProgramName: SBIR Phase II
-  id: '1758286'
+  id: '1758286'
+  ttopic: it
   piEmail: evan.kodra@risq.io
   piFirstName: Evan
   piLastName: Kodra
@@ -339,9 +349,9 @@
   title: 'SBIR Phase II:  Climate Analytics Platform for Catastrophe Modeling and
     Risk Management'
 - abstractText: |-
-     This Small Business Innovation Research (SBIR) Phase II project will advance a novel probe-based direct transfer (PBDT) printing technology for manufacturing flexible hybrid electronic (FHE) devices. PBDT promises to deliver unprecedented selective, high-fidelity component transfer of a broad range of low-dimensional, high-performance electronic components with diverse architectures and sizes to flexible substrates. The technology will accelerate manufacturing capability to meet a critical need in the flexible and printed electronics market. The development of a stand-alone, automatic PBDT tool will provide flexible electronics developers and manufacturers an unparalleled solution for integrating high-performance thin and ultra-thin electronic materials into next-generation flexible devices. The impact on the market and on daily life has the potential to be transformative, with everything from consumer devices (e.g., flexible phones and tablets), to imaging and sensing, to health care and homeland security being improved by advancements in flexible device manufacturing. Furthermore, PBDT will enable new directions in flexible device research and product development. 
+     This Small Business Innovation Research (SBIR) Phase II project will advance a novel probe-based direct transfer (PBDT) printing technology for manufacturing flexible hybrid electronic (FHE) devices. PBDT promises to deliver unprecedented selective, high-fidelity component transfer of a broad range of low-dimensional, high-performance electronic components with diverse architectures and sizes to flexible substrates. The technology will accelerate manufacturing capability to meet a critical need in the flexible and printed electronics market. The development of a stand-alone, automatic PBDT tool will provide flexible electronics developers and manufacturers an unparalleled solution for integrating high-performance thin and ultra-thin electronic materials into next-generation flexible devices. The impact on the market and on daily life has the potential to be transformative, with everything from consumer devices (e.g., flexible phones and tablets), to imaging and sensing, to health care and homeland security being improved by advancements in flexible device manufacturing. Furthermore, PBDT will enable new directions in flexible device research and product development. 
 
-     The overall objective of the Phase II project is to produce a prototype of a commercial version of a PBDT tool. In addition, detailed performance specs of the process and tool will be established, and functional FHE devices will be assembled using automated PBDT printing. The Phase I feasibility study demonstrated that the PBDT approach of handling a flexible substrate as both a stamp and as the destination substrate allows for defect-free transfer of semiconductor components that are an order of magnitude thinner and more complex laterally than what conventional tools can handle. Based on the Phase I accomplishments, Phase II funding will be used to develop and demonstrate a prototype tool that will serve as the template for a fully automated commercial product. Successful commercialization of PBDT will require advances in PBDT processes and hardware; therefore, the specific objectives of the Phase II project are focused on (i) characterizing the full process space of PBDT technology, (ii) demonstrating a complete process flow for assembling and metalizing functional FHE devices, and (iii) validating the prototype in terms of printing rate and fidelity. The collaborating university partner will contribute to the design and fabrication of thin and ultra-thin silicon components to assess the performance of the tool and demonstrate viable FHE sensors.
+     The overall objective of the Phase II project is to produce a prototype of a commercial version of a PBDT tool. In addition, detailed performance specs of the process and tool will be established, and functional FHE devices will be assembled using automated PBDT printing. The Phase I feasibility study demonstrated that the PBDT approach of handling a flexible substrate as both a stamp and as the destination substrate allows for defect-free transfer of semiconductor components that are an order of magnitude thinner and more complex laterally than what conventional tools can handle. Based on the Phase I accomplishments, Phase II funding will be used to develop and demonstrate a prototype tool that will serve as the template for a fully automated commercial product. Successful commercialization of PBDT will require advances in PBDT processes and hardware; therefore, the specific objectives of the Phase II project are focused on (i) characterizing the full process space of PBDT technology, (ii) demonstrating a complete process flow for assembling and metalizing functional FHE devices, and (iii) validating the prototype in terms of printing rate and fidelity. The collaborating university partner will contribute to the design and fabrication of thin and ultra-thin silicon components to assess the performance of the tool and demonstrate viable FHE sensors.
   awardeeAddress: 2401 Crest Line Dr.
   awardeeCity: Madison
   awardeeCountryCode: US
@@ -350,7 +360,9 @@
   awardeeZipCode: '537042840'
   fundsObligatedAmt: '848784'
   fundProgramName: STTR Phase II
-  id: '1738514'
+  id: '1738514'
+  ttopic: s
+  ttopic: s
   piEmail: dsgrierson@systemech.com
   piFirstName: David
   piLastName: Grierson
@@ -374,7 +386,8 @@
   awardeeZipCode: '981034530'
   fundsObligatedAmt: '670962'
   fundProgramName: SBIR Phase II
-  id: '1738312'
+  id: '1738312'
+  ttopic: ct
   piEmail: avetrovs@gmail.com
   piFirstName: Alexander
   piLastName: Vetrovs
@@ -398,7 +411,8 @@
   awardeeZipCode: '303320001'
   fundsObligatedAmt: '1406366'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660259'
+  id: '1660259'
+  ttopic: am
   piEmail: craig@carbice.com
   piFirstName: Craig
   piLastName: Green
@@ -423,7 +437,8 @@
   awardeeZipCode: '940704131'
   fundsObligatedAmt: '726664'
   fundProgramName: SBIR Phase II
-  id: '1927074'
+  id: '1927074'
+  ttopic: md
   piEmail: Austin@InnoVeinMedical.com
   piFirstName: Austin
   piLastName: Walker
@@ -475,7 +490,8 @@
   awardeeZipCode: '277013228'
   fundsObligatedAmt: '693899'
   fundProgramName: SBIR Phase II
-  id: '1926924'
+  id: '1926924'
+  ttopic: ai
   piEmail: learn@kelahealth.com
   piFirstName: Bora
   piLastName: Chang
@@ -500,7 +516,8 @@
   awardeeZipCode: '606227066'
   fundsObligatedAmt: '749121'
   fundProgramName: SBIR Phase II
-  id: '1927042'
+  id: '1927042'
+  ttopic: it
   piEmail: mmarshall@loticlabs.com
   piFirstName: Matthew
   piLastName: Marshall
@@ -525,7 +542,8 @@
   awardeeZipCode: '100105969'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853175'
+  id: '1853175'
+  ttopic: it
   piEmail: christopher@geopi.pe
   piFirstName: Christopher
   piLastName: Mitchell
@@ -550,7 +568,8 @@
   awardeeZipCode: '328263230'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853110'
+  id: '1853110'
+  ttopic: dh
   piEmail: rbosley@seganatech.com
   piFirstName: Rodney
   piLastName: Bosley
@@ -596,7 +615,8 @@
   awardeeZipCode: '303051754'
   fundsObligatedAmt: '749999'
   fundProgramName: SBIR Phase II
-  id: '1853200'
+  id: '1853200'
+  ttopic: ea
   piEmail: carlo@steppingblocks.com
   piFirstName: Carlo
   piLastName: Martinez
@@ -656,7 +676,8 @@
   awardeeZipCode: 009071000
   fundsObligatedAmt: '1392973'
   fundProgramName: SBIR Phase II
-  id: '1853153'
+  id: '1853153'
+  ttopic: m
   piEmail: samantha@re3d.org
   piFirstName: Samantha
   piLastName: Snabes
@@ -713,7 +734,8 @@
   awardeeZipCode: '605171582'
   fundsObligatedAmt: '747192'
   fundProgramName: SBIR Phase II
-  id: '1853114'
+  id: '1853114'
+  ttopic: bt
   piEmail: julieblumie@gmail.com
   piFirstName: Julie
   piLastName: Blumreiter
@@ -767,7 +789,8 @@
   awardeeZipCode: '481702424'
   fundsObligatedAmt: '714707'
   fundProgramName: SBIR Phase II
-  id: '1853207'
+  id: '1853207'
+  ttopic: bt
   piEmail: cordelia@advaitabio.com
   piFirstName: Cordelia
   piLastName: Ziraldo
@@ -793,7 +816,8 @@
   awardeeZipCode: '980121279'
   fundsObligatedAmt: '746477'
   fundProgramName: SBIR Phase II
-  id: '1831231'
+  id: '1831231'
+  ttopic: et
   piEmail: mansour.masoudi@emissol.com
   piFirstName: Mansour
   piLastName: Masoudi
@@ -842,7 +866,8 @@
   awardeeZipCode: '597156821'
   fundsObligatedAmt: '749608'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831287'
+  id: '1831287'
+  ttopic: ih
   piEmail: arrasmith@revibrooptics.com
   piFirstName: Christopher
   piLastName: Arrasmith
@@ -896,7 +921,8 @@
   awardeeZipCode: 040382645
   fundsObligatedAmt: '758394'
   fundProgramName: SBIR Phase II
-  id: '1758668'
+  id: '1758668'
+  ttopic: m
   piEmail: chris.osgood@montalvo.com
   piFirstName: Chris
   piLastName: Osgood
@@ -921,7 +947,8 @@
   awardeeZipCode: '941053724'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1758537'
+  id: '1758537'
+  ttopic: ea
   piEmail: ana@moondropapps.com
   piFirstName: Ana
   piLastName: Albir
@@ -970,7 +997,8 @@
   awardeeZipCode: '940256908'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1758698'
+  id: '1758698'
+  ttopic: bt
   piEmail: dseftel@gmail.com
   piFirstName: David
   piLastName: Seftel
@@ -993,7 +1021,8 @@
   awardeeZipCode: '981074933'
   fundsObligatedAmt: '873947'
   fundProgramName: SBIR Phase II
-  id: '1758531'
+  id: '1758531'
+  ttopic: ep
   piEmail: eric.l.din@gmail.com
   piFirstName: Eric
   piLastName: Din
@@ -1016,7 +1045,8 @@
   awardeeZipCode: '852573538'
   fundsObligatedAmt: '892086'
   fundProgramName: SBIR Phase II
-  id: '1758649'
+  id: '1758649'
+  ttopic: bm
   piEmail: dmitry@biosyntagma.com
   piFirstName: Dmitry
   piLastName: Derkach
@@ -1039,7 +1069,8 @@
   awardeeZipCode: '981154336'
   fundsObligatedAmt: '1332499'
   fundProgramName: SBIR Phase II
-  id: '1738543'
+  id: '1738543'
+  ttopic: ct
   piEmail: mikewagg@gmail.com
   piFirstName: Michael
   piLastName: Waggoner
@@ -1062,7 +1093,8 @@
   awardeeZipCode: '787173005'
   fundsObligatedAmt: '1079998'
   fundProgramName: SBIR Phase II
-  id: '1660078'
+  id: '1660078'
+  ttopic: s
   piEmail: leomathew@yahoo.com
   piFirstName: leo
   piLastName: mathew
@@ -1084,7 +1116,8 @@
   awardeeZipCode: '474083310'
   fundsObligatedAmt: '758176'
   fundProgramName: SBIR Phase II
-  id: '1660209'
+  id: '1660209'
+  ttopic: bm
   piEmail: erik@sintactmed.com
   piFirstName: Erik
   piLastName: Robinson
@@ -1139,7 +1172,8 @@
   awardeeZipCode: '554283873'
   fundsObligatedAmt: '923427'
   fundProgramName: SBIR Phase II
-  id: '1660227'
+  id: '1660227'
+  ttopic: bt
   piEmail: g.vozhdayev@gmail.com
   piFirstName: Georgiy
   piLastName: Vozhdayev
@@ -1163,7 +1197,8 @@
   awardeeZipCode: '945984318'
   fundsObligatedAmt: '1409999'
   fundProgramName: STTR Phase II
-  id: '1660263'
+  id: '1660263'
+  ttopic: se
   piEmail: bensonfan@bioinspira.com
   piFirstName: Benson
   piLastName: Fan
@@ -1185,7 +1220,8 @@
   awardeeZipCode: '481039002'
   fundsObligatedAmt: '1249929'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660217'
+  id: '1660217'
+  ttopic: ct
   piEmail: jeremy.minty@gmail.com
   piFirstName: Jeremy
   piLastName: Minty
@@ -1209,7 +1245,8 @@
   awardeeZipCode: 064682809
   fundsObligatedAmt: '1022930'
   fundProgramName: SBIR Phase II
-  id: '1630203'
+  id: '1630203'
+  ttopic: bm
   piEmail: gloroko@gmail.com
   piFirstName: Gloria
   piLastName: Kolb
@@ -1231,7 +1268,8 @@
   awardeeZipCode: '921928025'
   fundsObligatedAmt: '1095356'
   fundProgramName: SBIR Phase II
-  id: '1632539'
+  id: '1632539'
+  ttopic: ea
   piEmail: stephen@thoughtstem.com
   piFirstName: Stephen
   piLastName: Foster
@@ -1279,7 +1317,8 @@
   awardeeZipCode: '981190000'
   fundsObligatedAmt: '1260814'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1456372'
+  id: '1456372'
+  ttopic: bt
   piEmail: alexandre.zanghellini@arzeda.com
   piFirstName: Alexandre
   piLastName: Zanghellini
@@ -1304,7 +1343,8 @@
   awardeeZipCode: '336061645'
   fundsObligatedAmt: '736172'
   fundProgramName: STTR Phase II
-  id: '1926990'
+  id: '1926990'
+  ttopic: bt
   piEmail: peter@disector.com
   piFirstName: Peter
   piLastName: Mouton
@@ -1360,7 +1400,8 @@
   awardeeZipCode: 021180000
   fundsObligatedAmt: '749998'
   fundProgramName: SBIR Phase II
-  id: '1926967'
+  id: '1926967'
+  ttopic: pt
   piEmail: jennifer.m.rossi@flaskworks.com
   piFirstName: Jennifer
   piLastName: Rossi
@@ -1409,7 +1450,8 @@
   awardeeZipCode: '900124203'
   fundsObligatedAmt: '739510'
   fundProgramName: SBIR Phase II
-  id: '1927081'
+  id: '1927081'
+  ttopic: ea
   piEmail: dave@elloveo.com
   piFirstName: Dave
   piLastName: Colleran
@@ -1434,7 +1476,8 @@
   awardeeZipCode: '940854518'
   fundsObligatedAmt: '749263'
   fundProgramName: SBIR Phase II
-  id: '1927077'
+  id: '1927077'
+  ttopic: en
   piEmail: vklausmeier@sylvatex.com
   piFirstName: Virginia
   piLastName: Irwin Klausmeier
@@ -1459,7 +1502,8 @@
   awardeeZipCode: 024462904
   fundsObligatedAmt: '746991'
   fundProgramName: SBIR Phase II
-  id: '1853199'
+  id: '1853199'
+  ttopic: ai
   piEmail: salil@pison.com
   piFirstName: Salil
   piLastName: Patel
@@ -1509,7 +1553,8 @@
   awardeeZipCode: '101284931'
   fundsObligatedAmt: '749380'
   fundProgramName: SBIR Phase II
-  id: '1926949'
+  id: '1926949'
+  ttopic: it
   piEmail: epapenha@akaikaeru.com
   piFirstName: Eric
   piLastName: Papenhausen
@@ -1554,7 +1599,8 @@
   awardeeZipCode: '598239624'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1923698'
+  id: '1923698'
+  ttopic: bt
   piEmail: 2robsmith@gmail.com
   piFirstName: Robert
   piLastName: Smith
@@ -1579,7 +1625,8 @@
   awardeeZipCode: 017423847
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853211'
+  id: '1853211'
+  ttopic: dh
   piEmail: mbaltay@brainstembiometrics.com
   piFirstName: Mike
   piLastName: Baltay
@@ -1634,7 +1681,8 @@
   awardeeZipCode: '122050000'
   fundsObligatedAmt: '757980'
   fundProgramName: SBIR Phase II
-  id: '1831244'
+  id: '1831244'
+  ttopic: i
   piEmail: cusackmatthewj@gmail.com
   piFirstName: Matthew
   piLastName: Cusack
@@ -1660,7 +1708,8 @@
   awardeeZipCode: '553442022'
   fundsObligatedAmt: '714151'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853063'
+  id: '1853063'
+  ttopic: ih
   piEmail: andrew.jones@activatedresearch.com
   piFirstName: Andrew
   piLastName: Jones
@@ -1685,7 +1734,8 @@
   awardeeZipCode: 021394018
   fundsObligatedAmt: '748461'
   fundProgramName: SBIR Phase II
-  id: '1853194'
+  id: '1853194'
+  ttopic: bt
   piEmail: pgarcia@kytopen.com
   piFirstName: Paulo
   piLastName: Garcia
@@ -1710,7 +1760,8 @@
   awardeeZipCode: '803091756'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1831184'
+  id: '1831184'
+  ttopic: it
   piEmail: murad@BeStateless.com
   piFirstName: Murad
   piLastName: Kablan
@@ -1734,7 +1785,8 @@
   awardeeZipCode: 070304692
   fundsObligatedAmt: '772668'
   fundProgramName: SBIR Phase II
-  id: '1831225'
+  id: '1831225'
+  ttopic: dh
   piEmail: bgholami@autonomoushealthcare.com
   piFirstName: Behnood
   piLastName: Gholami
@@ -1761,7 +1813,8 @@
   awardeeZipCode: '618207460'
   fundsObligatedAmt: '742203'
   fundProgramName: SBIR Phase II
-  id: '1831262'
+  id: '1831262'
+  ttopic: r
   piEmail: davidjun@petronics.io
   piFirstName: David
   piLastName: Jun
@@ -1788,7 +1841,8 @@
   awardeeZipCode: '992034051'
   fundsObligatedAmt: '707342'
   fundProgramName: SBIR Phase II
-  id: '1831039'
+  id: '1831039'
+  ttopic: ea
   piEmail: kelly@squidbooks.com
   piFirstName: Kelly
   piLastName: Puzio
@@ -1813,7 +1867,8 @@
   awardeeZipCode: 054018349
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1831151'
+  id: '1831151'
+  ttopic: s
   piEmail: whokenmaier@greenmountainsemi.com
   piFirstName: Wolfgang
   piLastName: Hokenmaier
@@ -1837,7 +1892,8 @@
   awardeeZipCode: '947091307'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1831080'
+  id: '1831080'
+  ttopic: ep
   piEmail: andrew@feasible.io
   piFirstName: Andrew
   piLastName: Hsieh
@@ -1863,7 +1919,8 @@
   awardeeZipCode: '981994124'
   fundsObligatedAmt: '1274134'
   fundProgramName: SBIR Phase II
-  id: '1831090'
+  id: '1831090'
+  ttopic: am
   piEmail: greg@membrion.com
   piFirstName: Gregory
   piLastName: Newbloom
@@ -1890,7 +1947,8 @@
   awardeeZipCode: '606155977'
   fundsObligatedAmt: '692387'
   fundProgramName: SBIR Phase II
-  id: '1830985'
+  id: '1830985'
+  ttopic: ea
   piEmail: alice@readaskchat.net
   piFirstName: Alice
   piLastName: Letvin
@@ -1929,7 +1987,8 @@
   awardeeZipCode: '970052129'
   fundsObligatedAmt: '747352'
   fundProgramName: SBIR Phase II
-  id: '1831085'
+  id: '1831085'
+  ttopic: dh
   piEmail: gans@omicsautomation.com
   piFirstName: Ganapati
   piLastName: Srinivasa
@@ -1954,7 +2013,8 @@
   awardeeZipCode: '148501294'
   fundsObligatedAmt: '752550'
   fundProgramName: SBIR Phase II
-  id: '1758625'
+  id: '1758625'
+  ttopic: ea
   piEmail: dirk.swart@wickeddevice.com
   piFirstName: Dirk
   piLastName: Swart
@@ -1978,7 +2038,8 @@
   awardeeZipCode: '245411405'
   fundsObligatedAmt: '753347'
   fundProgramName: SBIR Phase II
-  id: '1758621'
+  id: '1758621'
+  ttopic: am
   piEmail: alexis.carpenter@triadgrowthpartners.com
   piFirstName: Alexis
   piLastName: Carpenter
@@ -2005,7 +2066,8 @@
   awardeeZipCode: '805162400'
   fundsObligatedAmt: '1393092'
   fundProgramName: SBIR Phase II
-  id: '1758865'
+  id: '1758865'
+  ttopic: m
   piEmail: jacob@elementum3d.com
   piFirstName: Jacob
   piLastName: Nuechterlein
@@ -2029,7 +2091,8 @@
   awardeeZipCode: '708207400'
   fundsObligatedAmt: '746325'
   fundProgramName: SBIR Phase II
-  id: '1758674'
+  id: '1758674'
+  ttopic: am
   piEmail: lulumylamg@gmail.com
   piFirstName: Lu
   piLastName: Lu
@@ -2051,7 +2114,8 @@
   awardeeZipCode: '727017175'
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1738528'
+  id: '1738528'
+  ttopic: am
   piEmail: sam@surftec-engineering.com
   piFirstName: Samuel
   piLastName: Beckford
@@ -2074,7 +2138,8 @@
   awardeeZipCode: '947041517'
   fundsObligatedAmt: '1209997'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738554'
+  id: '1738554'
+  ttopic: ct
   piEmail: cave@opus-12.com
   piFirstName: Etosha
   piLastName: Cave
@@ -2097,7 +2162,8 @@
   awardeeZipCode: '460382828'
   fundsObligatedAmt: '899999'
   fundProgramName: SBIR Phase II
-  id: '1738492'
+  id: '1738492'
+  ttopic: it
   piEmail: everett@perceiveinc.com
   piFirstName: Everett
   piLastName: Berry
@@ -2148,7 +2214,8 @@
   awardeeZipCode: '146182940'
   fundsObligatedAmt: '1250000'
   fundProgramName: STTR Phase II
-  id: '1738506'
+  id: '1738506'
+  ttopic: ih
   piEmail: lzheleznyak@cleriovision.com
   piFirstName: Len
   piLastName: Zheleznyak
@@ -2170,7 +2237,8 @@
   awardeeZipCode: '537054722'
   fundsObligatedAmt: '1389348'
   fundProgramName: SBIR Phase II
-  id: '1738397'
+  id: '1738397'
+  ttopic: it
   piEmail: johnpmooreiv@gmail.com
   piFirstName: John
   piLastName: Moore
@@ -2193,7 +2261,8 @@
   awardeeZipCode: '551141964'
   fundsObligatedAmt: '755622'
   fundProgramName: SBIR Phase II
-  id: '1738431'
+  id: '1738431'
+  ttopic: bt
   piEmail: kathryn@gprobiotics.com
   piFirstName: Kathryn
   piLastName: Geldart
@@ -2243,7 +2312,8 @@
   awardeeZipCode: '946074334'
   fundsObligatedAmt: '1409999'
   fundProgramName: SBIR Phase II
-  id: '1738563'
+  id: '1738563'
+  ttopic: s
   piEmail: tristan.rocheleau@gmail.com
   piFirstName: Tristan
   piLastName: Rocheleau
@@ -2266,7 +2336,8 @@
   awardeeZipCode: '403568729'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1659039'
+  id: '1659039'
+  ttopic: bt
   piEmail: Jordan@redleafbiologics.com
   piFirstName: Jordan
   piLastName: Wood
@@ -2288,7 +2359,8 @@
   awardeeZipCode: '152133715'
   fundsObligatedAmt: '1425894'
   fundProgramName: SBIR Phase II
-  id: '1660190'
+  id: '1660190'
+  ttopic: it
   piEmail: olli@marinusanalytics.com
   piFirstName: Andreas
   piLastName: Olligschlaeger
@@ -2335,7 +2407,8 @@
   awardeeZipCode: '112050000'
   fundsObligatedAmt: '1408789'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1659038'
+  id: '1659038'
+  ttopic: i
   piEmail: rigers@radiatorlabs.com
   piFirstName: Rigers
   piLastName: Qeraj
@@ -2383,7 +2456,8 @@
   awardeeZipCode: '402082241'
   fundsObligatedAmt: '1249996'
   fundProgramName: SBIR Phase II
-  id: '1660161'
+  id: '1660161'
+  ttopic: ph
   piEmail: ruvini@bertthinfilms.com
   piFirstName: Ruvini
   piLastName: Dharmadasa
@@ -2435,7 +2509,8 @@
   awardeeZipCode: '961614835'
   fundsObligatedAmt: '909999'
   fundProgramName: STTR Phase II
-  id: '1660253'
+  id: '1660253'
+  ttopic: bt
   piEmail: dennis.matthews@cardiacmotion.com
   piFirstName: Dennis
   piLastName: Matthews
@@ -2459,7 +2534,8 @@
   awardeeZipCode: '537051219'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1632255'
+  id: '1632255'
+  ttopic: ct
   piEmail: twjeffries@xylome.com
   piFirstName: Thomas
   piLastName: Jeffries
@@ -2482,7 +2558,8 @@
   awardeeZipCode: '991632080'
   fundsObligatedAmt: '1122943'
   fundProgramName: SBIR Phase II
-  id: '1632575'
+  id: '1632575'
+  ttopic: bt
   piEmail: sukh@geneshifters.com
   piFirstName: Sukhwinder
   piLastName: Singh
@@ -2505,7 +2582,8 @@
   awardeeZipCode: '374053878'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1632267'
+  id: '1632267'
+  ttopic: m
   piEmail: platt@branchtechnology.co
   piFirstName: Robert
   piLastName: Boyd
@@ -2558,7 +2636,8 @@
   awardeeZipCode: '400146773'
   fundsObligatedAmt: '1257774'
   fundProgramName: STTR Phase II
-  id: '1632402'
+  id: '1632402'
+  ttopic: bt
   piEmail: angus@liberatemedical.com
   piFirstName: Angus
   piLastName: Mclachlan
@@ -2610,7 +2689,8 @@
   awardeeZipCode: '211041171'
   fundsObligatedAmt: '1009443'
   fundProgramName: SBIR Phase II
-  id: '1632582'
+  id: '1632582'
+  ttopic: ea
   piEmail: debra@myvoicevibes.com
   piFirstName: Debra
   piLastName: Cancro
@@ -2633,7 +2713,8 @@
   awardeeZipCode: 024782517
   fundsObligatedAmt: '1140749'
   fundProgramName: SBIR Phase II
-  id: '1555608'
+  id: '1555608'
+  ttopic: it
   piEmail: rupal@vocaliD.ai
   piFirstName: Rupal
   piLastName: Patel
@@ -2678,7 +2759,8 @@
   awardeeZipCode: '405111268'
   fundsObligatedAmt: '1406123'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1555996'
+  id: '1555996'
+  ttopic: m
   piEmail: hawes@hummingbirdnano.com
   piFirstName: Eleanor
   piLastName: Hawes
@@ -2730,7 +2812,8 @@
   awardeeZipCode: '904052716'
   fundsObligatedAmt: '1100541'
   fundProgramName: SBIR Phase II
-  id: '1555815'
+  id: '1555815'
+  ttopic: m
   piEmail: elizarov@traceabilityinc.com
   piFirstName: Arkadij
   piLastName: Elizarov
@@ -2783,7 +2866,8 @@
   awardeeZipCode: '288041642'
   fundsObligatedAmt: '1373774'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534787'
+  id: '1534787'
+  ttopic: am
   piEmail: ginger@biomason.com
   piFirstName: Ginger
   piLastName: Dosier
@@ -2807,7 +2891,8 @@
   awardeeZipCode: '905056008'
   fundsObligatedAmt: '1292655'
   fundProgramName: SBIR Phase II
-  id: '1534631'
+  id: '1534631'
+  ttopic: ih
   piEmail: jeanluc.fraikin@spectradynellc.com
   piFirstName: Jean-Luc
   piLastName: Fraikin
@@ -2830,7 +2915,8 @@
   awardeeZipCode: '947101413'
   fundsObligatedAmt: '1425979'
   fundProgramName: SBIR Phase II
-  id: '1456071'
+  id: '1456071'
+  ttopic: bt
   piEmail: jadietrich@lygos.com
   piFirstName: Jeffrey
   piLastName: Dietrich
@@ -2880,7 +2966,8 @@
   awardeeZipCode: '597150689'
   fundsObligatedAmt: '1394721'
   fundProgramName: SBIR Phase II
-  id: '1430922'
+  id: '1430922'
+  ttopic: ct
   piEmail: mkozubal@gmail.com
   piFirstName: Mark
   piLastName: Kozubal
@@ -2932,7 +3019,8 @@
   awardeeZipCode: 018010000
   fundsObligatedAmt: '1604998'
   fundProgramName: SBIR Phase II
-  id: '1353912'
+  id: '1353912'
+  ttopic: bt
   piEmail: kjarrell@modulargenetics.com
   piFirstName: Kevin
   piLastName: Jarrell
@@ -2982,7 +3070,8 @@
   awardeeZipCode: '803012887'
   fundsObligatedAmt: '674263'
   fundProgramName: SBIR Phase II
-  id: '1925735'
+  id: '1925735'
+  ttopic: et
   piEmail: johnb@twobtech.com
   piFirstName: John
   piLastName: Birks
@@ -3008,7 +3097,8 @@
   awardeeZipCode: '911075050'
   fundsObligatedAmt: '743701'
   fundProgramName: SBIR Phase II
-  id: '1927079'
+  id: '1927079'
+  ttopic: ct
   piEmail: j.wong@fluidion.com
   piFirstName: Joyce
   piLastName: Wong
@@ -3063,7 +3153,8 @@
   awardeeZipCode: '941075910'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927052'
+  id: '1927052'
+  ttopic: bm
   piEmail: maryam@isonohealth.com
   piFirstName: Maryam
   piLastName: Ziaei-Moayyed
@@ -3088,7 +3179,8 @@
   awardeeZipCode: '432121180'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926986'
+  id: '1926986'
+  ttopic: bm
   piEmail: qirui.fan@gmail.com
   piFirstName: Qirui
   piLastName: Fan
@@ -3143,7 +3235,8 @@
   awardeeZipCode: '921175504'
   fundsObligatedAmt: '747753'
   fundProgramName: SBIR Phase II
-  id: '1927039'
+  id: '1927039'
+  ttopic: ea
   piEmail: joe@brainleaptech.com
   piFirstName: Joseph
   piLastName: Snider
@@ -3167,7 +3260,8 @@
   awardeeZipCode: '276031818'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926849'
+  id: '1926849'
+  ttopic: dh
   piEmail: luke@vitalflohealth.com
   piFirstName: Luke
   piLastName: Marshall
@@ -3193,7 +3287,8 @@
   awardeeZipCode: '740784011'
   fundsObligatedAmt: '729892'
   fundProgramName: SBIR Phase II
-  id: '1926906'
+  id: '1926906'
+  ttopic: m
   piEmail: Haley@mitomaterials.com
   piFirstName: Haley
   piLastName: Keith
@@ -3245,7 +3340,8 @@
   awardeeZipCode: '981770507'
   fundsObligatedAmt: '732982'
   fundProgramName: SBIR Phase II
-  id: '1927056'
+  id: '1927056'
+  ttopic: bm
   piEmail: andy@taprootmedical.com
   piFirstName: Andrew
   piLastName: Sinclair
@@ -3295,7 +3391,8 @@
   awardeeZipCode: '479060000'
   fundsObligatedAmt: '747432'
   fundProgramName: STTR Phase II
-  id: '1926952'
+  id: '1926952'
+  ttopic: bt
   piEmail: admin@nutramaize.com
   piFirstName: Evan
   piLastName: Rocheford
@@ -3320,7 +3417,8 @@
   awardeeZipCode: 060321913
   fundsObligatedAmt: '719727'
   fundProgramName: SBIR Phase II
-  id: '1853071'
+  id: '1853071'
+  ttopic: bm
   piEmail: travis@azitrainc.com
   piFirstName: Travis
   piLastName: Whitfill
@@ -3372,7 +3470,8 @@
   awardeeZipCode: '941142822'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853254'
+  id: '1853254'
+  ttopic: ih
   piEmail: rweiss@malachitetech.com
   piFirstName: Robert
   piLastName: Weiss
@@ -3396,7 +3495,8 @@
   awardeeZipCode: '948061971'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853147'
+  id: '1853147'
+  ttopic: bt
   piEmail: gpesce@abalonebio.com
   piFirstName: Carlos Gustavo
   piLastName: Pesce
@@ -3452,7 +3552,8 @@
   awardeeZipCode: '553112166'
   fundsObligatedAmt: '1397386'
   fundProgramName: SBIR Phase II
-  id: '1853265'
+  id: '1853265'
+  ttopic: m
   piEmail: leibig@chromatic3dmaterials.com
   piFirstName: Cora
   piLastName: Leibig
@@ -3500,7 +3601,8 @@
   awardeeZipCode: 021290000
   fundsObligatedAmt: '899993'
   fundProgramName: STTR Phase II
-  id: '1831178'
+  id: '1831178'
+  ttopic: i
   piEmail: matt@embrlabs.com
   piFirstName: Matthew
   piLastName: Smith
@@ -3525,7 +3627,8 @@
   awardeeZipCode: '703014904'
   fundsObligatedAmt: '735056'
   fundProgramName: SBIR Phase II
-  id: '1830867'
+  id: '1830867'
+  ttopic: bt
   piEmail: susanna@bioinfox.com
   piFirstName: Susanna
   piLastName: Lamers
@@ -3583,7 +3686,8 @@
   awardeeZipCode: '981172328'
   fundsObligatedAmt: '1254454'
   fundProgramName: SBIR Phase II
-  id: '1831538'
+  id: '1831538'
+  ttopic: et
   piEmail: virginia@betahatch.com
   piFirstName: Virginia
   piLastName: Emery
@@ -3608,7 +3712,8 @@
   awardeeZipCode: '973220000'
   fundsObligatedAmt: '864790'
   fundProgramName: SBIR Phase II
-  id: '1831255'
+  id: '1831255'
+  ttopic: ih
   piEmail: paul@amperescientific.com
   piFirstName: Paul
   piLastName: King
@@ -3643,7 +3748,8 @@
   awardeeZipCode: '221804711'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1831137'
+  id: '1831137'
+  ttopic: et
   piEmail: jason.dalton@azimuth1.com
   piFirstName: Jason
   piLastName: Dalton
@@ -3696,7 +3802,8 @@
   awardeeZipCode: '605446098'
   fundsObligatedAmt: '758975'
   fundProgramName: SBIR Phase II
-  id: '1831268'
+  id: '1831268'
+  ttopic: ih
   piEmail: nicolaie.a.moldovan@gmail.com
   piFirstName: Nicolaie
   piLastName: Moldovan
@@ -3721,7 +3828,8 @@
   awardeeZipCode: '974031842'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1831088'
+  id: '1831088'
+  ttopic: m
   piEmail: beth@unspuntech.com
   piFirstName: Elizabeth
   piLastName: Esponnette
@@ -3767,7 +3875,8 @@
   awardeeZipCode: '148506273'
   fundsObligatedAmt: '880184'
   fundProgramName: STTR Phase II
-  id: '1831166'
+  id: '1831166'
+  ttopic: ct
   piEmail: jason@dimensionalenergy.net
   piFirstName: Jason
   piLastName: Salfi
@@ -3792,7 +3901,8 @@
   awardeeZipCode: '921095754'
   fundsObligatedAmt: '907890'
   fundProgramName: SBIR Phase II
-  id: '1831087'
+  id: '1831087'
+  ttopic: ct
   piEmail: crustomji@south8technologies.com
   piFirstName: Cyrus
   piLastName: Rustomji
@@ -3819,7 +3929,8 @@
   awardeeZipCode: '500108926'
   fundsObligatedAmt: '885480'
   fundProgramName: SBIR Phase II
-  id: '1831202'
+  id: '1831202'
+  ttopic: ea
   piEmail: whitmer@parametricstudioinc.com
   piFirstName: Christopher
   piLastName: Whitmer
@@ -3845,7 +3956,8 @@
   awardeeZipCode: '941032252'
   fundsObligatedAmt: '730919'
   fundProgramName: SBIR Phase II
-  id: '1831280'
+  id: '1831280'
+  ttopic: it
   piEmail: stephen@fac.tt
   piFirstName: Stephen
   piLastName: Brady
@@ -3870,7 +3982,8 @@
   awardeeZipCode: '303162496'
   fundsObligatedAmt: '0'
   fundProgramName: SBIR Phase II
-  id: '1758598'
+  id: '1758598'
+  ttopic: r
   piEmail: jkolczynski@bionicsciences.com
   piFirstName: Jill
   piLastName: Kolczynski
@@ -3894,7 +4007,8 @@
   awardeeZipCode: '212284851'
   fundsObligatedAmt: '744593'
   fundProgramName: SBIR Phase II
-  id: '1758600'
+  id: '1758600'
+  ttopic: it
   piEmail: jmk@redshred.com
   piFirstName: James
   piLastName: Kukla
@@ -3919,7 +4033,8 @@
   awardeeZipCode: '750836088'
   fundsObligatedAmt: '759993'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758628'
+  id: '1758628'
+  ttopic: it
   piEmail: fahad@datasectech.com
   piFirstName: Fahad
   piLastName: Shaon
@@ -3969,7 +4084,8 @@
   awardeeZipCode: '921102014'
   fundsObligatedAmt: '1420912'
   fundProgramName: STTR Phase II
-  id: '1758678'
+  id: '1758678'
+  ttopic: r
   piEmail: gaemus@planckaero.com
   piFirstName: Gaemus
   piLastName: Collins
@@ -3996,7 +4112,8 @@
   awardeeZipCode: '207650316'
   fundsObligatedAmt: '899959'
   fundProgramName: SBIR Phase II
-  id: '1758114'
+  id: '1758114'
+  ttopic: ea
   piEmail: benjaminalevy@gmail.com
   piFirstName: Benjamin
   piLastName: Levy
@@ -4052,7 +4169,8 @@
   awardeeZipCode: '940255222'
   fundsObligatedAmt: '1233952'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758423'
+  id: '1758423'
+  ttopic: bt
   piEmail: kristy.m.hawkins@gmail.com
   piFirstName: Kristy
   piLastName: Hawkins
@@ -4074,7 +4192,8 @@
   awardeeZipCode: '142281624'
   fundsObligatedAmt: '774717'
   fundProgramName: SBIR Phase II
-  id: '1758544'
+  id: '1758544'
+  ttopic: am
   piEmail: jcueto@smartwallsconstruction.com
   piFirstName: Jorge
   piLastName: Cueto
@@ -4124,7 +4243,8 @@
   awardeeZipCode: '532264879'
   fundsObligatedAmt: '759979'
   fundProgramName: SBIR Phase II
-  id: '1758432'
+  id: '1758432'
+  ttopic: et
   piEmail: aquametalsllc@gmail.com
   piFirstName: Bruce
   piLastName: Bathurst
@@ -4147,7 +4267,8 @@
   awardeeZipCode: '752012112'
   fundsObligatedAmt: '847587'
   fundProgramName: SBIR Phase II
-  id: '1738453'
+  id: '1738453'
+  ttopic: w
   piEmail: jprothero@astrapi-corp.com
   piFirstName: Jerrold
   piLastName: Prothero
@@ -4203,7 +4324,8 @@
   awardeeZipCode: '727016948'
   fundsObligatedAmt: '732992'
   fundProgramName: SBIR Phase II
-  id: '1738517'
+  id: '1738517'
+  ttopic: r
   piEmail: matt.macewan@osteovantage.com
   piFirstName: Matthew
   piLastName: MacEwan
@@ -4226,7 +4348,8 @@
   awardeeZipCode: '980524444'
   fundsObligatedAmt: '1249999'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738555'
+  id: '1738555'
+  ttopic: it
   piEmail: ari@intentionet.com
   piFirstName: Ari
   piLastName: Fogel
@@ -4248,7 +4371,8 @@
   awardeeZipCode: '800203040'
   fundsObligatedAmt: '889999'
   fundProgramName: STTR Phase II
-  id: '1738536'
+  id: '1738536'
+  ttopic: m
   piEmail: palumbo@bigbluetec.com
   piFirstName: Aaron
   piLastName: Palumbo
@@ -4271,7 +4395,8 @@
   awardeeZipCode: '021205150'
   fundsObligatedAmt: '699998'
   fundProgramName: SBIR Phase II
-  id: '1738372'
+  id: '1738372'
+  ttopic: bm
   piEmail: tom@glyscend.com
   piFirstName: Thomas
   piLastName: Jozefiak
@@ -4325,7 +4450,8 @@
   awardeeZipCode: '212243804'
   fundsObligatedAmt: '609985'
   fundProgramName: SBIR Phase II
-  id: '1738440'
+  id: '1738440'
+  ttopic: dh
   piEmail: info@stocastic.com
   piFirstName: Eric
   piLastName: Hamrock
@@ -4372,7 +4498,8 @@
   awardeeZipCode: '208144219'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1738472'
+  id: '1738472'
+  ttopic: ih
   piEmail: seebrown@gmail.com
   piFirstName: Christopher
   piLastName: Brown
@@ -4423,7 +4550,8 @@
   awardeeZipCode: '980728492'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1739047'
+  id: '1739047'
+  ttopic: am
   piEmail: kunal.shah@lilotree.com
   piFirstName: Kunal
   piLastName: Shah
@@ -4446,7 +4574,8 @@
   awardeeZipCode: '972115543'
   fundsObligatedAmt: '899475'
   fundProgramName: SBIR Phase II
-  id: '1738321'
+  id: '1738321'
+  ttopic: i
   piEmail: daniel.wilson@sweetsensors.com
   piFirstName: Daniel
   piLastName: Wilson
@@ -4468,7 +4597,8 @@
   awardeeZipCode: '841135002'
   fundsObligatedAmt: '756107'
   fundProgramName: SBIR Phase II
-  id: '1738448'
+  id: '1738448'
+  ttopic: ih
   piEmail: amy.a.gooch@gmail.com
   piFirstName: Amy
   piLastName: Gooch
@@ -4519,7 +4649,8 @@
   awardeeZipCode: '920244931'
   fundsObligatedAmt: '907731'
   fundProgramName: SBIR Phase II
-  id: '1660165'
+  id: '1660165'
+  ttopic: bm
   piEmail: aivocode@gmail.com
   piFirstName: Sazid
   piLastName: Hussain
@@ -4542,7 +4673,8 @@
   awardeeZipCode: '941071953'
   fundsObligatedAmt: '1249074'
   fundProgramName: SBIR Phase II
-  id: '1660258'
+  id: '1660258'
+  ttopic: bm
   piEmail: jose@shasqi.com
   piFirstName: Jose
   piLastName: Mejia Oneto
@@ -4565,7 +4697,8 @@
   awardeeZipCode: 022102384
   fundsObligatedAmt: '868837'
   fundProgramName: SBIR Phase II
-  id: '1660225'
+  id: '1660225'
+  ttopic: am
   piEmail: apaxson@drop-wise.com
   piFirstName: Adam
   piLastName: Paxson
@@ -4604,7 +4737,8 @@
   awardeeZipCode: '948061971'
   fundsObligatedAmt: '1245012'
   fundProgramName: SBIR Phase II
-  id: '1660246'
+  id: '1660246'
+  ttopic: am
   piEmail: ati.haghdoost@maxterial.com
   piFirstName: Atieh
   piLastName: Haghdoost
@@ -4626,7 +4760,8 @@
   awardeeZipCode: '483011328'
   fundsObligatedAmt: '1289841'
   fundProgramName: SBIR Phase II
-  id: '1659983'
+  id: '1659983'
+  ttopic: ea
   piEmail: julia@alchem.ie
   piFirstName: Julia
   piLastName: Winter
@@ -4668,7 +4803,8 @@
   awardeeZipCode: '973303350'
   fundsObligatedAmt: '750000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660116'
+  id: '1660116'
+  ttopic: et
   piEmail: fan@waste2watergy.com
   piFirstName: Yanzhen
   piLastName: Fan
@@ -4691,7 +4827,8 @@
   awardeeZipCode: '800274489'
   fundsObligatedAmt: '1408623'
   fundProgramName: SBIR Phase II
-  id: '1632199'
+  id: '1632199'
+  ttopic: am
   piEmail: philip@mallinda.com
   piFirstName: Philip
   piLastName: Taynton
@@ -4743,7 +4880,8 @@
   awardeeZipCode: 021391226
   fundsObligatedAmt: '1409999'
   fundProgramName: SBIR Phase II
-  id: '1632434'
+  id: '1632434'
+  ttopic: bm
   piEmail: Kathryn@vaxess.com
   piFirstName: Kathryn
   piLastName: Kosuda
@@ -4765,7 +4903,8 @@
   awardeeZipCode: '941151435'
   fundsObligatedAmt: '909902'
   fundProgramName: SBIR Phase II
-  id: '1632244'
+  id: '1632244'
+  ttopic: am
   piEmail: calvin@nanohydrophobics.com
   piFirstName: Calvin
   piLastName: Kennell-Heiling
@@ -4788,7 +4927,8 @@
   awardeeZipCode: '947101462'
   fundsObligatedAmt: '886514'
   fundProgramName: SBIR Phase II
-  id: '1632560'
+  id: '1632560'
+  ttopic: et
   piEmail: jayjames@picoyune.com
   piFirstName: Jay
   piLastName: James
@@ -4810,7 +4950,8 @@
   awardeeZipCode: '100162784'
   fundsObligatedAmt: '1284006'
   fundProgramName: SBIR Phase II
-  id: '1631815'
+  id: '1631815'
+  ttopic: ih
   piEmail: laphilips@gmail.com
   piFirstName: Laura
   piLastName: Philips
@@ -4834,7 +4975,8 @@
   awardeeZipCode: '941085029'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1632533'
+  id: '1632533'
+  ttopic: it
   piEmail: kevin@lumenous3d.com
   piFirstName: Kevin
   piLastName: Karsch
@@ -4857,7 +4999,8 @@
   awardeeZipCode: '945871233'
   fundsObligatedAmt: '1409168'
   fundProgramName: SBIR Phase II
-  id: '1632341'
+  id: '1632341'
+  ttopic: r
   piEmail: AOR@tacticalhaptics.com
   piFirstName: William
   piLastName: Provancher
@@ -4880,7 +5023,8 @@
   awardeeZipCode: '941033734'
   fundsObligatedAmt: '1376062'
   fundProgramName: SBIR Phase II
-  id: '1556103'
+  id: '1556103'
+  ttopic: it
   piEmail: mgmt@baylabs.io
   piFirstName: Charles
   piLastName: Cadieu
@@ -4903,7 +5047,8 @@
   awardeeZipCode: '021443142'
   fundsObligatedAmt: '1249996'
   fundProgramName: SBIR Phase II
-  id: '1555789'
+  id: '1555789'
+  ttopic: bt
   piEmail: jonathan.gilbert@sqzbiotech.com
   piFirstName: Jonathan
   piLastName: Gilbert
@@ -4926,7 +5071,8 @@
   awardeeZipCode: 018016307
   fundsObligatedAmt: '1258000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1555647'
+  id: '1555647'
+  ttopic: bm
   piEmail: smascia@continuuspharma.com
   piFirstName: Salvatore
   piLastName: Mascia
@@ -4949,7 +5095,8 @@
   awardeeZipCode: '277092076'
   fundsObligatedAmt: '1365805'
   fundProgramName: SBIR Phase II
-  id: '1555923'
+  id: '1555923'
+  ttopic: md
   piEmail: lucinda.camras@camrasvision.com
   piFirstName: Lucinda
   piLastName: Camras
@@ -4971,7 +5118,8 @@
   awardeeZipCode: '229034583'
   fundsObligatedAmt: '996021'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556035'
+  id: '1556035'
+  ttopic: ih
   piEmail: alex.mikhonin@brightspec.com
   piFirstName: Alex
   piLastName: Mikhonin
@@ -5016,7 +5164,8 @@
   awardeeZipCode: '727017175'
   fundsObligatedAmt: '1298004'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556072'
+  id: '1556072'
+  ttopic: am
   piEmail: corey@wattglass.com
   piFirstName: Corey
   piLastName: Thompson
@@ -5066,7 +5215,8 @@
   awardeeZipCode: '841082204'
   fundsObligatedAmt: '1615512'
   fundProgramName: SBIR Phase II
-  id: '1456352'
+  id: '1456352'
+  ttopic: r
   piEmail: cristian.atria@nviewmed.com
   piFirstName: Cristian
   piLastName: Atria
@@ -5088,7 +5238,8 @@
   awardeeZipCode: '064432743'
   fundsObligatedAmt: '1220673'
   fundProgramName: SBIR Phase II
-  id: '1431013'
+  id: '1431013'
+  ttopic: it
   piEmail: info@mentalcanvas.com
   piFirstName: Aaron
   piLastName: Isaksen
@@ -5110,7 +5261,8 @@
   awardeeZipCode: '021433237'
   fundsObligatedAmt: '668220'
   fundProgramName: SBIR Phase II
-  id: '1330957'
+  id: '1330957'
+  ttopic: ep
   piEmail: scasey@vecarius.com
   piFirstName: Steven
   piLastName: Casey
@@ -5164,7 +5316,8 @@
   awardeeZipCode: '805230001'
   fundsObligatedAmt: '1151436'
   fundProgramName: SBIR Phase II
-  id: '1256582'
+  id: '1256582'
+  ttopic: et
   piEmail: justin@symbiostechnologies.com
   piFirstName: Justin
   piLastName: Bzdek
@@ -5200,7 +5353,8 @@
   awardeeZipCode: '950703450'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927084'
+  id: '1927084'
+  ttopic: ea
   piEmail: moji@ebibelot.com
   piFirstName: Melody
   piLastName: Fallah-Khair
@@ -5253,7 +5407,8 @@
   awardeeZipCode: '787585208'
   fundsObligatedAmt: '704874'
   fundProgramName: SBIR Phase II
-  id: '1926684'
+  id: '1926684'
+  ttopic: w
   piEmail: brian.mattis@genxcomminc.com
   piFirstName: Brian
   piLastName: Mattis
@@ -5308,7 +5463,8 @@
   awardeeZipCode: 068012873
   fundsObligatedAmt: '727836'
   fundProgramName: SBIR Phase II
-  id: '1927003'
+  id: '1927003'
+  ttopic: et
   piEmail: mp@sonatascientific.com
   piFirstName: Melissa
   piLastName: Petruska
@@ -5334,7 +5490,8 @@
   awardeeZipCode: '112202539'
   fundsObligatedAmt: '711620'
   fundProgramName: SBIR Phase II
-  id: '1927687'
+  id: '1927687'
+  ttopic: et
   piEmail: ray.sambrotto@alliedmicrobiota.com
   piFirstName: Raymond
   piLastName: Sambrotto
@@ -5384,7 +5541,8 @@
   awardeeZipCode: '970086414'
   fundsObligatedAmt: '727787'
   fundProgramName: SBIR Phase II
-  id: '1927040'
+  id: '1927040'
+  ttopic: am
   piEmail: nick@diatomixcorp.com
   piFirstName: Nicholas
   piLastName: Day
@@ -5442,7 +5600,8 @@
   awardeeZipCode: 021690911
   fundsObligatedAmt: '743907'
   fundProgramName: SBIR Phase II
-  id: '1927023'
+  id: '1927023'
+  ttopic: am
   piEmail: rasmussl@raslabs.com
   piFirstName: Lenore
   piLastName: Rasmussen
@@ -5466,7 +5625,8 @@
   awardeeZipCode: '941059992'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927080'
+  id: '1927080'
+  ttopic: bt
   piEmail: matt@culturerobotics.com
   piFirstName: Matthew
   piLastName: Ball
@@ -5491,7 +5651,8 @@
   awardeeZipCode: '939405715'
   fundsObligatedAmt: '748638'
   fundProgramName: SBIR Phase II
-  id: '1926636'
+  id: '1926636'
+  ttopic: bt
   piEmail: hbenner@iondx.com
   piFirstName: W
   piLastName: Benner
@@ -5539,7 +5700,8 @@
   awardeeZipCode: '112166738'
   fundsObligatedAmt: '749217'
   fundProgramName: SBIR Phase II
-  id: '1927115'
+  id: '1927115'
+  ttopic: ea
   piEmail: deren@teknikio.com
   piFirstName: Sibel
   piLastName: Guler
@@ -5595,7 +5757,8 @@
   awardeeZipCode: '334316410'
   fundsObligatedAmt: '748380'
   fundProgramName: SBIR Phase II
-  id: '1853095'
+  id: '1853095'
+  ttopic: qt
   piEmail: brandon.langenberg@pqsecurity.com
   piFirstName: Brandon
   piLastName: Langenberg
@@ -5619,7 +5782,8 @@
   awardeeZipCode: '194759641'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1923614'
+  id: '1923614'
+  ttopic: md
   piEmail: dtgulick@widener.edu
   piFirstName: Dawn
   piLastName: Gulick
@@ -5644,7 +5808,8 @@
   awardeeZipCode: '973334335'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926689'
+  id: '1926689'
+  ttopic: bt
   piEmail: khaled@gadusollabs.com
   piFirstName: Khaled
   piLastName: Almabruk
@@ -5670,7 +5835,8 @@
   awardeeZipCode: '926183356'
   fundsObligatedAmt: '698868'
   fundProgramName: SBIR Phase II
-  id: '1927046'
+  id: '1927046'
+  ttopic: ea
   piEmail: rkjha1@siminsights.com
   piFirstName: Rajesh
   piLastName: Jha
@@ -5696,7 +5862,8 @@
   awardeeZipCode: '940871307'
   fundsObligatedAmt: '749987'
   fundProgramName: SBIR Phase II
-  id: '1927011'
+  id: '1927011'
+  ttopic: w
   piEmail: sriram@rf-pixels.com
   piFirstName: Sriramkumar
   piLastName: Venugopalan
@@ -5721,7 +5888,8 @@
   awardeeZipCode: '967550000'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927090'
+  id: '1927090'
+  ttopic: r
   piEmail: team@akabotics.com
   piFirstName: Francis
   piLastName: Parks
@@ -5747,7 +5915,8 @@
   awardeeZipCode: '926173062'
   fundsObligatedAmt: '709140'
   fundProgramName: SBIR Phase II
-  id: '1927071'
+  id: '1927071'
+  ttopic: am
   piEmail: bonessio@metaseismic.com
   piFirstName: Noemi
   piLastName: Bonessio
@@ -5793,7 +5962,8 @@
   awardeeZipCode: '303166701'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927573'
+  id: '1927573'
+  ttopic: ea
   piEmail: cspencer@tliveinc.com
   piFirstName: Charles
   piLastName: Spencer
@@ -5849,7 +6019,8 @@
   awardeeZipCode: '852573538'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853247'
+  id: '1853247'
+  ttopic: ai
   piEmail: harry.schmitt@auralanalytics.com
   piFirstName: Harry
   piLastName: Schmitt
@@ -5874,7 +6045,8 @@
   awardeeZipCode: '441225717'
   fundsObligatedAmt: '749996'
   fundProgramName: SBIR Phase II
-  id: '1853062'
+  id: '1853062'
+  ttopic: it
   piEmail: chris@sobergrid.com
   piFirstName: Christopher
   piLastName: Pesce
@@ -5930,7 +6102,8 @@
   awardeeZipCode: '436067237'
   fundsObligatedAmt: '726305'
   fundProgramName: SBIR Phase II
-  id: '1852902'
+  id: '1852902'
+  ttopic: md
   piEmail: smithagary@gmail.com
   piFirstName: Gary
   piLastName: Smith
@@ -5984,7 +6157,8 @@
   awardeeZipCode: '100149453'
   fundsObligatedAmt: '749926'
   fundProgramName: SBIR Phase II
-  id: '1853014'
+  id: '1853014'
+  ttopic: it
   piEmail: joe.ellis@vidrovr.com
   piFirstName: Joe
   piLastName: Ellis
@@ -6009,7 +6183,8 @@
   awardeeZipCode: '537151055'
   fundsObligatedAmt: '765987'
   fundProgramName: SBIR Phase II
-  id: '1853057'
+  id: '1853057'
+  ttopic: it
   piEmail: datachatrnd@gmail.com
   piFirstName: Aaron
   piLastName: Redlich
@@ -6033,7 +6208,8 @@
   awardeeZipCode: '017731512'
   fundsObligatedAmt: '680835'
   fundProgramName: SBIR Phase II
-  id: '1853059'
+  id: '1853059'
+  ttopic: s
   piEmail: marcie@advancedsilicongroup.com
   piFirstName: Marcie
   piLastName: Black
@@ -6059,7 +6235,8 @@
   awardeeZipCode: '300332616'
   fundsObligatedAmt: '749942'
   fundProgramName: SBIR Phase II
-  id: '1853142'
+  id: '1853142'
+  ttopic: dh
   piEmail: carsonwick@gmail.com
   piFirstName: Carson
   piLastName: Wick
@@ -6085,7 +6262,8 @@
   awardeeZipCode: '100168367'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853051'
+  id: '1853051'
+  ttopic: bt
   piEmail: charlotte@mousensor.com
   piFirstName: Charlotte
   piLastName: D'Hulst
@@ -6109,7 +6287,8 @@
   awardeeZipCode: '980405441'
   fundsObligatedAmt: '749985'
   fundProgramName: STTR PHASE II
-  id: '1853066'
+  id: '1853066'
+  ttopic: pt
   piEmail: EnTox13@gmail.com
   piFirstName: Daniel
   piLastName: Cook
@@ -6161,7 +6340,8 @@
   awardeeZipCode: '940623232'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853246'
+  id: '1853246'
+  ttopic: it
   piEmail: ross@temblor.net
   piFirstName: Ross
   piLastName: Stein
@@ -6214,7 +6394,8 @@
   awardeeZipCode: 089012126
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1852639'
+  id: '1852639'
+  ttopic: pt
   piEmail: michael.johnson@visikol.com
   piFirstName: Michael
   piLastName: Johnson
@@ -6240,7 +6421,8 @@
   awardeeZipCode: '787545961'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853183'
+  id: '1853183'
+  ttopic: r
   piEmail: bongsu.kim@linkdyn.com
   piFirstName: Bongsu
   piLastName: Kim
@@ -6265,7 +6447,8 @@
   awardeeZipCode: '150448492'
   fundsObligatedAmt: '715696'
   fundProgramName: SBIR Phase II
-  id: '1852971'
+  id: '1852971'
+  ttopic: ph
   piEmail: cpartee@steelcityoptronics.com
   piFirstName: Charles
   piLastName: Partee
@@ -6316,7 +6499,8 @@
   awardeeZipCode: '770212041'
   fundsObligatedAmt: '701914'
   fundProgramName: SBIR Phase II
-  id: '1852999'
+  id: '1852999'
+  ttopic: r
   piEmail: albert@allotropemed.com
   piFirstName: Albert
   piLastName: Huang
@@ -6367,7 +6551,8 @@
   awardeeZipCode: '803012620'
   fundsObligatedAmt: '743051'
   fundProgramName: SBIR Phase II
-  id: '1853146'
+  id: '1853146'
+  ttopic: r
   piEmail: ncorrell@colorado.edu
   piFirstName: Nicolaus
   piLastName: Correll
@@ -6393,7 +6578,8 @@
   awardeeZipCode: '479069063'
   fundsObligatedAmt: '703352'
   fundProgramName: SBIR Phase II
-  id: '1830918'
+  id: '1830918'
+  ttopic: dh
   piEmail: ruili@vibronixinc.com
   piFirstName: Rui
   piLastName: Li
@@ -6441,7 +6627,8 @@
   awardeeZipCode: '551044904'
   fundsObligatedAmt: '723522'
   fundProgramName: SBIR Phase II
-  id: '1853106'
+  id: '1853106'
+  ttopic: ct
   piEmail: ckrumm@gmail.com
   piFirstName: Christoph
   piLastName: Krumm
@@ -6466,7 +6653,8 @@
   awardeeZipCode: '752381648'
   fundsObligatedAmt: '746316'
   fundProgramName: SBIR Phase II
-  id: '1853201'
+  id: '1853201'
+  ttopic: ih
   piEmail: tom.moore@waviks.com
   piFirstName: Thomas
   piLastName: Moore
@@ -6519,7 +6707,8 @@
   awardeeZipCode: '940435265'
   fundsObligatedAmt: '749963'
   fundProgramName: SBIR Phase II
-  id: '1853253'
+  id: '1853253'
+  ttopic: ea
   piEmail: layla@chefkoochooloo.com
   piFirstName: Layla
   piLastName: Sabourian
@@ -6575,7 +6764,8 @@
   awardeeZipCode: '326013828'
   fundsObligatedAmt: '746721'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853068'
+  id: '1853068'
+  ttopic: ea
   piEmail: lindsey@immersedgames.com
   piFirstName: Lindsey
   piLastName: Tropf
@@ -6600,7 +6790,8 @@
   awardeeZipCode: '152171345'
   fundsObligatedAmt: '734023'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853259'
+  id: '1853259'
+  ttopic: i
   piEmail: plazik@andrew.cmu.edu
   piFirstName: Patrick
   piLastName: Lazik
@@ -6646,7 +6837,8 @@
   awardeeZipCode: '926301619'
   fundsObligatedAmt: '724313'
   fundProgramName: SBIR Phase II
-  id: '1853182'
+  id: '1853182'
+  ttopic: m
   piEmail: zack@sharkwheel.com
   piFirstName: zack
   piLastName: fleishman
@@ -6686,7 +6878,8 @@
   awardeeZipCode: '946022021'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853170'
+  id: '1853170'
+  ttopic: ea
   piEmail: jeff@litterati.org
   piFirstName: Jeff
   piLastName: Kirschner
@@ -6746,7 +6939,8 @@
   awardeeZipCode: '752044626'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853220'
+  id: '1853220'
+  ttopic: ep
   piEmail: agupta@skyventechnologies.com
   piFirstName: Arun
   piLastName: Gupta
@@ -6800,7 +6994,8 @@
   awardeeZipCode: '961616365'
   fundsObligatedAmt: '747753'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853242'
+  id: '1853242'
+  ttopic: md
   piEmail: tmowery@westfacemd.com
   piFirstName: Thomas
   piLastName: Mowery
@@ -6824,7 +7019,8 @@
   awardeeZipCode: '752528004'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853034'
+  id: '1853034'
+  ttopic: am
   piEmail: radu@aresmaterials.com
   piFirstName: Radu
   piLastName: Reit
@@ -6849,7 +7045,8 @@
   awardeeZipCode: '331361104'
   fundsObligatedAmt: '745283'
   fundProgramName: SBIR Phase II
-  id: '1853008'
+  id: '1853008'
+  ttopic: bt
   piEmail: nanosurja@gmail.com
   piFirstName: Juan
   piLastName: Arhancet
@@ -6874,7 +7071,8 @@
   awardeeZipCode: '940022011'
   fundsObligatedAmt: '758000'
   fundProgramName: SBIR Phase II
-  id: '1853245'
+  id: '1853245'
+  ttopic: bm
   piEmail: bioxytech@gmail.com
   piFirstName: Ali
   piLastName: Basiri
@@ -6899,7 +7097,8 @@
   awardeeZipCode: '323103747'
   fundsObligatedAmt: '769248'
   fundProgramName: SBIR Phase II
-  id: '1853060'
+  id: '1853060'
+  ttopic: se
   piEmail: reamonn.soto@gmail.com
   piFirstName: Reamonn
   piLastName: Soto
@@ -6925,7 +7124,8 @@
   awardeeZipCode: '820720000'
   fundsObligatedAmt: '755183'
   fundProgramName: SBIR Phase II
-  id: '1829664'
+  id: '1829664'
+  ttopic: it
   piEmail: brady.adams@tetoncomposites.com
   piFirstName: Brady
   piLastName: Adams
@@ -6971,7 +7171,8 @@
   awardeeZipCode: '113602523'
   fundsObligatedAmt: '711189'
   fundProgramName: STTR Phase II
-  id: '1831214'
+  id: '1831214'
+  ttopic: bt
   piEmail: mjwassil@aol.com
   piFirstName: Michael
   piLastName: Wassil
@@ -6996,7 +7197,8 @@
   awardeeZipCode: '940613237'
   fundsObligatedAmt: '745388'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831259'
+  id: '1831259'
+  ttopic: ph
   piEmail: rstevenson@rurisond.com
   piFirstName: robert
   piLastName: stevenson
@@ -7021,7 +7223,8 @@
   awardeeZipCode: '641521130'
   fundsObligatedAmt: '691183'
   fundProgramName: SBIR Phase II
-  id: '1831160'
+  id: '1831160'
+  ttopic: dh
   piEmail: maryk.oconnor@patientsvoices.net
   piFirstName: Mary Kay
   piLastName: O'Connor
@@ -7077,7 +7280,8 @@
   awardeeZipCode: '229033726'
   fundsObligatedAmt: '748389'
   fundProgramName: SBIR Phase II
-  id: '1831082'
+  id: '1831082'
+  ttopic: bt
   piEmail: kevin@cerillo.net
   piFirstName: Kevin
   piLastName: Seitter
@@ -7102,7 +7306,8 @@
   awardeeZipCode: '618227488'
   fundsObligatedAmt: '704525'
   fundProgramName: SBIR Phase II
-  id: '1831193'
+  id: '1831193'
+  ttopic: bm
   piEmail: bobby.reddy.jr@electrocyt.com
   piFirstName: Bobby
   piLastName: Reddy
@@ -7127,7 +7332,8 @@
   awardeeZipCode: '941581629'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1831273'
+  id: '1831273'
+  ttopic: it
   piEmail: tabbott@kandralabs.com
   piFirstName: Timothy
   piLastName: Abbott
@@ -7152,7 +7358,8 @@
   awardeeZipCode: '481042840'
   fundsObligatedAmt: '748104'
   fundProgramName: SBIR Phase II
-  id: '1758644'
+  id: '1758644'
+  ttopic: bt
   piEmail: mehrzad@parabricks.com
   piFirstName: Mehrzad
   piLastName: Samadiarakhshbahar
@@ -7176,7 +7383,8 @@
   awardeeZipCode: 021386832
   fundsObligatedAmt: '1228412'
   fundProgramName: SBIR Phase II
-  id: '1831203'
+  id: '1831203'
+  ttopic: ct
   piEmail: sdave@mit.edu
   piFirstName: Shreya
   piLastName: Dave
@@ -7201,7 +7409,8 @@
   awardeeZipCode: '618226879'
   fundsObligatedAmt: '909704'
   fundProgramName: SBIR Phase II
-  id: '1831263'
+  id: '1831263'
+  ttopic: i
   piEmail: kjrupnow@gmail.com
   piFirstName: Kyle
   piLastName: Rupnow
@@ -7253,7 +7462,8 @@
   awardeeZipCode: '914034910'
   fundsObligatedAmt: '890019'
   fundProgramName: SBIR Phase II
-  id: '1831168'
+  id: '1831168'
+  ttopic: ph
   piEmail: federal@bakmantechnologies.com
   piFirstName: Joseph
   piLastName: Demers
@@ -7306,7 +7516,8 @@
   awardeeZipCode: '921306956'
   fundsObligatedAmt: '748220'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831257'
+  id: '1831257'
+  ttopic: dh
   piEmail: patrik@caritherapeutics.com
   piFirstName: Patrik
   piLastName: Schmidle
@@ -7332,7 +7543,8 @@
   awardeeZipCode: '180522212'
   fundsObligatedAmt: '737213'
   fundProgramName: STTR Phase II
-  id: '1831220'
+  id: '1831220'
+  ttopic: am
   piEmail: sreyad@dynalene.com
   piFirstName: Sreya
   piLastName: Dutta
@@ -7357,7 +7569,8 @@
   awardeeZipCode: 021111901
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1831212'
+  id: '1831212'
+  ttopic: bm
   piEmail: paul@elektrofi.com
   piFirstName: Paul
   piLastName: Brown
@@ -7384,7 +7597,8 @@
   awardeeZipCode: '945905907'
   fundsObligatedAmt: '743322'
   fundProgramName: SBIR Phase II
-  id: '1831084'
+  id: '1831084'
+  ttopic: m
   piEmail: xwei@x-therma.com
   piFirstName: Xiaoxi
   piLastName: Wei
@@ -7409,7 +7623,8 @@
   awardeeZipCode: '920240000'
   fundsObligatedAmt: '725665'
   fundProgramName: SBIR Phase II
-  id: '1831206'
+  id: '1831206'
+  ttopic: ct
   piEmail: fcassou@cyclopure.com
   piFirstName: Frank
   piLastName: Cassou
@@ -7435,7 +7650,8 @@
   awardeeZipCode: '207742282'
   fundsObligatedAmt: '748716'
   fundProgramName: SBIR Phase II
-  id: '1831226'
+  id: '1831226'
+  ttopic: bt
   piEmail: mjharringtonphd@gmail.com
   piFirstName: Michael
   piLastName: Harrington
@@ -7461,7 +7677,8 @@
   awardeeZipCode: '941143321'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1830965'
+  id: '1830965'
+  ttopic: it
   piEmail: zoinks@gmail.com
   piFirstName: Jeevan
   piLastName: Kalanithi
@@ -7486,7 +7703,8 @@
   awardeeZipCode: '941032533'
   fundsObligatedAmt: '750000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831250'
+  id: '1831250'
+  ttopic: ea
   piEmail: dharm@cognii.com
   piFirstName: Dharmendra
   piLastName: Kanejiya
@@ -7510,7 +7728,8 @@
   awardeeZipCode: '770212041'
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1831150'
+  id: '1831150'
+  ttopic: md
   piEmail: sinead.miller@pathex.co
   piFirstName: Sinead
   piLastName: Miller
@@ -7535,7 +7754,8 @@
   awardeeZipCode: '940153046'
   fundsObligatedAmt: '1250000'
   fundProgramName: SBIR Phase II
-  id: '1831185'
+  id: '1831185'
+  ttopic: bt
   piEmail: administration@novomebio.com
   piFirstName: Weston
   piLastName: Whitaker
@@ -7560,7 +7780,8 @@
   awardeeZipCode: '022152421'
   fundsObligatedAmt: '750000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831192'
+  id: '1831192'
+  ttopic: bt
   piEmail: dfreedman@nanoviewdx.com
   piFirstName: David
   piLastName: Freedman
@@ -7585,7 +7806,8 @@
   awardeeZipCode: '947031627'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1831242'
+  id: '1831242'
+  ttopic: bt
   piEmail: denbycm@gmail.com
   piFirstName: Charles
   piLastName: Denby
@@ -7610,7 +7832,8 @@
   awardeeZipCode: '559017057'
   fundsObligatedAmt: '671031'
   fundProgramName: SBIR Phase II
-  id: '1758602'
+  id: '1758602'
+  ttopic: md
   piEmail: jeff@medicooltech.com
   piFirstName: Jeff
   piLastName: Rynbrandt
@@ -7655,7 +7878,8 @@
   awardeeZipCode: '943012010'
   fundsObligatedAmt: '1421129'
   fundProgramName: SBIR Phase II
-  id: '1758536'
+  id: '1758536'
+  ttopic: qt
   piEmail: randall.correll@qcware.com
   piFirstName: Randall
   piLastName: Correll
@@ -7680,7 +7904,8 @@
   awardeeZipCode: '945839116'
   fundsObligatedAmt: '1240743'
   fundProgramName: SBIR Phase II
-  id: '1758752'
+  id: '1758752'
+  ttopic: sp
   piEmail: sara@swarm-technologies.com
   piFirstName: Sara
   piLastName: Spangelo
@@ -7692,9 +7917,9 @@
   title: 'SBIR Phase II:  An Innovative and Open Satellite-Based Internet of Things
     (IoT) Network'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to extend the function of windows by turning them into daytime sources of electricity. The target market for this technology is tall buildings in urban areas, where electricity demand is the highest and the available space for installing solar cells is smallest. This technology utilizes a window tint that can absorb sunlight and remit light of a certain color through the window's glass to small solar cells located at the edges. This technology hasn't been commercialized previously because most tint materials typically absorb their own emitted light, limiting efficiency. This project will provide a novel solution to these problems with a low-cost window tint material made from quantum dots. The work conducted in this project focuses on scaling up prototypes and optimization for cost and reliability. With this technology, tall buildings will approach net-zero energy consumption or even supply electricity to the grid. This would reduce the city's carbon footprint as well as save money for the companies/individuals occupying these buildings, which would increase their prosperity and welfare. This technology would also reduce pollution by limiting the amount of burned fossil fuels needed to generate electricity. 
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to extend the function of windows by turning them into daytime sources of electricity. The target market for this technology is tall buildings in urban areas, where electricity demand is the highest and the available space for installing solar cells is smallest. This technology utilizes a window tint that can absorb sunlight and remit light of a certain color through the window's glass to small solar cells located at the edges. This technology hasn't been commercialized previously because most tint materials typically absorb their own emitted light, limiting efficiency. This project will provide a novel solution to these problems with a low-cost window tint material made from quantum dots. The work conducted in this project focuses on scaling up prototypes and optimization for cost and reliability. With this technology, tall buildings will approach net-zero energy consumption or even supply electricity to the grid. This would reduce the city's carbon footprint as well as save money for the companies/individuals occupying these buildings, which would increase their prosperity and welfare. This technology would also reduce pollution by limiting the amount of burned fossil fuels needed to generate electricity. 
 
-    The proposed project develops and scales up the electricity-generating window prototypes to the square meter size, validates long-term reliability, optimizes for manufacturing, and launches pilot projects. The technology is based on luminescent solar concentrators, which are made by tinting a window with a fluorophore material that partially absorbs sunlight and then converts it to fluorescence, preferably in the near-infrared. The fluorescence is trapped inside the window by total internal reflection and is concentrated to the edges where small solar cells efficiently convert that light into electricity. Utilizing this technology in windows to generate electricity has not been commercialized due to unsuitable fluorophores. The fluorophore used in this project are quantum dots composed of CuInSeS/ZnS, which solves the problems of previous materials. Traditional fluorophores like dyes typically have strong self-absorption, narrow spectral absorption, and poor stability. Quantum dots are more stable, but are expensive, sometimes toxic (due to heavy metals), and also suffer from self-absorption. The breakthrough in CuInSeS/ZnS quantum dots is that they are significantly cheaper, avoid toxic elements, have near-infrared fluorescence optimal for low-cost commercial solar cells, and do not self-absorb. At the conclusion of the phase II project, prototype products will be installed in at least one building. 
+    The proposed project develops and scales up the electricity-generating window prototypes to the square meter size, validates long-term reliability, optimizes for manufacturing, and launches pilot projects. The technology is based on luminescent solar concentrators, which are made by tinting a window with a fluorophore material that partially absorbs sunlight and then converts it to fluorescence, preferably in the near-infrared. The fluorescence is trapped inside the window by total internal reflection and is concentrated to the edges where small solar cells efficiently convert that light into electricity. Utilizing this technology in windows to generate electricity has not been commercialized due to unsuitable fluorophores. The fluorophore used in this project are quantum dots composed of CuInSeS/ZnS, which solves the problems of previous materials. Traditional fluorophores like dyes typically have strong self-absorption, narrow spectral absorption, and poor stability. Quantum dots are more stable, but are expensive, sometimes toxic (due to heavy metals), and also suffer from self-absorption. The breakthrough in CuInSeS/ZnS quantum dots is that they are significantly cheaper, avoid toxic elements, have near-infrared fluorescence optimal for low-cost commercial solar cells, and do not self-absorb. At the conclusion of the phase II project, prototype products will be installed in at least one building. 
 
     This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
   awardeeAddress: 134 Eastgate Dr
@@ -7705,7 +7930,8 @@
   awardeeZipCode: '875443336'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1758697'
+  id: '1758697'
+  ttopic: ph
   piEmail: hunter@UbiQD.com
   piFirstName: Hunter
   piLastName: McDaniel
@@ -7730,7 +7956,8 @@
   awardeeZipCode: '940801913'
   fundsObligatedAmt: '750000'
   fundProgramName: STTR Phase II
-  id: '1759075'
+  id: '1759075'
+  ttopic: bt
   piEmail: ryan@navan-tech.com
   piFirstName: Ryan
   piLastName: Swoboda
@@ -7780,7 +8007,8 @@
   awardeeZipCode: '805212025'
   fundsObligatedAmt: '909999'
   fundProgramName: SBIR Phase II
-  id: '1758587'
+  id: '1758587'
+  ttopic: bt
   piEmail: scott.fulbright@livinginktechnologies.com
   piFirstName: Scott
   piLastName: Fulbright
@@ -7805,7 +8033,8 @@
   awardeeZipCode: '276073009'
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1758659'
+  id: '1758659'
+  ttopic: bt
   piEmail: ramin.karimpour@als-s.com
   piFirstName: Ramin
   piLastName: Karimpour
@@ -7857,7 +8086,8 @@
   awardeeZipCode: '941095348'
   fundsObligatedAmt: '899999'
   fundProgramName: SBIR Phase II
-  id: '1758596'
+  id: '1758596'
+  ttopic: s
   piEmail: oskooi@simpetus.com
   piFirstName: Ardavan
   piLastName: Oskooi
@@ -7880,7 +8110,8 @@
   awardeeZipCode: '479061249'
   fundsObligatedAmt: '720011'
   fundProgramName: SBIR Phase II
-  id: '1738485'
+  id: '1738485'
+  ttopic: bt
   piEmail: maddy.houghton@vinsense.net
   piFirstName: Madeleine
   piLastName: Houghton
@@ -7924,7 +8155,8 @@
   awardeeZipCode: 021421190
   fundsObligatedAmt: '749955'
   fundProgramName: SBIR Phase II
-  id: '1738479'
+  id: '1738479'
+  ttopic: ai
   piEmail: santhony@perceptiveautomata.com
   piFirstName: Samuel
   piLastName: Anthony
@@ -7963,7 +8195,8 @@
   awardeeZipCode: '787201271'
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1738525'
+  id: '1738525'
+  ttopic: it
   piEmail: jiaoweitong1995@gmail.com
   piFirstName: Weitong
   piLastName: Jiao
@@ -7985,7 +8218,8 @@
   awardeeZipCode: '100125244'
   fundsObligatedAmt: '1409999'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738335'
+  id: '1738335'
+  ttopic: it
   piEmail: ilya+nsf@nimbledroid.com
   piFirstName: Ilya
   piLastName: Dreytser
@@ -8037,7 +8271,8 @@
   awardeeZipCode: '981083417'
   fundsObligatedAmt: '1399944'
   fundProgramName: SBIR Phase II
-  id: '1738317'
+  id: '1738317'
+  ttopic: it
   piEmail: greg@stabilitas.io
   piFirstName: Gregory
   piLastName: Adams
@@ -8062,7 +8297,8 @@
   awardeeZipCode: '499319010'
   fundsObligatedAmt: '865998'
   fundProgramName: STTR Phase II
-  id: '1738466'
+  id: '1738466'
+  ttopic: bt
   piEmail: nazmiyeyapici@stabiluxbiosciences.com
   piFirstName: Nazmiye
   piLastName: Yapici
@@ -8085,7 +8321,8 @@
   awardeeZipCode: '803025821'
   fundsObligatedAmt: '897999'
   fundProgramName: SBIR Phase II
-  id: '1738566'
+  id: '1738566'
+  ttopic: m
   piEmail: daniel@lightstanza.com
   piFirstName: Daniel
   piLastName: Glaser
@@ -8138,7 +8375,8 @@
   awardeeZipCode: 061083720
   fundsObligatedAmt: '759990'
   fundProgramName: SBIR Phase II
-  id: '1738291'
+  id: '1738291'
+  ttopic: ea
   piEmail: prsolomon@comcast.net
   piFirstName: Peter
   piLastName: Solomon
@@ -8181,7 +8419,8 @@
   awardeeZipCode: '950144442'
   fundsObligatedAmt: '909999'
   fundProgramName: STTR Phase II
-  id: '1738888'
+  id: '1738888'
+  ttopic: r
   piEmail: raja@zeroui.com
   piFirstName: Raja
   piLastName: Jasti
@@ -8230,7 +8469,8 @@
   awardeeZipCode: '803032837'
   fundsObligatedAmt: '1339998'
   fundProgramName: SBIR Phase II
-  id: '1738450'
+  id: '1738450'
+  ttopic: bt
   piEmail: matt@dmcbio.com
   piFirstName: Matthew
   piLastName: Lipscomb
@@ -8273,7 +8513,8 @@
   awardeeZipCode: 021385390
   fundsObligatedAmt: '719999'
   fundProgramName: SBIR Phase II
-  id: '1738463'
+  id: '1738463'
+  ttopic: bt
   piEmail: csantos@manusbio.com
   piFirstName: Christine
   piLastName: Santos
@@ -8296,7 +8537,8 @@
   awardeeZipCode: '191471335'
   fundsObligatedAmt: '888123'
   fundProgramName: SBIR Phase II
-  id: '1738443'
+  id: '1738443'
+  ttopic: bm
   piEmail: johann@instadiagnostics.com
   piFirstName: Johann
   piLastName: deSa
@@ -8351,7 +8593,8 @@
   awardeeZipCode: '372115808'
   fundsObligatedAmt: '894839'
   fundProgramName: SBIR Phase II
-  id: '1738332'
+  id: '1738332'
+  ttopic: ea
   piEmail: alan@benchfly.com
   piFirstName: Alan
   piLastName: Marnett
@@ -8403,7 +8646,8 @@
   awardeeZipCode: '152120000'
   fundsObligatedAmt: '888273'
   fundProgramName: SBIR Phase II
-  id: '1660158'
+  id: '1660158'
+  ttopic: it
   piEmail: pine@leanfmtech.com
   piFirstName: Xuesong
   piLastName: Liu
@@ -8425,7 +8669,8 @@
   awardeeZipCode: '956186059'
   fundsObligatedAmt: '925993'
   fundProgramName: SBIR Phase II
-  id: '1660142'
+  id: '1660142'
+  ttopic: bt
   piEmail: ranganathan.anupama@gmail.com
   piFirstName: Anupama
   piLastName: Ranganathan
@@ -8447,7 +8692,8 @@
   awardeeZipCode: 085420000
   fundsObligatedAmt: '915943'
   fundProgramName: SBIR Phase II
-  id: '1660146'
+  id: '1660146'
+  ttopic: i
   piEmail: adam@arable.com
   piFirstName: Adam
   piLastName: Wolf
@@ -8470,7 +8716,8 @@
   awardeeZipCode: '980523505'
   fundsObligatedAmt: '1409999'
   fundProgramName: SBIR Phase II
-  id: '1660095'
+  id: '1660095'
+  ttopic: it
   piEmail: albert@misappliedsciences.com
   piFirstName: Albert
   piLastName: Ng
@@ -8493,7 +8740,8 @@
   awardeeZipCode: '122033640'
   fundsObligatedAmt: '909979'
   fundProgramName: SBIR Phase II
-  id: '1660131'
+  id: '1660131'
+  ttopic: bt
   piEmail: ktorrejon@glauconix-biosciences.com
   piFirstName: Karen
   piLastName: Torrejon
@@ -8517,7 +8765,8 @@
   awardeeZipCode: '168032293'
   fundsObligatedAmt: '893320'
   fundProgramName: SBIR Phase II
-  id: '1660067'
+  id: '1660067'
+  ttopic: it
   piEmail: stephanie@gdacorp.com
   piFirstName: Stephanie
   piLastName: Hulina
@@ -8539,7 +8788,8 @@
   awardeeZipCode: '947041910'
   fundsObligatedAmt: '1203510'
   fundProgramName: SBIR Phase II
-  id: '1660232'
+  id: '1660232'
+  ttopic: ct
   piEmail: yinglinlouie@gmail.com
   piFirstName: YingLin
   piLastName: Louie
@@ -8561,7 +8811,8 @@
   awardeeZipCode: 088072380
   fundsObligatedAmt: '898955'
   fundProgramName: SBIR Phase II
-  id: '1660224'
+  id: '1660224'
+  ttopic: m
   piEmail: arturovillegasvaquero@gmail.com
   piFirstName: Arturo
   piLastName: Villegas Vaquero
@@ -8585,7 +8836,8 @@
   awardeeZipCode: '681313717'
   fundsObligatedAmt: '1409999'
   fundProgramName: SBIR Phase II
-  id: '1660238'
+  id: '1660238'
+  ttopic: md
   piEmail: eluxon@esculon.com
   piFirstName: Evan
   piLastName: Luxon
@@ -8608,7 +8860,8 @@
   awardeeZipCode: '474083912'
   fundsObligatedAmt: '1323521'
   fundProgramName: SBIR Phase II
-  id: '1660155'
+  id: '1660155'
+  ttopic: bt
   piEmail: robin@d2discovery.com
   piFirstName: Robin
   piLastName: McEntire
@@ -8649,7 +8902,8 @@
   awardeeZipCode: '100133141'
   fundsObligatedAmt: '1260000'
   fundProgramName: SBIR Phase II
-  id: '1660219'
+  id: '1660219'
+  ttopic: ai
   piEmail: jeremy@insightfinder.com
   piFirstName: Jeremy
   piLastName: Neuberger
@@ -8695,7 +8949,8 @@
   awardeeZipCode: '191462701'
   fundsObligatedAmt: '750000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660215'
+  id: '1660215'
+  ttopic: et
   piEmail: lisa.amriton@gmail.com
   piFirstName: Hui
   piLastName: Yu
@@ -8717,7 +8972,8 @@
   awardeeZipCode: '926182932'
   fundsObligatedAmt: '1398973'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660071'
+  id: '1660071'
+  ttopic: it
   piEmail: vladimir.alves@ngdsystems.com
   piFirstName: Vladimir
   piLastName: Alves
@@ -8740,7 +8996,8 @@
   awardeeZipCode: '618012744'
   fundsObligatedAmt: '1399996'
   fundProgramName: SBIR Phase II
-  id: '1660186'
+  id: '1660186'
+  ttopic: it
   piEmail: chris.hathhorn@runtimeverification.com
   piFirstName: Chris
   piLastName: Hathhorn
@@ -8794,7 +9051,8 @@
   awardeeZipCode: '532026669'
   fundsObligatedAmt: '1276000'
   fundProgramName: SBIR Phase II
-  id: '1660080'
+  id: '1660080'
+  ttopic: dh
   piEmail: mike@consortiex.com
   piFirstName: Michael
   piLastName: Krenzke
@@ -8843,7 +9101,8 @@
   awardeeZipCode: '852816955'
   fundsObligatedAmt: '899945'
   fundProgramName: SBIR Phase II
-  id: '1660235'
+  id: '1660235'
+  ttopic: r
   piEmail: jeff.ward@springactive.com
   piFirstName: Jeffrey
   piLastName: Ward
@@ -8893,7 +9152,8 @@
   awardeeZipCode: 021394662
   fundsObligatedAmt: '1399965'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660214'
+  id: '1660214'
+  ttopic: ih
   piEmail: s.bellemare@bymmt.com
   piFirstName: Simon
   piLastName: Bellemare
@@ -8942,7 +9202,8 @@
   awardeeZipCode: '148501325'
   fundsObligatedAmt: '1077593'
   fundProgramName: SBIR Phase II
-  id: '1632534'
+  id: '1632534'
+  ttopic: n
   piEmail: kwame.amponsah@xallent.com
   piFirstName: Kwame
   piLastName: Amponsah
@@ -8995,7 +9256,8 @@
   awardeeZipCode: '631081501'
   fundsObligatedAmt: '749373'
   fundProgramName: SBIR Phase II
-  id: '1632394'
+  id: '1632394'
+  ttopic: ct
   piEmail: david@glucanbio.com
   piFirstName: David
   piLastName: Alonso
@@ -9042,7 +9304,8 @@
   awardeeZipCode: 018801256
   fundsObligatedAmt: '1425999'
   fundProgramName: SBIR Phase II
-  id: '1632420'
+  id: '1632420'
+  ttopic: bt
   piEmail: belinda@pdsbio.com
   piFirstName: Belinda
   piLastName: Pastrana
@@ -9065,7 +9328,8 @@
   awardeeZipCode: '198011145'
   fundsObligatedAmt: '1228083'
   fundProgramName: SBIR Phase II
-  id: '1632486'
+  id: '1632486'
+  ttopic: ct
   piEmail: ray@framergy.com
   piFirstName: OSMAN
   piLastName: OZDEMIR
@@ -9089,7 +9353,8 @@
   awardeeZipCode: '303081019'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1632248'
+  id: '1632248'
+  ttopic: it
   piEmail: habib@pointivo.com
   piFirstName: Habib
   piLastName: Fathi
@@ -9141,7 +9406,8 @@
   awardeeZipCode: 060321913
   fundsObligatedAmt: '1037071'
   fundProgramName: SBIR Phase II
-  id: '1632465'
+  id: '1632465'
+  ttopic: md
   piEmail: nicole.wagner508@gmail.com
   piFirstName: Nicole
   piLastName: Wagner
@@ -9165,7 +9431,8 @@
   awardeeZipCode: '787033125'
   fundsObligatedAmt: '1193494'
   fundProgramName: SBIR Phase II
-  id: '1632399'
+  id: '1632399'
+  ttopic: bt
   piEmail: monica@macromoltek.com
   piFirstName: Monica
   piLastName: Berrondo
@@ -9188,7 +9455,8 @@
   awardeeZipCode: 021384115
   fundsObligatedAmt: '1413603'
   fundProgramName: SBIR Phase II
-  id: '1632387'
+  id: '1632387'
+  ttopic: ih
   piEmail: yuriy.atanasov@uniqarta.com
   piFirstName: Yuriy
   piLastName: Atanasov
@@ -9210,7 +9478,8 @@
   awardeeZipCode: '959285360'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1632429'
+  id: '1632429'
+  ttopic: it
   piEmail: curt@hbrisk.com
   piFirstName: Curt
   piLastName: Haselton
@@ -9233,7 +9502,8 @@
   awardeeZipCode: '921211557'
   fundsObligatedAmt: '1409462'
   fundProgramName: SBIR Phase II
-  id: '1632269'
+  id: '1632269'
+  ttopic: i
   piEmail: syamamoto@matrixsensorsinc.com
   piFirstName: Steve
   piLastName: Yamamoto
@@ -9277,7 +9547,8 @@
   awardeeZipCode: '943041118'
   fundsObligatedAmt: '1417930'
   fundProgramName: SBIR Phase II
-  id: '1632268'
+  id: '1632268'
+  ttopic: se
   piEmail: noureddine.tayebi@insenseinc.com
   piFirstName: Noureddine
   piLastName: Tayebi
@@ -9300,7 +9571,8 @@
   awardeeZipCode: '926725481'
   fundsObligatedAmt: '1165698'
   fundProgramName: SBIR Phase II
-  id: '1632566'
+  id: '1632566'
+  ttopic: s
   piEmail: dawei.wang@carbontekinc.com
   piFirstName: Dawei
   piLastName: Wang
@@ -9322,7 +9594,8 @@
   awardeeZipCode: '017420000'
   fundsObligatedAmt: '1496989'
   fundProgramName: SBIR Phase II
-  id: '1534781'
+  id: '1534781'
+  ttopic: dh
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
   piLastName: Fulford-Jones
@@ -9375,7 +9648,8 @@
   awardeeZipCode: '145869687'
   fundsObligatedAmt: '1113353'
   fundProgramName: SBIR Phase II
-  id: '1534701'
+  id: '1534701'
+  ttopic: ih
   piEmail: cristina@lightoptech.com
   piFirstName: Cristina
   piLastName: Canavesi
@@ -9398,7 +9672,8 @@
   awardeeZipCode: '857011511'
   fundsObligatedAmt: '1408239'
   fundProgramName: SBIR Phase II
-  id: '1534760'
+  id: '1534760'
+  ttopic: it
   piEmail: planjery@codelucida.com
   piFirstName: Shiva
   piLastName: Planjery
@@ -9450,7 +9725,8 @@
   awardeeZipCode: '980527615'
   fundsObligatedAmt: '1425999'
   fundProgramName: SBIR Phase II
-  id: '1534779'
+  id: '1534779'
+  ttopic: ph
   piEmail: mullen@etaphase.com
   piFirstName: Ruth
   piLastName: Mullen
@@ -9474,7 +9750,8 @@
   awardeeZipCode: '940254834'
   fundsObligatedAmt: '1390216'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1456070'
+  id: '1456070'
+  ttopic: md
   piEmail: coe.jonathan@gmail.com
   piFirstName: Jonathan
   piLastName: Coe
@@ -9514,7 +9791,8 @@
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '1148154'
   fundProgramName: SBIR Phase II
-  id: '1457418'
+  id: '1457418'
+  ttopic: n
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
   piLastName: Jaiswal
@@ -9558,7 +9836,8 @@
   awardeeZipCode: '021554243'
   fundsObligatedAmt: '1230423'
   fundProgramName: SBIR Phase II
-  id: '1430813'
+  id: '1430813'
+  ttopic: bt
   piEmail: n.taylor@enevolv.com
   piFirstName: Noah
   piLastName: Taylor
@@ -9613,7 +9892,8 @@
   awardeeZipCode: '911033046'
   fundsObligatedAmt: '1497949'
   fundProgramName: SBIR Phase II
-  id: '1353643'
+  id: '1353643'
+  ttopic: md
   piEmail: tuan.hoang@senseer.us
   piFirstName: Tuan
   piLastName: Hoang
@@ -9664,7 +9944,8 @@
   awardeeZipCode: '685032495'
   fundsObligatedAmt: '1361310'
   fundProgramName: SBIR Phase II
-  id: '1353246'
+  id: '1353246'
+  ttopic: ct
   piEmail: elyons@gfpharma.com
   piFirstName: Edward
   piLastName: Lyons
@@ -9703,7 +9984,8 @@
   awardeeZipCode: '956162677'
   fundsObligatedAmt: '727126'
   fundProgramName: SBIR Phase II
-  id: '1927067'
+  id: '1927067'
+  ttopic: ih
   piEmail: ivan.ferenc@photonlab1.com
   piFirstName: Ivan
   piLastName: Ferenc Segedin
@@ -9750,7 +10032,8 @@
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927546'
+  id: '1927546'
+  ttopic: s
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
   piLastName: Jaiswal
@@ -9790,7 +10073,8 @@
   awardeeZipCode: '481052541'
   fundsObligatedAmt: '736553'
   fundProgramName: SBIR Phase II
-  id: '1926652'
+  id: '1926652'
+  ttopic: i
   piEmail: glazer18@gmail.com
   piFirstName: Yariv
   piLastName: Glazer
@@ -9844,7 +10128,8 @@
   awardeeZipCode: '372122203'
   fundsObligatedAmt: '701887'
   fundProgramName: SBIR Phase II
-  id: '1927160'
+  id: '1927160'
+  ttopic: ea
   piEmail: lana@muzology.com
   piFirstName: Lana
   piLastName: Israel
@@ -9868,7 +10153,8 @@
   awardeeZipCode: '379312052'
   fundsObligatedAmt: '749998'
   fundProgramName: SBIR Phase II
-  id: '1926899'
+  id: '1926899'
+  ttopic: ct
   piEmail: ming.qi@peroxygensystems.com
   piFirstName: Ming
   piLastName: Qi
@@ -9893,7 +10179,8 @@
   awardeeZipCode: 021384115
   fundsObligatedAmt: '749747'
   fundProgramName: SBIR Phase II
-  id: '1926881'
+  id: '1926881'
+  ttopic: ph
   piEmail: matt.semler@uniqarta.com
   piFirstName: Matthew
   piLastName: Semler
@@ -9918,7 +10205,8 @@
   awardeeZipCode: '300931800'
   fundsObligatedAmt: '748654'
   fundProgramName: SBIR Phase II
-  id: '1926847'
+  id: '1926847'
+  ttopic: i
   piEmail: zack@firehud.co
   piFirstName: Zachary
   piLastName: Braun
@@ -9943,7 +10231,8 @@
   awardeeZipCode: '951641596'
   fundsObligatedAmt: '694631'
   fundProgramName: SBIR Phase II
-  id: '1927574'
+  id: '1927574'
+  ttopic: i
   piEmail: pm_sensor@yahoo.com
   piFirstName: David
   piLastName: Woolsey
@@ -9967,7 +10256,8 @@
   awardeeZipCode: '802043109'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927058'
+  id: '1927058'
+  ttopic: ih
   piEmail: kg@tcarta.com
   piFirstName: Kyle
   piLastName: Goodrich
@@ -10006,7 +10296,8 @@
   awardeeZipCode: '921273708'
   fundsObligatedAmt: '725090'
   fundProgramName: SBIR Phase II
-  id: '1927082'
+  id: '1927082'
+  ttopic: ph
   piEmail: ashok@axalume.com
   piFirstName: Ashok
   piLastName: Krishnamoorthy
@@ -10051,7 +10342,8 @@
   awardeeZipCode: '787598950'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1927045'
+  id: '1927045'
+  ttopic: i
   piEmail: greg.floyd@showerstream.net
   piFirstName: Gregory
   piLastName: Floyd
@@ -10075,7 +10367,8 @@
   awardeeZipCode: '551045127'
   fundsObligatedAmt: '743082'
   fundProgramName: SBIR Phase II
-  id: '1927568'
+  id: '1927568'
+  ttopic: r
   piEmail: pahplonski@gmail.com
   piFirstName: Patrick
   piLastName: Plonski
@@ -10100,7 +10393,8 @@
   awardeeZipCode: '208162608'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926683'
+  id: '1926683'
+  ttopic: i
   piEmail: williamdeng@armaments.us
   piFirstName: William
   piLastName: Deng
@@ -10124,7 +10418,8 @@
   awardeeZipCode: '372125112'
   fundsObligatedAmt: '744224'
   fundProgramName: SBIR Phase II
-  id: '1927086'
+  id: '1927086'
+  ttopic: bm
   piEmail: tim.boire@venostent.com
   piFirstName: Timothy
   piLastName: Boire
@@ -10177,7 +10472,8 @@
   awardeeZipCode: '152381329'
   fundsObligatedAmt: '742796'
   fundProgramName: SBIR Phase II
-  id: '1927021'
+  id: '1927021'
+  ttopic: ct
   piEmail: tonia@biohybridsolutions.com
   piFirstName: Antonina
   piLastName: Simakova
@@ -10202,7 +10498,8 @@
   awardeeZipCode: '803027120'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1926981'
+  id: '1926981'
+  ttopic: ct
   piEmail: justin@emergylabs.com
   piFirstName: Justin
   piLastName: Whiteley
@@ -10228,7 +10525,8 @@
   awardeeZipCode: '947041347'
   fundsObligatedAmt: '733898'
   fundProgramName: SBIR Phase II
-  id: '1927010'
+  id: '1927010'
+  ttopic: r
   piEmail: agogino@berkeley.edu
   piFirstName: Alice
   piLastName: Agogino
@@ -10284,7 +10582,8 @@
   awardeeZipCode: '805242675'
   fundsObligatedAmt: '898347'
   fundProgramName: SBIR Phase II
-  id: '1853240'
+  id: '1853240'
+  ttopic: et
   piEmail: pkeady@aerosoldevices.com
   piFirstName: Patricia
   piLastName: Keady
@@ -10310,7 +10609,8 @@
   awardeeZipCode: 088079999
   fundsObligatedAmt: '662453'
   fundProgramName: SBIR Phase II
-  id: '1852679'
+  id: '1852679'
+  ttopic: et
   piEmail: nanodesal17@gmail.com
   piFirstName: Cheng
   piLastName: Li
@@ -10356,7 +10656,8 @@
   awardeeZipCode: '820725388'
   fundsObligatedAmt: '759947'
   fundProgramName: SBIR Phase II
-  id: '1853136'
+  id: '1853136'
+  ttopic: en
   piEmail: tnealon@esalinity.com
   piFirstName: Teresa
   piLastName: Nealon
@@ -10381,7 +10682,8 @@
   awardeeZipCode: '136764039'
   fundsObligatedAmt: '915999'
   fundProgramName: STTR Phase II
-  id: '1853522'
+  id: '1853522'
+  ttopic: et
   piEmail: vijay@aerfil.com
   piFirstName: R
   piLastName: Vijayakumar
@@ -10406,7 +10708,8 @@
   awardeeZipCode: '941211008'
   fundsObligatedAmt: '765740'
   fundProgramName: SBIR Phase II
-  id: '1853156'
+  id: '1853156'
+  ttopic: ih
   piEmail: com@miradatechnologies.com
   piFirstName: Andrew
   piLastName: Miner
@@ -10430,7 +10733,8 @@
   awardeeZipCode: '926605437'
   fundsObligatedAmt: '744986'
   fundProgramName: SBIR Phase II
-  id: '1852996'
+  id: '1852996'
+  ttopic: i
   piEmail: mbachman@integradevices.com
   piFirstName: Mark
   piLastName: Bachman
@@ -10471,7 +10775,8 @@
   awardeeZipCode: '840585803'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1853212'
+  id: '1853212'
+  ttopic: ea
   piEmail: skyler@infinidlearning.com
   piFirstName: Anthony
   piLastName: Carr
@@ -10497,7 +10802,8 @@
   awardeeZipCode: '911073145'
   fundsObligatedAmt: '741210'
   fundProgramName: SBIR Phase II
-  id: '1853160'
+  id: '1853160'
+  ttopic: ih
   piEmail: sm@gigajot.tech
   piFirstName: Saleh
   piLastName: Masoodian
@@ -10522,7 +10828,8 @@
   awardeeZipCode: '432120000'
   fundsObligatedAmt: '740857'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853115'
+  id: '1853115'
+  ttopic: s
   piEmail: vasil.hlinka@awareabilitytechnologies.com
   piFirstName: Vasil
   piLastName: Hlinka
@@ -10575,7 +10882,8 @@
   awardeeZipCode: '840098187'
   fundsObligatedAmt: '749995'
   fundProgramName: SBIR Phase II
-  id: '1852979'
+  id: '1852979'
+  ttopic: ea
   piEmail: andrea@teachingitright.com
   piFirstName: Andrea
   piLastName: Johnson
@@ -10631,7 +10939,8 @@
   awardeeZipCode: '537033432'
   fundsObligatedAmt: '733132'
   fundProgramName: SBIR Phase II
-  id: '1853206'
+  id: '1853206'
+  ttopic: ea
   piEmail: white@filamentgames.com
   piFirstName: Daniel
   piLastName: White
@@ -10688,7 +10997,8 @@
   awardeeZipCode: '100113729'
   fundsObligatedAmt: '767800'
   fundProgramName: SBIR Phase II
-  id: '1853120'
+  id: '1853120'
+  ttopic: ea
   piEmail: juliette@hatsandladders.com
   piFirstName: Juliette
   piLastName: Adams
@@ -10738,7 +11048,8 @@
   awardeeZipCode: '803025224'
   fundsObligatedAmt: '760000'
   fundProgramName: SBIR Phase II
-  id: '1853226'
+  id: '1853226'
+  ttopic: ea
   piEmail: andrew.randono@alefomega.com
   piFirstName: Andrew
   piLastName: Randono
@@ -10763,7 +11074,8 @@
   awardeeZipCode: '488644078'
   fundsObligatedAmt: '713644'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853192'
+  id: '1853192'
+  ttopic: i
   piEmail: prabode@venturit.com
   piFirstName: Chandana
   piLastName: Weebadde
@@ -10789,7 +11101,8 @@
   awardeeZipCode: '111012929'
   fundsObligatedAmt: '730200'
   fundProgramName: SBIR Phase II
-  id: '1853105'
+  id: '1853105'
+  ttopic: se
   piEmail: linh@flextrapower.com
   piFirstName: Linh
   piLastName: Le
@@ -10845,7 +11158,8 @@
   awardeeZipCode: '277132220'
   fundsObligatedAmt: '749880'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1853055'
+  id: '1853055'
+  ttopic: ea
   piEmail: jim@centervention.com
   piFirstName: James
   piLastName: Thomas
@@ -10871,7 +11185,8 @@
   awardeeZipCode: '981070000'
   fundsObligatedAmt: '718106'
   fundProgramName: SBIR Phase II
-  id: '1853244'
+  id: '1853244'
+  ttopic: md
   piEmail: markm@otonexus.com
   piFirstName: Mark
   piLastName: Moehring
@@ -10896,7 +11211,8 @@
   awardeeZipCode: '370723204'
   fundsObligatedAmt: '899999'
   fundProgramName: STTR Phase II
-  id: '1831949'
+  id: '1831949'
+  ttopic: m
   piEmail: shawn@stonycreekcolors.com
   piFirstName: Shawn
   piLastName: Genung
@@ -10921,7 +11237,8 @@
   awardeeZipCode: '945880000'
   fundsObligatedAmt: '915670'
   fundProgramName: SBIR Phase II
-  id: '1831253'
+  id: '1831253'
+  ttopic: ih
   piEmail: joe@inkspaceimaging.com
   piFirstName: Joseph
   piLastName: Corea
@@ -10947,7 +11264,8 @@
   awardeeZipCode: '951171801'
   fundsObligatedAmt: '764806'
   fundProgramName: SBIR Phase II
-  id: '1831274'
+  id: '1831274'
+  ttopic: ih
   piEmail: meng@muravision.com
   piFirstName: Lingfei
   piLastName: Meng
@@ -11000,7 +11318,8 @@
   awardeeZipCode: '479061108'
   fundsObligatedAmt: '747765'
   fundProgramName: SBIR Phase II
-  id: '1831805'
+  id: '1831805'
+  ttopic: ph
   piEmail: heltzel@pcka.com
   piFirstName: Alex
   piLastName: Heltzel
@@ -11049,7 +11368,8 @@
   awardeeZipCode: '947102737'
   fundsObligatedAmt: '722669'
   fundProgramName: SBIR Phase II
-  id: '1831078'
+  id: '1831078'
+  ttopic: ct
   piEmail: ben@saratoga-energy.com
   piFirstName: Benjamin
   piLastName: Rush
@@ -11076,7 +11396,8 @@
   awardeeZipCode: '329512716'
   fundsObligatedAmt: '741395'
   fundProgramName: SBIR Phase II
-  id: '1831060'
+  id: '1831060'
+  ttopic: ea
   piEmail: josh@codecraftworks.com
   piFirstName: Josh
   piLastName: Landin
@@ -11101,7 +11422,8 @@
   awardeeZipCode: '531511915'
   fundsObligatedAmt: '626856'
   fundProgramName: SBIR Phase II
-  id: '1831221'
+  id: '1831221'
+  ttopic: ep
   piEmail: ezana@imagenenergy.com
   piFirstName: Ezana
   piLastName: Mekonnen
@@ -11126,7 +11448,8 @@
   awardeeZipCode: '168036602'
   fundsObligatedAmt: '729737'
   fundProgramName: SBIR Phase II
-  id: '1831224'
+  id: '1831224'
+  ttopic: se
   piEmail: perry@atoptix.com
   piFirstName: Perry
   piLastName: Edwards
@@ -11184,7 +11507,8 @@
   awardeeZipCode: '662123420'
   fundsObligatedAmt: '720181'
   fundProgramName: SBIR Phase II
-  id: '1831243'
+  id: '1831243'
+  ttopic: bm
   piEmail: roy@impedx.com
   piFirstName: Roy
   piLastName: Swiger
@@ -11210,7 +11534,8 @@
   awardeeZipCode: '968221862'
   fundsObligatedAmt: '1085986'
   fundProgramName: STTR Phase II
-  id: '1831303'
+  id: '1831303'
+  ttopic: se
   piEmail: amy.droitcour@adnoviv.com
   piFirstName: Amy
   piLastName: Droitcour
@@ -11235,7 +11560,8 @@
   awardeeZipCode: '940871621'
   fundsObligatedAmt: '899999'
   fundProgramName: SBIR Phase II
-  id: '1831086'
+  id: '1831086'
+  ttopic: i
   piEmail: tsmenard@sinwaves.com
   piFirstName: Timothy
   piLastName: Menard
@@ -11262,7 +11588,8 @@
   awardeeZipCode: '921303226'
   fundsObligatedAmt: '772718'
   fundProgramName: SBIR Phase II
-  id: '1831294'
+  id: '1831294'
+  ttopic: ea
   piEmail: lellivde@eng.ucsd.edu
   piFirstName: Lelli
   piLastName: VanDenEinde
@@ -11309,7 +11636,8 @@
   awardeeZipCode: '900211602'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1830987'
+  id: '1830987'
+  ttopic: ct
   piEmail: moby@ambercycleinc.com
   piFirstName: Mubasher
   piLastName: Ahmed
@@ -11333,7 +11661,8 @@
   awardeeZipCode: '841153110'
   fundsObligatedAmt: '937217'
   fundProgramName: SBIR Phase II
-  id: '1831249'
+  id: '1831249'
+  ttopic: bm
   piEmail: p.tathireddy@appliedbiosensors.com
   piFirstName: Prashant
   piLastName: Tathireddy
@@ -11364,7 +11693,8 @@
   awardeeZipCode: '940223657'
   fundsObligatedAmt: '744018'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831191'
+  id: '1831191'
+  ttopic: ep
   piEmail: cheng@powerflexsystems.com
   piFirstName: Cheng
   piLastName: Jin
@@ -11388,7 +11718,8 @@
   awardeeZipCode: '229025364'
   fundsObligatedAmt: '750000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831176'
+  id: '1831176'
+  ttopic: bm
   piEmail: kilroy@sound-pipe.com
   piFirstName: Joseph
   piLastName: Kilroy
@@ -11413,7 +11744,8 @@
   awardeeZipCode: '991632400'
   fundsObligatedAmt: '881050'
   fundProgramName: SBIR Phase II
-  id: '1830766'
+  id: '1830766'
+  ttopic: ih
   piEmail: rlytel@klarscientific.com
   piFirstName: Richard
   piLastName: Lytel
@@ -11438,7 +11770,8 @@
   awardeeZipCode: '335635045'
   fundsObligatedAmt: '749720'
   fundProgramName: SBIR Phase II
-  id: '1831161'
+  id: '1831161'
+  ttopic: r
   piEmail: bob@harvestcroorobotics.com
   piFirstName: Robert
   piLastName: Pitzer
@@ -11464,7 +11797,8 @@
   awardeeZipCode: '850340000'
   fundsObligatedAmt: '728535'
   fundProgramName: SBIR Phase II
-  id: '1830986'
+  id: '1830986'
+  ttopic: am
   piEmail: admin@floracoating.com
   piFirstName: ANUPAMA
   piLastName: CHATURVEDI
@@ -11490,7 +11824,8 @@
   awardeeZipCode: '152195971'
   fundsObligatedAmt: '761999'
   fundProgramName: STTR Phase II
-  id: '1831177'
+  id: '1831177'
+  ttopic: ea
   piEmail: tlauwers@birdbraintechnologies.com
   piFirstName: Tom
   piLastName: Lauwers
@@ -11535,7 +11870,8 @@
   awardeeZipCode: '947032166'
   fundsObligatedAmt: '1409999'
   fundProgramName: SBIR Phase II
-  id: '1758539'
+  id: '1758539'
+  ttopic: dh
   piEmail: gnetscher@gmail.com
   piFirstName: George
   piLastName: Netscher
@@ -11560,7 +11896,8 @@
   awardeeZipCode: '950541157'
   fundsObligatedAmt: '899864'
   fundProgramName: SBIR Phase II
-  id: '1758684'
+  id: '1758684'
+  ttopic: dh
   piEmail: partha.dattaray@albeado.com
   piFirstName: PARTHA
   piLastName: DATTA RAY
@@ -11585,7 +11922,8 @@
   awardeeZipCode: '857505903'
   fundsObligatedAmt: '878602'
   fundProgramName: SBIR Phase II
-  id: '1758547'
+  id: '1758547'
+  ttopic: w
   piEmail: lmcrlmcr@gmail.com
   piFirstName: Min
   piLastName: Liang
@@ -11610,7 +11948,8 @@
   awardeeZipCode: '017420000'
   fundsObligatedAmt: '925999'
   fundProgramName: SBIR Phase II
-  id: '1758650'
+  id: '1758650'
+  ttopic: dh
   piEmail: thaddeus@radialanalytics.com
   piFirstName: Thaddeus
   piLastName: Fulford-Jones
@@ -11637,7 +11976,8 @@
   awardeeZipCode: '950601706'
   fundsObligatedAmt: '741936'
   fundProgramName: SBIR Phase II
-  id: '1758663'
+  id: '1758663'
+  ttopic: ea
   piEmail: jaysilver@gmail.com
   piFirstName: Jay
   piLastName: Silver
@@ -11650,7 +11990,7 @@
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is that if successful, the results of this project will revolutionize large area LED array assembly manufacturing, leading to unprecedented growth of the direct view LED display market. Direct view LED displays, or video walls, are becoming more ubiquitous in everyday life. First only appearing in sports stadiums, they have gradually started appearing in retail advertising, and now are starting to appear in cinemas and control rooms. These types of displays are much brighter, have better contrast ratios, faster refresh rates, and are more energy efficient than other competing display technologies. Despite these advantages, rate of adoption is very slow, limited by the cost and time required to make these displays. Current manufacturing tools are facing a bottleneck as display resolutions increase. A massively parallel assembly technology could drastically increase production speeds while reducing cost-of-goods. Additionally, the knowledge gained by the research into this self-assembly technology has the potential to unlock new opportunities in semiconductor packaging including lighting and concentrated solar.
 
-    The proposed project seeks to speed-up the LED placement process by leveraging the parallel nature of directed self-assembly. Rather than placing individual LEDs into a grid-array as it is done today, this technology utilizes confining magnetic fields to quickly and simply arrange hundreds or thousands of LEDs into a neat and ordered grid-array. The objective is to achieve assembly speeds at least 5 times faster than conventional tools. The research will focus on the effects of LED size and geometry on accuracy, rate, and yield. Additionally,  new magnetic field stages to enhance assembly precision will be developed. The key anticipated results are (1) a system that will be able to rapidly assemble thousands of LED die with the precision necessary for high-resolution displays and (2) a fully operational LED display panel constructed with this technology to demonstrate the manufacturing potential of this technology.
+    The proposed project seeks to speed-up the LED placement process by leveraging the parallel nature of directed self-assembly. Rather than placing individual LEDs into a grid-array as it is done today, this technology utilizes confining magnetic fields to quickly and simply arrange hundreds or thousands of LEDs into a neat and ordered grid-array. The objective is to achieve assembly speeds at least 5 times faster than conventional tools. The research will focus on the effects of LED size and geometry on accuracy, rate, and yield. Additionally,  new magnetic field stages to enhance assembly precision will be developed. The key anticipated results are (1) a system that will be able to rapidly assemble thousands of LED die with the precision necessary for high-resolution displays and (2) a fully operational LED display panel constructed with this technology to demonstrate the manufacturing potential of this technology.
 
     This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
   awardeeAddress: 333 Broadway
@@ -11661,7 +12001,8 @@
   awardeeZipCode: '121803906'
   fundsObligatedAmt: '930031'
   fundProgramName: SBIR Phase II
-  id: '1758627'
+  id: '1758627'
+  ttopic: ph
   piEmail: Michael.conward@selfarray.com
   piFirstName: Michael
   piLastName: Conward
@@ -11687,7 +12028,8 @@
   awardeeZipCode: '943061043'
   fundsObligatedAmt: '989998'
   fundProgramName: SBIR Phase II
-  id: '1758301'
+  id: '1758301'
+  ttopic: ea
   piEmail: shivramv@gmail.com
   piFirstName: Shivram
   piLastName: Venkatasubramaniam
@@ -11713,7 +12055,8 @@
   awardeeZipCode: '286553464'
   fundsObligatedAmt: '939999'
   fundProgramName: SBIR Phase II
-  id: '1758638'
+  id: '1758638'
+  ttopic: m
   piEmail: info@impactbonding.com
   piFirstName: Peter
   piLastName: Lohr
@@ -11740,7 +12083,8 @@
   awardeeZipCode: '902492942'
   fundsObligatedAmt: '1399999'
   fundProgramName: SBIR Phase II
-  id: '1757478'
+  id: '1757478'
+  ttopic: m
   piEmail: matt.petros@3deo.co
   piFirstName: Matthew
   piLastName: Petros
@@ -11787,7 +12131,8 @@
   awardeeZipCode: '941073007'
   fundsObligatedAmt: '764400'
   fundProgramName: STTR Phase II
-  id: '1758591'
+  id: '1758591'
+  ttopic: bt
   piEmail: zachary.sun@gmail.com
   piFirstName: Zachary
   piLastName: Sun
@@ -11813,7 +12158,8 @@
   awardeeZipCode: '931033124'
   fundsObligatedAmt: '764165'
   fundProgramName: SBIR Phase II
-  id: '1758320'
+  id: '1758320'
+  ttopic: ph
   piEmail: kristin.denault@fluencylighting.com
   piFirstName: Kristin
   piLastName: Denault
@@ -11857,7 +12203,8 @@
   awardeeZipCode: '921212751'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1758583'
+  id: '1758583'
+  ttopic: ih
   piEmail: soluda101@foxmail.com
   piFirstName: Tong
   piLastName: Cui
@@ -11903,7 +12250,8 @@
   awardeeZipCode: '843411994'
   fundsObligatedAmt: '749214'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758543'
+  id: '1758543'
+  ttopic: w
   piEmail: asaduzzaman.towfiq@i5technologies.com
   piFirstName: MD ASADUZZAMAN
   piLastName: TOWFIQ
@@ -11926,7 +12274,8 @@
   awardeeZipCode: '947041517'
   fundsObligatedAmt: '1415837'
   fundProgramName: SBIR Phase II
-  id: '1758545'
+  id: '1758545'
+  ttopic: am
   piEmail: raw@polyspectra.com
   piFirstName: Raymond
   piLastName: Weitekamp
@@ -11970,7 +12319,8 @@
   awardeeZipCode: '981950001'
   fundsObligatedAmt: '909994'
   fundProgramName: SBIR Phase II
-  id: '1758699'
+  id: '1758699'
+  ttopic: w
   piEmail: nsfsbir2@jeevawireless.com
   piFirstName: Aaron
   piLastName: Parks
@@ -12019,7 +12369,8 @@
   awardeeZipCode: '606404510'
   fundsObligatedAmt: '680659'
   fundProgramName: STTR Phase II
-  id: '1738541'
+  id: '1738541'
+  ttopic: bt
   piEmail: bob@innoblative.com
   piFirstName: Robert
   piLastName: Rioux
@@ -12067,7 +12418,8 @@
   awardeeZipCode: '022152426'
   fundsObligatedAmt: '700115'
   fundProgramName: SBIR Phase II
-  id: '1738326'
+  id: '1738326'
+  ttopic: md
   piEmail: bryan@micro-leads.com
   piFirstName: Bryan
   piLastName: McLaughlin
@@ -12091,7 +12443,8 @@
   awardeeZipCode: '787034480'
   fundsObligatedAmt: '699985'
   fundProgramName: SBIR Phase II
-  id: '1738375'
+  id: '1738375'
+  ttopic: r
   piEmail: athomaz@diligentdroids.com
   piFirstName: Andrea
   piLastName: Thomaz
@@ -12114,7 +12467,8 @@
   awardeeZipCode: '212051508'
   fundsObligatedAmt: '1199981'
   fundProgramName: SBIR Phase II
-  id: '1738428'
+  id: '1738428'
+  ttopic: bm
   piEmail: greg.laird@accelevir.com
   piFirstName: Gregory
   piLastName: Laird
@@ -12138,7 +12492,8 @@
   awardeeZipCode: '941071552'
   fundsObligatedAmt: '1109999'
   fundProgramName: STTR Phase II
-  id: '1738560'
+  id: '1738560'
+  ttopic: md
   piEmail: charvi@aluna.io
   piFirstName: Charvi
   piLastName: Shetty
@@ -12161,7 +12516,8 @@
   awardeeZipCode: '752190000'
   fundsObligatedAmt: '739252'
   fundProgramName: SBIR Phase II
-  id: '1738325'
+  id: '1738325'
+  ttopic: ea
   piEmail: karin@fathomd.com
   piFirstName: Karin
   piLastName: Khoo
@@ -12184,7 +12540,8 @@
   awardeeZipCode: '701197009'
   fundsObligatedAmt: '750000'
   fundProgramName: SBIR Phase II
-  id: '1738540'
+  id: '1738540'
+  ttopic: ea
   piEmail: eric@patentdive.com
   piFirstName: Eric
   piLastName: Leininger
@@ -12234,7 +12591,8 @@
   awardeeZipCode: '875714395'
   fundsObligatedAmt: '1134180'
   fundProgramName: SBIR Phase II
-  id: '1738444'
+  id: '1738444'
+  ttopic: ea
   piEmail: scott@midschoolmath.com
   piFirstName: James
   piLastName: Laidlaw
@@ -12258,7 +12616,8 @@
   awardeeZipCode: '015453014'
   fundsObligatedAmt: '1177850'
   fundProgramName: SBIR Phase II
-  id: '1738027'
+  id: '1738027'
+  ttopic: ct
   piEmail: egratz@gmail.com
   piFirstName: Eric
   piLastName: Gratz
@@ -12282,7 +12641,8 @@
   awardeeZipCode: '276070000'
   fundsObligatedAmt: '923481'
   fundProgramName: SBIR Phase II
-  id: '1738387'
+  id: '1738387'
+  ttopic: m
   piEmail: furst@smartmaterialsolutions.com
   piFirstName: Stephen
   piLastName: Furst
@@ -12332,7 +12692,8 @@
   awardeeZipCode: '606404510'
   fundsObligatedAmt: '1250969'
   fundProgramName: SBIR Phase II
-  id: '1660240'
+  id: '1660240'
+  ttopic: bm
   piEmail: j.w.gunn@briteseed.com
   piFirstName: Jonathan
   piLastName: Gunn
@@ -12356,7 +12717,8 @@
   awardeeZipCode: '100010000'
   fundsObligatedAmt: '1417997'
   fundProgramName: SBIR Phase II
-  id: '1660093'
+  id: '1660093'
+  ttopic: i
   piEmail: haytham@1mmcorp.com
   piFirstName: Haytham
   piLastName: Elhawary
@@ -12405,7 +12767,8 @@
   awardeeZipCode: '537112021'
   fundsObligatedAmt: '890565'
   fundProgramName: SBIR Phase II
-  id: '1660175'
+  id: '1660175'
+  ttopic: se
   piEmail: nere@thalchemy.com
   piFirstName: Andrew
   piLastName: Nere
@@ -12436,7 +12799,7 @@
     in medical imaging, defense, robotics, and consumer electronics.  \n\nThe miniaturization
     of camera systems calls for the continuous shrinking of pixel sizes. At a certain
     point, however, the maximum photo-electrons a pixel can hold becomes limited,
-    yielding low signal-to-noise ratios and poor dynamic range. This project develops
+    yielding low signal-to-noise ratios and poor dynamic range. This project develops
     a novel optical sensor that maintains sensitivity down to hundreds of nanometers.
     As the size of this sensor decreases, the maximum measurable light intensity can
     remain constant and the signal-to-noise increases, bringing significant improvements
@@ -12458,7 +12821,8 @@
   awardeeZipCode: '606312736'
   fundsObligatedAmt: '917999'
   fundProgramName: SBIR Phase II
-  id: '1660145'
+  id: '1660145'
+  ttopic: ph
   piEmail: rcarder@pixelexx.com
   piFirstName: Renee
   piLastName: Carder
@@ -12482,7 +12846,8 @@
   awardeeZipCode: '148039750'
   fundsObligatedAmt: '871901'
   fundProgramName: SBIR Phase II
-  id: '1660075'
+  id: '1660075'
+  ttopic: m
   piEmail: roberts.peter01@gmail.com
   piFirstName: Peter
   piLastName: Roberts
@@ -12506,7 +12871,8 @@
   awardeeZipCode: '618223661'
   fundsObligatedAmt: '1059815'
   fundProgramName: SBIR Phase II
-  id: '1660236'
+  id: '1660236'
+  ttopic: bm
   piEmail: labriola@innsightech.com
   piFirstName: Leanne
   piLastName: Labriola
@@ -12532,7 +12898,8 @@
   awardeeZipCode: '921211627'
   fundsObligatedAmt: '750000'
   fundProgramName: STTR Phase II
-  id: '1660301'
+  id: '1660301'
+  ttopic: bm
   piEmail: mzimber@histogeninc.com
   piFirstName: Michael
   piLastName: Zimber
@@ -12555,7 +12922,8 @@
   awardeeZipCode: '760634883'
   fundsObligatedAmt: '880895'
   fundProgramName: SBIR Phase II
-  id: '1660022'
+  id: '1660022'
+  ttopic: ep
   piEmail: bgou@smart-elecgrid.com
   piFirstName: Bei
   piLastName: Gou
@@ -12577,7 +12945,8 @@
   awardeeZipCode: '152051422'
   fundsObligatedAmt: '1157433'
   fundProgramName: SBIR Phase II
-  id: '1660132'
+  id: '1660132'
+  ttopic: am
   piEmail: luebke@lumishieldtech.com
   piFirstName: David
   piLastName: Luebke
@@ -12600,7 +12969,8 @@
   awardeeZipCode: '943065921'
   fundsObligatedAmt: '1417978'
   fundProgramName: SBIR Phase II
-  id: '1660255'
+  id: '1660255'
+  ttopic: md
   piEmail: holly.rockweiler@gmail.com
   piFirstName: Holly
   piLastName: Rockweiler
@@ -12623,7 +12993,8 @@
   awardeeZipCode: '207420001'
   fundsObligatedAmt: '898766'
   fundProgramName: SBIR Phase II
-  id: '1660096'
+  id: '1660096'
+  ttopic: se
   piEmail: mehdi@resensys.com
   piFirstName: Mehdi
   piLastName: Khandani
@@ -12647,7 +13018,8 @@
   awardeeZipCode: '326016280'
   fundsObligatedAmt: '1360084'
   fundProgramName: SBIR Phase II
-  id: '1631871'
+  id: '1631871'
+  ttopic: dh
   piEmail: sherry.benton@taoconnect.org
   piFirstName: Sherry
   piLastName: Benton
@@ -12669,7 +13041,8 @@
   awardeeZipCode: '452123576'
   fundsObligatedAmt: '1247951'
   fundProgramName: SBIR Phase II
-  id: '1632270'
+  id: '1632270'
+  ttopic: bm
   piEmail: joekorf3@gmail.com
   piFirstName: Joseph
   piLastName: Korfhagen
@@ -12692,7 +13065,8 @@
   awardeeZipCode: '212240000'
   fundsObligatedAmt: '1399940'
   fundProgramName: SBIR Phase II
-  id: '1632424'
+  id: '1632424'
+  ttopic: bm
   piEmail: bkang@sonavex.com
   piFirstName: Xin
   piLastName: Kang
@@ -12715,7 +13089,8 @@
   awardeeZipCode: '949391824'
   fundsObligatedAmt: '1409998'
   fundProgramName: SBIR Phase II
-  id: '1632410'
+  id: '1632410'
+  ttopic: dh
   piEmail: klopiano@roundtableanalytics.com
   piFirstName: Kenneth
   piLastName: Lopiano
@@ -12770,7 +13145,8 @@
   awardeeZipCode: '871132284'
   fundsObligatedAmt: '899999'
   fundProgramName: SBIR Phase II
-  id: '1632408'
+  id: '1632408'
+  ttopic: ea
   piEmail: baldur@imagars.com
   piFirstName: Baldur
   piLastName: Steingrimsson
@@ -12792,7 +13168,8 @@
   awardeeZipCode: 024511209
   fundsObligatedAmt: '1110430'
   fundProgramName: SBIR Phase II
-  id: '1632274'
+  id: '1632274'
+  ttopic: r
   piEmail: sdomenikos@tactai.com
   piFirstName: Steven
   piLastName: Domenikos
@@ -12815,7 +13192,8 @@
   awardeeZipCode: '770983401'
   fundsObligatedAmt: '1409998'
   fundProgramName: SBIR Phase II
-  id: '1632565'
+  id: '1632565'
+  ttopic: w
   piEmail: ryan@skylarkwireless.com
   piFirstName: Ryan
   piLastName: Guerra
@@ -12839,7 +13217,8 @@
   awardeeZipCode: '191021710'
   fundsObligatedAmt: '1000170'
   fundProgramName: SBIR Phase II
-  id: '1632257'
+  id: '1632257'
+  ttopic: dh
   piEmail: johnnosek@verizon.net
   piFirstName: John
   piLastName: Nosek
@@ -12863,7 +13242,8 @@
   awardeeZipCode: '957586724'
   fundsObligatedAmt: '1255730'
   fundProgramName: SBIR Phase II
-  id: '1632721'
+  id: '1632721'
+  ttopic: ea
   piEmail: founders@lightup.io
   piFirstName: Tarun
   piLastName: Pondicherry
@@ -12917,7 +13297,8 @@
   awardeeZipCode: '981074933'
   fundsObligatedAmt: '1396184'
   fundProgramName: SBIR Phase II
-  id: '1556109'
+  id: '1556109'
+  ttopic: w
   piEmail: fredrik.ryden1@gmail.com
   piFirstName: Fredrik
   piLastName: Ryden
@@ -12966,7 +13347,8 @@
   awardeeZipCode: '606426308'
   fundsObligatedAmt: '1178187'
   fundProgramName: SBIR Phase II
-  id: '1555928'
+  id: '1555928'
+  ttopic: w
   piEmail: triedl@oceancomm.co
   piFirstName: Thomas
   piLastName: Riedl
@@ -13007,7 +13389,8 @@
   awardeeZipCode: '804031103'
   fundsObligatedAmt: '1426690'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556058'
+  id: '1556058'
+  ttopic: r
   piEmail: mhorowit@caltech.edu
   piFirstName: Matanya
   piLastName: Horowitz
@@ -13030,7 +13413,8 @@
   awardeeZipCode: '981020000'
   fundsObligatedAmt: '1010229'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534750'
+  id: '1534750'
+  ttopic: bm
   piEmail: lting@stasysmedical.com
   piFirstName: Lucas
   piLastName: Ting
@@ -13055,7 +13439,8 @@
   awardeeZipCode: '805212807'
   fundsObligatedAmt: '1127526'
   fundProgramName: SBIR Phase II
-  id: '1534786'
+  id: '1534786'
+  ttopic: ct
   piEmail: danlionberg@accsensors.com
   piFirstName: Daniel
   piLastName: Miller-Lionberg
@@ -13096,7 +13481,8 @@
   awardeeZipCode: '910201516'
   fundsObligatedAmt: '1113517'
   fundProgramName: SBIR Phase II
-  id: '1534524'
+  id: '1534524'
+  ttopic: r
   piEmail: vijay.anandani@syntouchinc.com
   piFirstName: Vijay
   piLastName: Anandani
@@ -13121,7 +13507,8 @@
   awardeeZipCode: '123061219'
   fundsObligatedAmt: '1043748'
   fundProgramName: SBIR Phase II
-  id: '1534709'
+  id: '1534709'
+  ttopic: am
   piEmail: casey@vistexcomposites.com
   piFirstName: Casey
   piLastName: Hoffman
@@ -13147,7 +13534,8 @@
   awardeeZipCode: '920071438'
   fundsObligatedAmt: '748494'
   fundProgramName: SBIR Phase II
-  id: '1926937'
+  id: '1926937'
+  ttopic: ct
   piEmail: mtessman@algenesismaterials.com
   piFirstName: Marissa
   piLastName: Tessman
@@ -13172,7 +13560,8 @@
   awardeeZipCode: '852680000'
   fundsObligatedAmt: '732880'
   fundProgramName: SBIR Phase II
-  id: '1831148'
+  id: '1831148'
+  ttopic: ph
   piEmail: cobytao@tg-companies.com
   piFirstName: Coby
   piLastName: Tao
@@ -13231,7 +13620,8 @@
   awardeeZipCode: '620254298'
   fundsObligatedAmt: '752148'
   fundProgramName: SBIR Phase II
-  id: '1660242'
+  id: '1660242'
+  ttopic: ea
   piEmail: corrine@vital-ed.com
   piFirstName: Corrine
   piLastName: Mueller
@@ -13255,7 +13645,8 @@
   awardeeZipCode: 018642636
   fundsObligatedAmt: '1287318'
   fundProgramName: SBIR Phase II
-  id: '1660216'
+  id: '1660216'
+  ttopic: ea
   piEmail: sheela@cuethink.com
   piFirstName: Sheela
   piLastName: Sethuraman
@@ -13278,7 +13669,8 @@
   awardeeZipCode: '802183431'
   fundsObligatedAmt: '1159093'
   fundProgramName: SBIR Phase II
-  id: '1660021'
+  id: '1660021'
+  ttopic: ea
   piEmail: melissa@couragion.com
   piFirstName: Melissa
   piLastName: Risteff
@@ -13290,4 +13682,3 @@
   title: 'SBIR Phase II:  Science, Technology, Engineering, and Math (STEM) Career
     Literacy & Advocacy'
 ---
-
