@@ -479,7 +479,8 @@
   awardeeZipCode: 021111901
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1938756'
+  id: '1938756'
+  ttopic: bm
   piEmail: dale@mytide.io
   piFirstName: Dale
   piLastName: Thomas
@@ -937,7 +938,8 @@
   awardeeZipCode: '481051968'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1951480'
+  id: '1951480'
+  ttopic: ep
   piEmail: jamesjmc@umich.edu
   piFirstName: James
   piLastName: McCullagh
@@ -3461,7 +3463,8 @@
   awardeeZipCode: '841120110'
   fundsObligatedAmt: '223956'
   fundProgramName: SBIR Phase I
-  id: '1940212'
+  id: '1940212'
+  ttopic: i
   piEmail: AReaburn@ParticleFlux.net
   piFirstName: Allan
   piLastName: Reaburn
@@ -3487,7 +3490,8 @@
   awardeeZipCode: '347879806'
   fundsObligatedAmt: '223468'
   fundProgramName: SBIR Phase I
-  id: '1939349'
+  id: '1939349'
+  ttopic: it
   piEmail: devums@unknot.id
   piFirstName: Devu
   piLastName: Shila
@@ -3535,7 +3539,8 @@
   awardeeZipCode: '840977533'
   fundsObligatedAmt: '224781'
   fundProgramName: SBIR Phase I
-  id: '1938627'
+  id: '1938627'
+  ttopic: am
   piEmail: sam.wilding@xonano.com
   piFirstName: Samuel
   piLastName: Wilding
@@ -3560,7 +3565,8 @@
   awardeeZipCode: '618213831'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1938235'
+  id: '1938235'
+  ttopic: m
   piEmail: mseufferheld@gmail.com
   piFirstName: Manfredo
   piLastName: Seufferheld
@@ -3611,7 +3617,8 @@
   awardeeZipCode: '100655604'
   fundsObligatedAmt: '224647'
   fundProgramName: STTR Phase I
-  id: '1938485'
+  id: '1938485'
+  ttopic: ai
   piEmail: aiden@thermoai.com
   piFirstName: Aiden
   piLastName: Livingston
@@ -3658,7 +3665,8 @@
   awardeeZipCode: '840701649'
   fundsObligatedAmt: '224959'
   fundProgramName: SBIR Phase I
-  id: '1937896'
+  id: '1937896'
+  ttopic: md
   piEmail: mike@accubreath.com
   piFirstName: Michael
   piLastName: Fogarty
@@ -3704,7 +3712,8 @@
   awardeeZipCode: '834024651'
   fundsObligatedAmt: '224966'
   fundProgramName: SBIR Phase I
-  id: '1936152'
+  id: '1936152'
+  ttopic: sp
   piEmail: troy@howeindustries.net
   piFirstName: Troy
   piLastName: Howe
@@ -3729,7 +3738,8 @@
   awardeeZipCode: '972023332'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1940087'
+  id: '1940087'
+  ttopic: am
   piEmail: parisiemily7@gmail.com
   piFirstName: Emily
   piLastName: Parisi
@@ -3754,7 +3764,8 @@
   awardeeZipCode: '618227415'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1940018'
+  id: '1940018'
+  ttopic: am
   piEmail: john9101seo@gmail.com
   piFirstName: John
   piLastName: Seo
@@ -3801,7 +3812,8 @@
   awardeeZipCode: '222091706'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1938526'
+  id: '1938526'
+  ttopic: ct
   piEmail: datotir@gmail.com
   piFirstName: Dana
   piLastName: Totir
@@ -5422,7 +5434,7 @@
   fundsObligatedAmt: '224943'
   fundProgramName: SBIR Phase I
   id: '1914184'
-  ttopic: it
+  ttopic: ai
   piEmail: george@atlasai.co
   piFirstName: George
   piLastName: Azzari
@@ -7971,7 +7983,8 @@
   awardeeZipCode: '132023119'
   fundsObligatedAmt: '224996'
   fundProgramName: SBIR Phase I
-  id: '1938518'
+  id: '1938518'
+  ttopic: r
   piEmail: sasi@akrobotix.com
   piFirstName: Sasi
   piLastName: Prabhakaran
@@ -9040,7 +9053,8 @@
   awardeeZipCode: '943056002'
   fundsObligatedAmt: '224251'
   fundProgramName: SBIR Phase I
-  id: '1941226'
+  id: '1941226'
+  ttopic: md
   piEmail: Eric@preventamedical.com
   piFirstName: Eric
   piLastName: Hassey
@@ -9065,7 +9079,8 @@
   awardeeZipCode: '152171967'
   fundsObligatedAmt: '225000'
   fundProgramName: SBIR Phase I
-  id: '1941405'
+  id: '1941405'
+  ttopic: r
   piEmail: studiller@gmail.com
   piFirstName: Stuart
   piLastName: Diller
@@ -9115,7 +9130,8 @@
   awardeeZipCode: '341148416'
   fundsObligatedAmt: '223423'
   fundProgramName: SBIR Phase I
-  id: '1940392'
+  id: '1940392'
+  ttopic: s
   piEmail: jdilorenzo@wave-array.com
   piFirstName: James
   piLastName: DiLorenzo
@@ -10146,7 +10162,7 @@
   fundsObligatedAmt: '224590'
   fundProgramName: STTR Phase I
   id: '1843965'
-  ttopic: ih
+  ttopic: i
   piEmail: laz.german@gmail.com
   piFirstName: Lazarus
   piLastName: German
@@ -15001,28 +15017,4 @@
   expDate: 06/30/2020
   title: 'SBIR Phase I:  Development Of A Sensor System For Feedback Guided Manual
     Ventilation With A Bag Valve Mask.'
-- abstractText: |-
-    We propose a "listen and learn" workshop to facilitate partnerships between NSF and Native American/Alaska Native (NA/AN) communities in the US to develop an innovation and STEM/STEAM-based entrepreneurship curriculum and incubator program.  The goals are to collect, understand, and document best practices among existing entrepreneurship incubator programs in NA/AN communities as well as envision what an entrepreneurship incubator program could look like.  Workshop participants will come away with knowledge of community needs, existing, existing successful models for NA/AN entrepreneurship programs, NSF entrepreneurship, lean launchpad, and the business model canvas; skills including: Customer discovery process; STEM, social, and community-based culturally-relevant entrepreneurship; positive attitudes around defining individual entrepreneurial mindsets and imagining a future NA/AN entrepreneurship incubator program.  The activity will help advance understanding of best practices among existing entrepreneurship incubator programs in NA/AN communities and to help develop a vision for what an NSF-sponsored program for NA/AN STEM entrepreneurs could look like.  It will lay a ground work for a pilot cohort of NA/AN entrepreneurs to participate in a culturally relevant I-Corps variant, Culturally Relevant Enterprise Development (CRED) program that could ultimately be expanded to other communities.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: ORSPA
-  awardeeCity: TEMPE
-  awardeeCountryCode: US
-  awardeeName: Arizona State University
-  awardeeStateCode: AZ
-  awardeeZipCode: '852816011'
-  fundsObligatedAmt: '48570'
-  fundProgramName: SBIR Phase I
-  id: '1931001'
-  piEmail: Shawn.S.Jordan@asu.edu
-  piFirstName: Shawn
-  piLastName: Jordan
-  piMiddeInitial: S
-  piPhone: '4807271405'
-  poName: Linda Molnar
-  date: 04/17/2019
-  startDate: 04/15/2019
-  expDate: 03/31/2020
-  title: 'Workshop: Culturally Relevant Enterprise Development (CRED) for Tribal Colleges
-    Listen and Learn'
 ---
